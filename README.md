@@ -17,3 +17,5 @@ CalculatingBirdDiversity - calculating species richness of sites.
 BirdSpeciesRichness - all species richness analyses.
 
 BirdDissimilarity - all community composition analyses.
+
+CoL_Sites_Map - code to create a map of the City of London.
