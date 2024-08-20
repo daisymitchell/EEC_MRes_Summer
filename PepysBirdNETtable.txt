@@ -1,0 +1,532 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	136.0	139.0	0	12000.0	Tree Pipit	trepip	0.7264	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_123000.wav	16.0
+2	Spectrogram 1	1	1163.0	1166.0	0	12000.0	Dunnock	dunnoc1	0.5206	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_135500.wav	23.0
+3	Spectrogram 1	1	1187.0	1190.0	0	12000.0	Dunnock	dunnoc1	0.5713	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_135500.wav	47.0
+4	Spectrogram 1	1	1188.0	1191.0	0	12000.0	Dunnock	dunnoc1	0.6238	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_135500.wav	48.0
+5	Spectrogram 1	1	6113.0	6116.0	0	12000.0	Dunnock	dunnoc1	0.6943	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_204500.wav	53.0
+6	Spectrogram 1	1	6114.0	6117.0	0	12000.0	Dunnock	dunnoc1	0.8008	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_204500.wav	54.0
+7	Spectrogram 1	1	6115.0	6118.0	0	12000.0	Dunnock	dunnoc1	0.6468	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_204500.wav	55.0
+8	Spectrogram 1	1	6306.0	6309.0	0	12000.0	Dunnock	dunnoc1	0.6525	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_210502.wav	15.0
+9	Spectrogram 1	1	6307.0	6310.0	0	12000.0	Dunnock	dunnoc1	0.6984	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_210502.wav	16.0
+10	Spectrogram 1	1	6308.0	6311.0	0	12000.0	Dunnock	dunnoc1	0.6859	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_210502.wav	17.0
+11	Spectrogram 1	1	7299.0	7302.0	0	12000.0	Peregrine Falcon	perfal	0.7565	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240611_223002.wav	39.0
+12	Spectrogram 1	1	8404.0	8407.0	0	12000.0	Song Thrush	sonthr1	0.5072	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_001002.wav	4.0
+13	Spectrogram 1	1	9377.0	9380.0	0	12000.0	Song Thrush	sonthr1	0.5646	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_013502.wav	8.0
+14	Spectrogram 1	1	10509.0	10512.0	0	12000.0	European Robin	eurrob1	0.8391	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	0
+15	Spectrogram 1	1	10515.0	10518.0	0	12000.0	European Robin	eurrob1	0.8462	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	6.0
+16	Spectrogram 1	1	10516.0	10519.0	0	12000.0	European Robin	eurrob1	0.8979	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	7.0
+17	Spectrogram 1	1	10517.0	10520.0	0	12000.0	European Robin	eurrob1	0.8686	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	8.0
+18	Spectrogram 1	1	10518.0	10521.0	0	12000.0	European Robin	eurrob1	0.7882	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	9.0
+19	Spectrogram 1	1	10519.0	10522.0	0	12000.0	European Robin	eurrob1	0.8296	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	10.0
+20	Spectrogram 1	1	10520.0	10523.0	0	12000.0	European Robin	eurrob1	0.8349	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	11.0
+21	Spectrogram 1	1	10524.0	10527.0	0	12000.0	European Robin	eurrob1	0.6500	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	15.0
+22	Spectrogram 1	1	10525.0	10528.0	0	12000.0	European Robin	eurrob1	0.8538	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	16.0
+23	Spectrogram 1	1	10526.0	10529.0	0	12000.0	European Robin	eurrob1	0.9109	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	17.0
+24	Spectrogram 1	1	10527.0	10530.0	0	12000.0	European Robin	eurrob1	0.8129	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	18.0
+25	Spectrogram 1	1	10530.0	10533.0	0	12000.0	European Robin	eurrob1	0.6012	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	21.0
+26	Spectrogram 1	1	10531.0	10534.0	0	12000.0	European Robin	eurrob1	0.8773	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	22.0
+27	Spectrogram 1	1	10532.0	10535.0	0	12000.0	European Robin	eurrob1	0.8915	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	23.0
+28	Spectrogram 1	1	10533.0	10536.0	0	12000.0	European Robin	eurrob1	0.8506	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	24.0
+29	Spectrogram 1	1	10534.0	10537.0	0	12000.0	European Robin	eurrob1	0.8008	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	25.0
+30	Spectrogram 1	1	10535.0	10538.0	0	12000.0	European Robin	eurrob1	0.8715	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	26.0
+31	Spectrogram 1	1	10536.0	10539.0	0	12000.0	European Robin	eurrob1	0.8329	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	27.0
+32	Spectrogram 1	1	10537.0	10540.0	0	12000.0	European Robin	eurrob1	0.7064	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	28.0
+33	Spectrogram 1	1	10538.0	10541.0	0	12000.0	European Robin	eurrob1	0.8125	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	29.0
+34	Spectrogram 1	1	10539.0	10542.0	0	12000.0	European Robin	eurrob1	0.6559	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	30.0
+35	Spectrogram 1	1	10540.0	10543.0	0	12000.0	European Robin	eurrob1	0.6985	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	31.0
+36	Spectrogram 1	1	10541.0	10544.0	0	12000.0	European Robin	eurrob1	0.8457	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	32.0
+37	Spectrogram 1	1	10542.0	10545.0	0	12000.0	European Robin	eurrob1	0.8750	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	33.0
+38	Spectrogram 1	1	10543.0	10546.0	0	12000.0	European Robin	eurrob1	0.8254	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	34.0
+39	Spectrogram 1	1	10544.0	10547.0	0	12000.0	European Robin	eurrob1	0.7448	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	35.0
+40	Spectrogram 1	1	10545.0	10548.0	0	12000.0	European Robin	eurrob1	0.8765	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	36.0
+41	Spectrogram 1	1	10546.0	10549.0	0	12000.0	European Robin	eurrob1	0.7628	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	37.0
+42	Spectrogram 1	1	10549.0	10552.0	0	12000.0	European Robin	eurrob1	0.6720	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	40.0
+43	Spectrogram 1	1	10550.0	10553.0	0	12000.0	European Robin	eurrob1	0.5989	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	41.0
+44	Spectrogram 1	1	10551.0	10554.0	0	12000.0	European Robin	eurrob1	0.8612	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	42.0
+45	Spectrogram 1	1	10552.0	10555.0	0	12000.0	European Robin	eurrob1	0.7682	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	43.0
+46	Spectrogram 1	1	10553.0	10556.0	0	12000.0	European Robin	eurrob1	0.8690	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	44.0
+47	Spectrogram 1	1	10554.0	10557.0	0	12000.0	European Robin	eurrob1	0.7885	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	45.0
+48	Spectrogram 1	1	10555.0	10558.0	0	12000.0	European Robin	eurrob1	0.7577	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	46.0
+49	Spectrogram 1	1	10557.0	10560.0	0	12000.0	European Robin	eurrob1	0.5058	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	48.0
+50	Spectrogram 1	1	10558.0	10561.0	0	12000.0	European Robin	eurrob1	0.6646	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	49.0
+51	Spectrogram 1	1	10560.0	10563.0	0	12000.0	European Robin	eurrob1	0.6459	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	51.0
+52	Spectrogram 1	1	10561.0	10564.0	0	12000.0	European Robin	eurrob1	0.6900	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	52.0
+53	Spectrogram 1	1	10562.0	10565.0	0	12000.0	European Robin	eurrob1	0.7619	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_031502.wav	53.0
+54	Spectrogram 1	1	10742.0	10745.0	0	12000.0	Song Thrush	sonthr1	0.5215	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_033502.wav	5.0
+55	Spectrogram 1	1	10819.0	10822.0	0	12000.0	Egyptian Goose	egygoo	0.5503	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_034002.wav	25.0
+56	Spectrogram 1	1	10820.0	10823.0	0	12000.0	Egyptian Goose	egygoo	0.5005	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_034002.wav	26.0
+57	Spectrogram 1	1	10996.0	10999.0	0	12000.0	European Robin	eurrob1	0.7117	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	31.0
+58	Spectrogram 1	1	10997.0	11000.0	0	12000.0	European Robin	eurrob1	0.6877	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	32.0
+59	Spectrogram 1	1	10998.0	11001.0	0	12000.0	European Robin	eurrob1	0.5227	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	33.0
+60	Spectrogram 1	1	10999.0	11002.0	0	12000.0	European Robin	eurrob1	0.7157	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	34.0
+61	Spectrogram 1	1	11000.0	11003.0	0	12000.0	European Robin	eurrob1	0.6611	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	35.0
+62	Spectrogram 1	1	11008.0	11011.0	0	12000.0	European Robin	eurrob1	0.5301	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	43.0
+63	Spectrogram 1	1	11009.0	11012.0	0	12000.0	European Robin	eurrob1	0.7191	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	44.0
+64	Spectrogram 1	1	11010.0	11013.0	0	12000.0	European Robin	eurrob1	0.5672	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	45.0
+65	Spectrogram 1	1	11014.0	11017.0	0	12000.0	European Robin	eurrob1	0.5871	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	49.0
+66	Spectrogram 1	1	11015.0	11018.0	0	12000.0	European Robin	eurrob1	0.7107	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	50.0
+67	Spectrogram 1	1	11016.0	11019.0	0	12000.0	European Robin	eurrob1	0.6340	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	51.0
+68	Spectrogram 1	1	11019.0	11022.0	0	12000.0	European Robin	eurrob1	0.6658	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	54.0
+69	Spectrogram 1	1	11020.0	11023.0	0	12000.0	European Robin	eurrob1	0.6967	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_035502.wav	55.0
+70	Spectrogram 1	1	11160.0	11163.0	0	12000.0	Eurasian Green Woodpecker	eugwoo2	0.6570	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_041002.wav	24.0
+71	Spectrogram 1	1	11171.0	11174.0	0	12000.0	Eurasian Green Woodpecker	eugwoo2	0.6697	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_041002.wav	35.0
+72	Spectrogram 1	1	11212.0	11215.0	0	12000.0	Herring Gull	hergul	0.5543	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_041502.wav	19.0
+73	Spectrogram 1	1	11214.0	11217.0	0	12000.0	Herring Gull	hergul	0.5957	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_041502.wav	21.0
+74	Spectrogram 1	1	11215.0	11218.0	0	12000.0	Herring Gull	hergul	0.5560	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_041502.wav	22.0
+75	Spectrogram 1	1	11577.0	11580.0	0	12000.0	Carrion Crow	carcro1	0.6029	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_044502.wav	42.0
+76	Spectrogram 1	1	11578.0	11581.0	0	12000.0	Carrion Crow	carcro1	0.6502	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_044502.wav	43.0
+77	Spectrogram 1	1	11579.0	11582.0	0	12000.0	Carrion Crow	carcro1	0.5621	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_044502.wav	44.0
+78	Spectrogram 1	1	11650.0	11653.0	0	12000.0	Dunnock	dunnoc1	0.5454	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	1.0
+79	Spectrogram 1	1	11651.0	11654.0	0	12000.0	Dunnock	dunnoc1	0.6508	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	2.0
+80	Spectrogram 1	1	11652.0	11655.0	0	12000.0	Dunnock	dunnoc1	0.8501	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	3.0
+81	Spectrogram 1	1	11653.0	11656.0	0	12000.0	Dunnock	dunnoc1	0.7725	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	4.0
+82	Spectrogram 1	1	11654.0	11657.0	0	12000.0	Dunnock	dunnoc1	0.8055	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	5.0
+83	Spectrogram 1	1	11655.0	11658.0	0	12000.0	Dunnock	dunnoc1	0.6395	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	6.0
+84	Spectrogram 1	1	11656.0	11659.0	0	12000.0	Dunnock	dunnoc1	0.5565	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	7.0
+85	Spectrogram 1	1	11659.0	11662.0	0	12000.0	Dunnock	dunnoc1	0.7039	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	10.0
+86	Spectrogram 1	1	11661.0	11664.0	0	12000.0	Dunnock	dunnoc1	0.6770	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	12.0
+87	Spectrogram 1	1	11665.0	11668.0	0	12000.0	Dunnock	dunnoc1	0.5943	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	16.0
+88	Spectrogram 1	1	11671.0	11674.0	0	12000.0	Short-toed Treecreeper	shttre1	0.5956	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	22.0
+89	Spectrogram 1	1	11675.0	11678.0	0	12000.0	Short-toed Treecreeper	shttre1	0.5096	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	26.0
+90	Spectrogram 1	1	11677.0	11680.0	0	12000.0	Dunnock	dunnoc1	0.5250	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	28.0
+91	Spectrogram 1	1	11679.0	11682.0	0	12000.0	Dunnock	dunnoc1	0.8255	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	30.0
+92	Spectrogram 1	1	11680.0	11683.0	0	12000.0	Dunnock	dunnoc1	0.6203	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	31.0
+93	Spectrogram 1	1	11684.0	11687.0	0	12000.0	Dunnock	dunnoc1	0.6735	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	35.0
+94	Spectrogram 1	1	11689.0	11692.0	0	12000.0	Dunnock	dunnoc1	0.7230	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	40.0
+95	Spectrogram 1	1	11690.0	11693.0	0	12000.0	Dunnock	dunnoc1	0.8174	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	41.0
+96	Spectrogram 1	1	11691.0	11694.0	0	12000.0	Dunnock	dunnoc1	0.8455	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	42.0
+97	Spectrogram 1	1	11692.0	11695.0	0	12000.0	Dunnock	dunnoc1	0.8126	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	43.0
+98	Spectrogram 1	1	11693.0	11696.0	0	12000.0	Dunnock	dunnoc1	0.6211	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	44.0
+99	Spectrogram 1	1	11694.0	11697.0	0	12000.0	Short-toed Treecreeper	shttre1	0.6681	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	45.0
+100	Spectrogram 1	1	11695.0	11698.0	0	12000.0	Dunnock	dunnoc1	0.7016	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	46.0
+101	Spectrogram 1	1	11696.0	11699.0	0	12000.0	Dunnock	dunnoc1	0.5307	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	47.0
+102	Spectrogram 1	1	11697.0	11700.0	0	12000.0	Short-toed Treecreeper	shttre1	0.6229	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	48.0
+103	Spectrogram 1	1	11698.0	11701.0	0	12000.0	Short-toed Treecreeper	shttre1	0.5837	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	49.0
+104	Spectrogram 1	1	11699.0	11702.0	0	12000.0	Dunnock	dunnoc1	0.6510	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	50.0
+105	Spectrogram 1	1	11700.0	11703.0	0	12000.0	Dunnock	dunnoc1	0.6746	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	51.0
+106	Spectrogram 1	1	11703.0	11706.0	0	12000.0	Dunnock	dunnoc1	0.5584	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	54.0
+107	Spectrogram 1	1	11704.0	11707.0	0	12000.0	Short-toed Treecreeper	shttre1	0.5020	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_045502.wav	55.0
+108	Spectrogram 1	1	11771.0	11774.0	0	12000.0	White Wagtail	whiwag	0.5268	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_050502.wav	8.0
+109	Spectrogram 1	1	11772.0	11775.0	0	12000.0	White Wagtail	whiwag	0.5540	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_050502.wav	9.0
+110	Spectrogram 1	1	11773.0	11776.0	0	12000.0	White Wagtail	whiwag	0.5221	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_050502.wav	10.0
+111	Spectrogram 1	1	12429.0	12432.0	0	12000.0	Herring Gull	hergul	0.5649	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_060000.wav	12.0
+112	Spectrogram 1	1	12430.0	12433.0	0	12000.0	Herring Gull	hergul	0.5481	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_060000.wav	13.0
+113	Spectrogram 1	1	12431.0	12434.0	0	12000.0	Herring Gull	hergul	0.6075	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_060000.wav	14.0
+114	Spectrogram 1	1	14471.0	14474.0	0	12000.0	Eurasian Magpie	eurmag1	0.7530	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_085000.wav	14.0
+115	Spectrogram 1	1	14472.0	14475.0	0	12000.0	Eurasian Magpie	eurmag1	0.5868	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_085000.wav	15.0
+116	Spectrogram 1	1	14498.0	14501.0	0	12000.0	Eurasian Magpie	eurmag1	0.8487	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_085000.wav	41.0
+117	Spectrogram 1	1	14499.0	14502.0	0	12000.0	Eurasian Magpie	eurmag1	0.9462	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_085000.wav	42.0
+118	Spectrogram 1	1	14500.0	14503.0	0	12000.0	Eurasian Magpie	eurmag1	0.8050	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_085000.wav	43.0
+119	Spectrogram 1	1	15967.0	15970.0	0	12000.0	Dunnock	dunnoc1	0.5418	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_105500.wav	10.0
+120	Spectrogram 1	1	16155.0	16158.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5171	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_111000.wav	18.0
+121	Spectrogram 1	1	16156.0	16159.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5038	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_111000.wav	19.0
+122	Spectrogram 1	1	16879.0	16882.0	0	12000.0	Herring Gull	hergul	0.5599	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_121000.wav	22.0
+123	Spectrogram 1	1	19961.0	19964.0	0	12000.0	Common Murre	commur	0.5035	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_162500.wav	44.0
+124	Spectrogram 1	1	20181.0	20184.0	0	12000.0	Eurasian Magpie	eurmag1	0.6714	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	24.0
+125	Spectrogram 1	1	20182.0	20185.0	0	12000.0	Eurasian Magpie	eurmag1	0.7421	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	25.0
+126	Spectrogram 1	1	20183.0	20186.0	0	12000.0	Eurasian Magpie	eurmag1	0.6645	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	26.0
+127	Spectrogram 1	1	20184.0	20187.0	0	12000.0	Eurasian Magpie	eurmag1	0.8275	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	27.0
+128	Spectrogram 1	1	20185.0	20188.0	0	12000.0	Eurasian Magpie	eurmag1	0.7709	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	28.0
+129	Spectrogram 1	1	20186.0	20189.0	0	12000.0	Eurasian Magpie	eurmag1	0.7096	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	29.0
+130	Spectrogram 1	1	20187.0	20190.0	0	12000.0	Eurasian Magpie	eurmag1	0.6057	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	30.0
+131	Spectrogram 1	1	20188.0	20191.0	0	12000.0	Eurasian Magpie	eurmag1	0.7277	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	31.0
+132	Spectrogram 1	1	20189.0	20192.0	0	12000.0	Eurasian Magpie	eurmag1	0.7330	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	32.0
+133	Spectrogram 1	1	20190.0	20193.0	0	12000.0	Eurasian Magpie	eurmag1	0.8211	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	33.0
+134	Spectrogram 1	1	20191.0	20194.0	0	12000.0	Eurasian Magpie	eurmag1	0.6446	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	34.0
+135	Spectrogram 1	1	20192.0	20195.0	0	12000.0	Eurasian Magpie	eurmag1	0.8052	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	35.0
+136	Spectrogram 1	1	20193.0	20196.0	0	12000.0	Eurasian Magpie	eurmag1	0.7548	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	36.0
+137	Spectrogram 1	1	20196.0	20199.0	0	12000.0	Eurasian Magpie	eurmag1	0.6022	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	39.0
+138	Spectrogram 1	1	20199.0	20202.0	0	12000.0	Eurasian Magpie	eurmag1	0.5650	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	42.0
+139	Spectrogram 1	1	20200.0	20203.0	0	12000.0	Eurasian Magpie	eurmag1	0.5392	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_164500.wav	43.0
+140	Spectrogram 1	1	24870.0	24873.0	0	12000.0	Carrion Crow	carcro1	0.5260	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240612_232502.wav	6.0
+141	Spectrogram 1	1	26976.0	26979.0	0	12000.0	Song Thrush	sonthr1	0.5189	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_023002.wav	3.0
+142	Spectrogram 1	1	27832.0	27835.0	0	12000.0	Song Thrush	sonthr1	0.6409	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_034502.wav	4.0
+143	Spectrogram 1	1	28113.0	28116.0	0	12000.0	Carrion Crow	carcro1	0.5826	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_041002.wav	0
+144	Spectrogram 1	1	28139.0	28142.0	0	12000.0	Carrion Crow	carcro1	0.6843	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_041002.wav	26.0
+145	Spectrogram 1	1	28140.0	28143.0	0	12000.0	Carrion Crow	carcro1	0.6381	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_041002.wav	27.0
+146	Spectrogram 1	1	28141.0	28144.0	0	12000.0	Carrion Crow	carcro1	0.5178	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_041002.wav	28.0
+147	Spectrogram 1	1	28264.0	28267.0	0	12000.0	Herring Gull	hergul	0.5665	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_042002.wav	37.0
+148	Spectrogram 1	1	28268.0	28271.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5133	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_042002.wav	41.0
+149	Spectrogram 1	1	31901.0	31904.0	0	12000.0	Dunnock	dunnoc1	0.5250	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_092500.wav	47.0
+150	Spectrogram 1	1	32676.0	32679.0	0	12000.0	Carrion Crow	carcro1	0.5328	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_103000.wav	42.0
+151	Spectrogram 1	1	32677.0	32680.0	0	12000.0	Carrion Crow	carcro1	0.5789	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_103000.wav	43.0
+152	Spectrogram 1	1	32715.0	32718.0	0	12000.0	Carrion Crow	carcro1	0.6082	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_103500.wav	21.0
+153	Spectrogram 1	1	32716.0	32719.0	0	12000.0	Carrion Crow	carcro1	0.7059	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_103500.wav	22.0
+154	Spectrogram 1	1	32814.0	32817.0	0	12000.0	Mallard	mallar3	0.6921	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_104500.wav	0
+155	Spectrogram 1	1	33566.0	33569.0	0	12000.0	Dunnock	dunnoc1	0.5818	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_114500.wav	32.0
+156	Spectrogram 1	1	33636.0	33639.0	0	12000.0	Mallard	mallar3	0.5077	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_115000.wav	42.0
+157	Spectrogram 1	1	34187.0	34190.0	0	12000.0	Carrion Crow	carcro1	0.5647	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_123500.wav	53.0
+158	Spectrogram 1	1	35347.0	35350.0	0	12000.0	Mallard	mallar3	0.5704	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_141500.wav	13.0
+159	Spectrogram 1	1	35348.0	35351.0	0	12000.0	Mallard	mallar3	0.5538	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_141500.wav	14.0
+160	Spectrogram 1	1	35498.0	35501.0	0	12000.0	Mallard	mallar3	0.5387	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_142500.wav	44.0
+161	Spectrogram 1	1	36401.0	36404.0	0	12000.0	Eurasian Blackbird	eurbla	0.5786	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_154000.wav	47.0
+162	Spectrogram 1	1	36402.0	36405.0	0	12000.0	Eurasian Blackbird	eurbla	0.6137	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_154000.wav	48.0
+163	Spectrogram 1	1	36405.0	36408.0	0	12000.0	Eurasian Blackbird	eurbla	0.5355	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_154000.wav	51.0
+164	Spectrogram 1	1	36407.0	36410.0	0	12000.0	Eurasian Blackbird	eurbla	0.5540	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240613_154000.wav	53.0
+165	Spectrogram 1	1	44862.0	44865.0	0	12000.0	Mistle Thrush	misthr1	0.7360	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_035002.wav	0
+166	Spectrogram 1	1	44863.0	44866.0	0	12000.0	Mistle Thrush	misthr1	0.8027	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_035002.wav	1.0
+167	Spectrogram 1	1	44866.0	44869.0	0	12000.0	Eurasian Blackbird	eurbla	0.5141	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_035002.wav	4.0
+168	Spectrogram 1	1	45361.0	45364.0	0	12000.0	Carrion Crow	carcro1	0.5396	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043002.wav	43.0
+169	Spectrogram 1	1	45367.0	45370.0	0	12000.0	Carrion Crow	carcro1	0.6039	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043002.wav	49.0
+170	Spectrogram 1	1	45368.0	45371.0	0	12000.0	Carrion Crow	carcro1	0.5543	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043002.wav	50.0
+171	Spectrogram 1	1	45369.0	45372.0	0	12000.0	Carrion Crow	carcro1	0.5422	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043002.wav	51.0
+172	Spectrogram 1	1	45371.0	45374.0	0	12000.0	Carrion Crow	carcro1	0.5215	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043002.wav	53.0
+173	Spectrogram 1	1	45372.0	45375.0	0	12000.0	Carrion Crow	carcro1	0.5232	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043002.wav	54.0
+174	Spectrogram 1	1	45375.0	45378.0	0	12000.0	Eurasian Magpie	eurmag1	0.9016	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043502.wav	0
+175	Spectrogram 1	1	45392.0	45395.0	0	12000.0	Carrion Crow	carcro1	0.5643	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043502.wav	17.0
+176	Spectrogram 1	1	45393.0	45396.0	0	12000.0	Carrion Crow	carcro1	0.5308	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043502.wav	18.0
+177	Spectrogram 1	1	45394.0	45397.0	0	12000.0	Carrion Crow	carcro1	0.5888	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043502.wav	19.0
+178	Spectrogram 1	1	45395.0	45398.0	0	12000.0	Carrion Crow	carcro1	0.5644	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_043502.wav	20.0
+179	Spectrogram 1	1	45560.0	45563.0	0	12000.0	Great Black-backed Gull	gbbgul	0.6434	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_045002.wav	14.0
+180	Spectrogram 1	1	46173.0	46176.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5114	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_054000.wav	42.0
+181	Spectrogram 1	1	46436.0	46439.0	0	12000.0	European Robin	eurrob1	0.5387	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	5.0
+182	Spectrogram 1	1	46439.0	46442.0	0	12000.0	European Robin	eurrob1	0.7517	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	8.0
+183	Spectrogram 1	1	46440.0	46443.0	0	12000.0	European Robin	eurrob1	0.6809	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	9.0
+184	Spectrogram 1	1	46441.0	46444.0	0	12000.0	European Robin	eurrob1	0.5798	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	10.0
+185	Spectrogram 1	1	46442.0	46445.0	0	12000.0	European Robin	eurrob1	0.5776	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	11.0
+186	Spectrogram 1	1	46444.0	46447.0	0	12000.0	European Robin	eurrob1	0.5482	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	13.0
+187	Spectrogram 1	1	46445.0	46448.0	0	12000.0	European Robin	eurrob1	0.6412	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	14.0
+188	Spectrogram 1	1	46446.0	46449.0	0	12000.0	European Robin	eurrob1	0.5645	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	15.0
+189	Spectrogram 1	1	46447.0	46450.0	0	12000.0	European Robin	eurrob1	0.7626	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	16.0
+190	Spectrogram 1	1	46448.0	46451.0	0	12000.0	European Robin	eurrob1	0.6620	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	17.0
+191	Spectrogram 1	1	46449.0	46452.0	0	12000.0	European Robin	eurrob1	0.6474	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	18.0
+192	Spectrogram 1	1	46451.0	46454.0	0	12000.0	European Robin	eurrob1	0.6515	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	20.0
+193	Spectrogram 1	1	46452.0	46455.0	0	12000.0	European Robin	eurrob1	0.6242	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	21.0
+194	Spectrogram 1	1	46453.0	46456.0	0	12000.0	European Robin	eurrob1	0.7528	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	22.0
+195	Spectrogram 1	1	46454.0	46457.0	0	12000.0	European Robin	eurrob1	0.6797	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	23.0
+196	Spectrogram 1	1	46460.0	46463.0	0	12000.0	European Robin	eurrob1	0.7435	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	29.0
+197	Spectrogram 1	1	46462.0	46465.0	0	12000.0	European Robin	eurrob1	0.6281	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	31.0
+198	Spectrogram 1	1	46463.0	46466.0	0	12000.0	European Robin	eurrob1	0.6422	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	32.0
+199	Spectrogram 1	1	46464.0	46467.0	0	12000.0	European Robin	eurrob1	0.8205	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	33.0
+200	Spectrogram 1	1	46465.0	46468.0	0	12000.0	European Robin	eurrob1	0.7755	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	34.0
+201	Spectrogram 1	1	46466.0	46469.0	0	12000.0	European Robin	eurrob1	0.7891	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	35.0
+202	Spectrogram 1	1	46467.0	46470.0	0	12000.0	European Robin	eurrob1	0.6722	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	36.0
+203	Spectrogram 1	1	46471.0	46474.0	0	12000.0	European Robin	eurrob1	0.5378	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	40.0
+204	Spectrogram 1	1	46472.0	46475.0	0	12000.0	European Robin	eurrob1	0.7824	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	41.0
+205	Spectrogram 1	1	46473.0	46476.0	0	12000.0	European Robin	eurrob1	0.6078	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	42.0
+206	Spectrogram 1	1	46475.0	46478.0	0	12000.0	European Robin	eurrob1	0.8192	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	44.0
+207	Spectrogram 1	1	46476.0	46479.0	0	12000.0	European Robin	eurrob1	0.8424	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	45.0
+208	Spectrogram 1	1	46477.0	46480.0	0	12000.0	European Robin	eurrob1	0.8574	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	46.0
+209	Spectrogram 1	1	46478.0	46481.0	0	12000.0	European Robin	eurrob1	0.6764	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	47.0
+210	Spectrogram 1	1	46479.0	46482.0	0	12000.0	European Robin	eurrob1	0.7809	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	48.0
+211	Spectrogram 1	1	46480.0	46483.0	0	12000.0	European Robin	eurrob1	0.8015	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	49.0
+212	Spectrogram 1	1	46481.0	46484.0	0	12000.0	European Robin	eurrob1	0.8431	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	50.0
+213	Spectrogram 1	1	46482.0	46485.0	0	12000.0	European Robin	eurrob1	0.8229	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	51.0
+214	Spectrogram 1	1	46483.0	46486.0	0	12000.0	European Robin	eurrob1	0.8388	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	52.0
+215	Spectrogram 1	1	46484.0	46487.0	0	12000.0	European Robin	eurrob1	0.6395	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	53.0
+216	Spectrogram 1	1	46485.0	46488.0	0	12000.0	European Robin	eurrob1	0.6860	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	54.0
+217	Spectrogram 1	1	46487.0	46490.0	0	12000.0	European Robin	eurrob1	0.6749	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	56.0
+218	Spectrogram 1	1	46488.0	46491.0	0	12000.0	European Robin	eurrob1	0.7148	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_060500.wav	57.0
+219	Spectrogram 1	1	46712.0	46715.0	0	12000.0	Herring Gull	hergul	0.6736	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_062500.wav	41.0
+220	Spectrogram 1	1	46713.0	46716.0	0	12000.0	Herring Gull	hergul	0.6084	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_062500.wav	42.0
+221	Spectrogram 1	1	46714.0	46717.0	0	12000.0	Herring Gull	hergul	0.5204	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_062500.wav	43.0
+222	Spectrogram 1	1	46718.0	46721.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5156	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_062500.wav	47.0
+223	Spectrogram 1	1	46939.0	46942.0	0	12000.0	Ring-necked Pheasant	rinphe	0.6784	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_064500.wav	28.0
+224	Spectrogram 1	1	48041.0	48044.0	0	12000.0	Great Black-backed Gull	gbbgul	0.5446	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_081500.wav	50.0
+225	Spectrogram 1	1	49019.0	49022.0	0	12000.0	Peregrine Falcon	perfal	0.5522	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_094000.wav	8.0
+226	Spectrogram 1	1	49772.0	49775.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5345	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_104000.wav	41.0
+227	Spectrogram 1	1	49773.0	49776.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5144	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_104000.wav	42.0
+228	Spectrogram 1	1	50065.0	50068.0	0	12000.0	Dunnock	dunnoc1	0.7562	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_110500.wav	34.0
+229	Spectrogram 1	1	50066.0	50069.0	0	12000.0	Dunnock	dunnoc1	0.7840	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_110500.wav	35.0
+230	Spectrogram 1	1	50067.0	50070.0	0	12000.0	Dunnock	dunnoc1	0.7867	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_110500.wav	36.0
+231	Spectrogram 1	1	50068.0	50071.0	0	12000.0	Dunnock	dunnoc1	0.5491	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_110500.wav	37.0
+232	Spectrogram 1	1	50383.0	50386.0	0	12000.0	Dunnock	dunnoc1	0.5526	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_113000.wav	52.0
+233	Spectrogram 1	1	50384.0	50387.0	0	12000.0	Dunnock	dunnoc1	0.5694	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_113000.wav	53.0
+234	Spectrogram 1	1	50888.0	50891.0	0	12000.0	European Robin	eurrob1	0.8520	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_121500.wav	17.0
+235	Spectrogram 1	1	50889.0	50892.0	0	12000.0	European Robin	eurrob1	0.8402	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_121500.wav	18.0
+236	Spectrogram 1	1	50890.0	50893.0	0	12000.0	European Robin	eurrob1	0.8491	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_121500.wav	19.0
+237	Spectrogram 1	1	54795.0	54798.0	0	12000.0	Mallard	mallar3	0.5132	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_174000.wav	24.0
+238	Spectrogram 1	1	57445.0	57448.0	0	12000.0	Peregrine Falcon	perfal	0.5035	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240614_212002.wav	52.0
+239	Spectrogram 1	1	60946.0	60949.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5932	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_023002.wav	19.0
+240	Spectrogram 1	1	61583.0	61586.0	0	12000.0	Herring Gull	hergul	0.5894	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_032502.wav	29.0
+241	Spectrogram 1	1	61584.0	61587.0	0	12000.0	Herring Gull	hergul	0.5398	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_032502.wav	30.0
+242	Spectrogram 1	1	61585.0	61588.0	0	12000.0	Herring Gull	hergul	0.6030	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_032502.wav	31.0
+243	Spectrogram 1	1	62011.0	62014.0	0	12000.0	Herring Gull	hergul	0.6261	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_040502.wav	1.0
+244	Spectrogram 1	1	63754.0	63757.0	0	12000.0	Dunnock	dunnoc1	0.5680	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_063000.wav	46.0
+245	Spectrogram 1	1	64075.0	64078.0	0	12000.0	Eurasian Curlew	eurcur	0.6153	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_070000.wav	7.0
+246	Spectrogram 1	1	64076.0	64079.0	0	12000.0	Eurasian Curlew	eurcur	0.6488	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_070000.wav	8.0
+247	Spectrogram 1	1	66054.0	66057.0	0	12000.0	Eurasian Blackbird	eurbla	0.5669	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_094500.wav	6.0
+248	Spectrogram 1	1	66055.0	66058.0	0	12000.0	Eurasian Blackbird	eurbla	0.5457	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_094500.wav	7.0
+249	Spectrogram 1	1	66063.0	66066.0	0	12000.0	Eurasian Blackbird	eurbla	0.5002	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_094500.wav	15.0
+250	Spectrogram 1	1	66064.0	66067.0	0	12000.0	Eurasian Blackbird	eurbla	0.5633	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_094500.wav	16.0
+251	Spectrogram 1	1	66065.0	66068.0	0	12000.0	Eurasian Blackbird	eurbla	0.5247	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_094500.wav	17.0
+252	Spectrogram 1	1	66172.0	66175.0	0	12000.0	Eurasian Blackbird	eurbla	0.5850	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	4.0
+253	Spectrogram 1	1	66187.0	66190.0	0	12000.0	Eurasian Blackbird	eurbla	0.6928	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	19.0
+254	Spectrogram 1	1	66191.0	66194.0	0	12000.0	Eurasian Blackbird	eurbla	0.5635	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	23.0
+255	Spectrogram 1	1	66198.0	66201.0	0	12000.0	Eurasian Blackbird	eurbla	0.5041	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	30.0
+256	Spectrogram 1	1	66202.0	66205.0	0	12000.0	Eurasian Blackbird	eurbla	0.5043	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	34.0
+257	Spectrogram 1	1	66203.0	66206.0	0	12000.0	Eurasian Blackbird	eurbla	0.7059	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	35.0
+258	Spectrogram 1	1	66204.0	66207.0	0	12000.0	Eurasian Blackbird	eurbla	0.7004	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	36.0
+259	Spectrogram 1	1	66205.0	66208.0	0	12000.0	Eurasian Blackbird	eurbla	0.6183	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	37.0
+260	Spectrogram 1	1	66215.0	66218.0	0	12000.0	Eurasian Blackbird	eurbla	0.5399	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	47.0
+261	Spectrogram 1	1	66216.0	66219.0	0	12000.0	Eurasian Blackbird	eurbla	0.5337	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_095500.wav	48.0
+262	Spectrogram 1	1	66787.0	66790.0	0	12000.0	Herring Gull	hergul	0.5204	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_104500.wav	19.0
+263	Spectrogram 1	1	66788.0	66791.0	0	12000.0	Herring Gull	hergul	0.5523	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_104500.wav	20.0
+264	Spectrogram 1	1	69773.0	69776.0	0	12000.0	Dunnock	dunnoc1	0.6596	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_145500.wav	5.0
+265	Spectrogram 1	1	69774.0	69777.0	0	12000.0	Dunnock	dunnoc1	0.7005	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_145500.wav	6.0
+266	Spectrogram 1	1	69775.0	69778.0	0	12000.0	Dunnock	dunnoc1	0.5739	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_145500.wav	7.0
+267	Spectrogram 1	1	71777.0	71780.0	0	12000.0	Gray Heron	graher1	0.5686	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_174000.wav	29.0
+268	Spectrogram 1	1	71791.0	71794.0	0	12000.0	Gray Heron	graher1	0.5382	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_174000.wav	43.0
+269	Spectrogram 1	1	72548.0	72551.0	0	12000.0	Herring Gull	hergul	0.5499	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_184500.wav	20.0
+270	Spectrogram 1	1	72632.0	72635.0	0	12000.0	Peregrine Falcon	perfal	0.6447	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_185000.wav	44.0
+271	Spectrogram 1	1	72633.0	72636.0	0	12000.0	Peregrine Falcon	perfal	0.6034	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_185000.wav	45.0
+272	Spectrogram 1	1	72634.0	72637.0	0	12000.0	Peregrine Falcon	perfal	0.5532	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_185000.wav	46.0
+273	Spectrogram 1	1	74903.0	74906.0	0	12000.0	Peregrine Falcon	perfal	0.5309	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_220502.wav	20.0
+274	Spectrogram 1	1	74904.0	74907.0	0	12000.0	Peregrine Falcon	perfal	0.5980	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_220502.wav	21.0
+275	Spectrogram 1	1	74905.0	74908.0	0	12000.0	Peregrine Falcon	perfal	0.5195	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240615_220502.wav	22.0
+276	Spectrogram 1	1	78753.0	78756.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6228	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_034002.wav	51.0
+277	Spectrogram 1	1	78946.0	78949.0	0	12000.0	Eurasian Blackbird	eurbla	0.5803	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_040002.wav	16.0
+278	Spectrogram 1	1	78947.0	78950.0	0	12000.0	Eurasian Blackbird	eurbla	0.5373	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_040002.wav	17.0
+279	Spectrogram 1	1	78956.0	78959.0	0	12000.0	Eurasian Blackbird	eurbla	0.5652	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_040002.wav	26.0
+280	Spectrogram 1	1	78985.0	78988.0	0	12000.0	Eurasian Blackbird	eurbla	0.5036	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_040002.wav	55.0
+281	Spectrogram 1	1	79327.0	79330.0	0	12000.0	European Robin	eurrob1	0.5078	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043002.wav	55.0
+282	Spectrogram 1	1	79329.0	79332.0	0	12000.0	European Robin	eurrob1	0.7930	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	0
+283	Spectrogram 1	1	79330.0	79333.0	0	12000.0	European Robin	eurrob1	0.7243	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	1.0
+284	Spectrogram 1	1	79331.0	79334.0	0	12000.0	European Robin	eurrob1	0.8091	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	2.0
+285	Spectrogram 1	1	79332.0	79335.0	0	12000.0	European Robin	eurrob1	0.7661	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	3.0
+286	Spectrogram 1	1	79333.0	79336.0	0	12000.0	European Robin	eurrob1	0.7332	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	4.0
+287	Spectrogram 1	1	79334.0	79337.0	0	12000.0	European Robin	eurrob1	0.6661	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	5.0
+288	Spectrogram 1	1	79335.0	79338.0	0	12000.0	European Robin	eurrob1	0.5743	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	6.0
+289	Spectrogram 1	1	79336.0	79339.0	0	12000.0	European Robin	eurrob1	0.7398	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	7.0
+290	Spectrogram 1	1	79337.0	79340.0	0	12000.0	European Robin	eurrob1	0.6009	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	8.0
+291	Spectrogram 1	1	79338.0	79341.0	0	12000.0	European Robin	eurrob1	0.5509	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	9.0
+292	Spectrogram 1	1	79339.0	79342.0	0	12000.0	European Robin	eurrob1	0.7501	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	10.0
+293	Spectrogram 1	1	79340.0	79343.0	0	12000.0	European Robin	eurrob1	0.6012	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	11.0
+294	Spectrogram 1	1	79341.0	79344.0	0	12000.0	European Robin	eurrob1	0.7395	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	12.0
+295	Spectrogram 1	1	79342.0	79345.0	0	12000.0	European Robin	eurrob1	0.5767	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	13.0
+296	Spectrogram 1	1	79344.0	79347.0	0	12000.0	European Robin	eurrob1	0.7997	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	15.0
+297	Spectrogram 1	1	79345.0	79348.0	0	12000.0	European Robin	eurrob1	0.8165	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	16.0
+298	Spectrogram 1	1	79346.0	79349.0	0	12000.0	European Robin	eurrob1	0.7329	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	17.0
+299	Spectrogram 1	1	79347.0	79350.0	0	12000.0	European Robin	eurrob1	0.6849	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	18.0
+300	Spectrogram 1	1	79348.0	79351.0	0	12000.0	European Robin	eurrob1	0.7253	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	19.0
+301	Spectrogram 1	1	79349.0	79352.0	0	12000.0	European Robin	eurrob1	0.6428	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	20.0
+302	Spectrogram 1	1	79350.0	79353.0	0	12000.0	European Robin	eurrob1	0.5828	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	21.0
+303	Spectrogram 1	1	79351.0	79354.0	0	12000.0	European Robin	eurrob1	0.7288	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	22.0
+304	Spectrogram 1	1	79352.0	79355.0	0	12000.0	European Robin	eurrob1	0.8075	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	23.0
+305	Spectrogram 1	1	79353.0	79356.0	0	12000.0	European Robin	eurrob1	0.7752	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	24.0
+306	Spectrogram 1	1	79354.0	79357.0	0	12000.0	European Robin	eurrob1	0.7121	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	25.0
+307	Spectrogram 1	1	79355.0	79358.0	0	12000.0	European Robin	eurrob1	0.7898	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	26.0
+308	Spectrogram 1	1	79356.0	79359.0	0	12000.0	European Robin	eurrob1	0.8870	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	27.0
+309	Spectrogram 1	1	79357.0	79360.0	0	12000.0	European Robin	eurrob1	0.6339	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	28.0
+310	Spectrogram 1	1	79358.0	79361.0	0	12000.0	European Robin	eurrob1	0.7293	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	29.0
+311	Spectrogram 1	1	79359.0	79362.0	0	12000.0	European Robin	eurrob1	0.6834	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	30.0
+312	Spectrogram 1	1	79360.0	79363.0	0	12000.0	European Robin	eurrob1	0.7228	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	31.0
+313	Spectrogram 1	1	79361.0	79364.0	0	12000.0	European Robin	eurrob1	0.5572	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	32.0
+314	Spectrogram 1	1	79362.0	79365.0	0	12000.0	European Robin	eurrob1	0.6162	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	33.0
+315	Spectrogram 1	1	79363.0	79366.0	0	12000.0	European Robin	eurrob1	0.7207	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	34.0
+316	Spectrogram 1	1	79364.0	79367.0	0	12000.0	European Robin	eurrob1	0.5897	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	35.0
+317	Spectrogram 1	1	79365.0	79368.0	0	12000.0	European Robin	eurrob1	0.5725	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	36.0
+318	Spectrogram 1	1	79366.0	79369.0	0	12000.0	European Robin	eurrob1	0.7377	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	37.0
+319	Spectrogram 1	1	79367.0	79370.0	0	12000.0	European Robin	eurrob1	0.8231	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	38.0
+320	Spectrogram 1	1	79368.0	79371.0	0	12000.0	European Robin	eurrob1	0.6957	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	39.0
+321	Spectrogram 1	1	79369.0	79372.0	0	12000.0	European Robin	eurrob1	0.7518	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	40.0
+322	Spectrogram 1	1	79370.0	79373.0	0	12000.0	European Robin	eurrob1	0.8267	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	41.0
+323	Spectrogram 1	1	79375.0	79378.0	0	12000.0	European Robin	eurrob1	0.6272	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	46.0
+324	Spectrogram 1	1	79376.0	79379.0	0	12000.0	European Robin	eurrob1	0.5378	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	47.0
+325	Spectrogram 1	1	79377.0	79380.0	0	12000.0	European Robin	eurrob1	0.5451	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	48.0
+326	Spectrogram 1	1	79378.0	79381.0	0	12000.0	European Robin	eurrob1	0.7167	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	49.0
+327	Spectrogram 1	1	79379.0	79382.0	0	12000.0	European Robin	eurrob1	0.6421	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	50.0
+328	Spectrogram 1	1	79380.0	79383.0	0	12000.0	European Robin	eurrob1	0.7380	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	51.0
+329	Spectrogram 1	1	79381.0	79384.0	0	12000.0	European Robin	eurrob1	0.5907	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	52.0
+330	Spectrogram 1	1	79382.0	79385.0	0	12000.0	European Robin	eurrob1	0.5112	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_043502.wav	53.0
+331	Spectrogram 1	1	79495.0	79498.0	0	12000.0	Herring Gull	hergul	0.5585	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_044502.wav	52.0
+332	Spectrogram 1	1	79496.0	79499.0	0	12000.0	Herring Gull	hergul	0.5426	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_044502.wav	53.0
+333	Spectrogram 1	1	79497.0	79500.0	0	12000.0	Herring Gull	hergul	0.6876	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_044502.wav	54.0
+334	Spectrogram 1	1	79498.0	79501.0	0	12000.0	Herring Gull	hergul	0.7986	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_044502.wav	55.0
+335	Spectrogram 1	1	79681.0	79684.0	0	12000.0	European Robin	eurrob1	0.5424	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_050502.wav	10.0
+336	Spectrogram 1	1	79682.0	79685.0	0	12000.0	European Robin	eurrob1	0.5554	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_050502.wav	11.0
+337	Spectrogram 1	1	79862.0	79865.0	0	12000.0	Dunnock	dunnoc1	0.7371	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_052000.wav	17.0
+338	Spectrogram 1	1	79863.0	79866.0	0	12000.0	Dunnock	dunnoc1	0.7634	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_052000.wav	18.0
+339	Spectrogram 1	1	79864.0	79867.0	0	12000.0	Dunnock	dunnoc1	0.8791	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_052000.wav	19.0
+340	Spectrogram 1	1	79865.0	79868.0	0	12000.0	Dunnock	dunnoc1	0.5318	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_052000.wav	20.0
+341	Spectrogram 1	1	80446.0	80449.0	0	12000.0	Carrion Crow	carcro1	0.5668	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_061000.wav	1.0
+342	Spectrogram 1	1	80449.0	80452.0	0	12000.0	Carrion Crow	carcro1	0.5315	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_061000.wav	4.0
+343	Spectrogram 1	1	82053.0	82056.0	0	12000.0	Mallard	mallar3	0.7934	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_082000.wav	48.0
+344	Spectrogram 1	1	82054.0	82057.0	0	12000.0	Mallard	mallar3	0.7671	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_082000.wav	49.0
+345	Spectrogram 1	1	82055.0	82058.0	0	12000.0	Mallard	mallar3	0.7721	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_082000.wav	50.0
+346	Spectrogram 1	1	82435.0	82438.0	0	12000.0	Eurasian Moorhen	commoo3	0.6297	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_085500.wav	10.0
+347	Spectrogram 1	1	83372.0	83375.0	0	12000.0	Eurasian Magpie	eurmag1	0.8351	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_101000.wav	47.0
+348	Spectrogram 1	1	83373.0	83376.0	0	12000.0	Eurasian Magpie	eurmag1	0.8199	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_101000.wav	48.0
+349	Spectrogram 1	1	83374.0	83377.0	0	12000.0	Eurasian Magpie	eurmag1	0.7779	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_101000.wav	49.0
+350	Spectrogram 1	1	83884.0	83887.0	0	12000.0	Green-winged Teal	gnwtea	0.5390	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_105500.wav	19.0
+351	Spectrogram 1	1	83919.0	83922.0	0	12000.0	Eurasian Blue Tit	blutit	0.5752	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_105500.wav	54.0
+352	Spectrogram 1	1	84736.0	84739.0	0	12000.0	Peregrine Falcon	perfal	0.6143	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_120500.wav	31.0
+353	Spectrogram 1	1	87688.0	87691.0	0	12000.0	Eurasian Blackbird	eurbla	0.5421	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_161000.wav	43.0
+354	Spectrogram 1	1	87844.0	87847.0	0	12000.0	Eurasian Blackbird	eurbla	0.5709	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	19.0
+355	Spectrogram 1	1	87848.0	87851.0	0	12000.0	Eurasian Blackbird	eurbla	0.7227	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	23.0
+356	Spectrogram 1	1	87849.0	87852.0	0	12000.0	Eurasian Blackbird	eurbla	0.6450	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	24.0
+357	Spectrogram 1	1	87850.0	87853.0	0	12000.0	Eurasian Blackbird	eurbla	0.7759	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	25.0
+358	Spectrogram 1	1	87851.0	87854.0	0	12000.0	Eurasian Blackbird	eurbla	0.5297	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	26.0
+359	Spectrogram 1	1	87858.0	87861.0	0	12000.0	Eurasian Blackbird	eurbla	0.7187	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	33.0
+360	Spectrogram 1	1	87859.0	87862.0	0	12000.0	Eurasian Blackbird	eurbla	0.6845	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	34.0
+361	Spectrogram 1	1	87860.0	87863.0	0	12000.0	Eurasian Blackbird	eurbla	0.5469	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	35.0
+362	Spectrogram 1	1	87869.0	87872.0	0	12000.0	Eurasian Blackbird	eurbla	0.5670	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	44.0
+363	Spectrogram 1	1	87875.0	87878.0	0	12000.0	Eurasian Blackbird	eurbla	0.6268	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	50.0
+364	Spectrogram 1	1	87876.0	87879.0	0	12000.0	Eurasian Blackbird	eurbla	0.6860	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_162500.wav	51.0
+365	Spectrogram 1	1	87936.0	87939.0	0	12000.0	Eurasian Coot	eurcoo	0.7148	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_163000.wav	51.0
+366	Spectrogram 1	1	87989.0	87992.0	0	12000.0	Eurasian Blackbird	eurbla	0.5960	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_163500.wav	44.0
+367	Spectrogram 1	1	88940.0	88943.0	0	12000.0	Herring Gull	hergul	0.5225	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_175500.wav	35.0
+368	Spectrogram 1	1	88941.0	88944.0	0	12000.0	Herring Gull	hergul	0.5223	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_175500.wav	36.0
+369	Spectrogram 1	1	89809.0	89812.0	0	12000.0	Short-toed Treecreeper	shttre1	0.5869	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_191000.wav	4.0
+370	Spectrogram 1	1	90221.0	90224.0	0	12000.0	Eurasian Curlew	eurcur	0.5224	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240616_194000.wav	56.0
+371	Spectrogram 1	1	93775.0	93778.0	0	12000.0	Eurasian Jackdaw	eurjac	0.5390	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_005002.wav	31.0
+372	Spectrogram 1	1	93776.0	93779.0	0	12000.0	Eurasian Jackdaw	eurjac	0.5789	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_005002.wav	32.0
+373	Spectrogram 1	1	95171.0	95174.0	0	12000.0	Song Thrush	sonthr1	0.6336	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_025502.wav	2.0
+374	Spectrogram 1	1	95173.0	95176.0	0	12000.0	Song Thrush	sonthr1	0.7242	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_025502.wav	4.0
+375	Spectrogram 1	1	95361.0	95364.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5613	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_031002.wav	21.0
+376	Spectrogram 1	1	95364.0	95367.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5502	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_031002.wav	24.0
+377	Spectrogram 1	1	95365.0	95368.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5944	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_031002.wav	25.0
+378	Spectrogram 1	1	95366.0	95369.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5383	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_031002.wav	26.0
+379	Spectrogram 1	1	95518.0	95521.0	0	12000.0	Eurasian Curlew	eurcur	0.6037	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_032502.wav	7.0
+380	Spectrogram 1	1	95639.0	95642.0	0	12000.0	Peregrine Falcon	perfal	0.5665	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_033502.wav	14.0
+381	Spectrogram 1	1	95684.0	95687.0	0	12000.0	European Robin	eurrob1	0.6146	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	2.0
+382	Spectrogram 1	1	95685.0	95688.0	0	12000.0	European Robin	eurrob1	0.5659	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	3.0
+383	Spectrogram 1	1	95711.0	95714.0	0	12000.0	European Robin	eurrob1	0.6880	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	29.0
+384	Spectrogram 1	1	95715.0	95718.0	0	12000.0	European Robin	eurrob1	0.5688	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	33.0
+385	Spectrogram 1	1	95718.0	95721.0	0	12000.0	European Robin	eurrob1	0.6708	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	36.0
+386	Spectrogram 1	1	95719.0	95722.0	0	12000.0	European Robin	eurrob1	0.7848	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	37.0
+387	Spectrogram 1	1	95720.0	95723.0	0	12000.0	European Robin	eurrob1	0.6645	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	38.0
+388	Spectrogram 1	1	95721.0	95724.0	0	12000.0	European Robin	eurrob1	0.6547	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	39.0
+389	Spectrogram 1	1	95722.0	95725.0	0	12000.0	European Robin	eurrob1	0.7423	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	40.0
+390	Spectrogram 1	1	95723.0	95726.0	0	12000.0	European Robin	eurrob1	0.6925	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	41.0
+391	Spectrogram 1	1	95724.0	95727.0	0	12000.0	European Robin	eurrob1	0.6990	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	42.0
+392	Spectrogram 1	1	95725.0	95728.0	0	12000.0	European Robin	eurrob1	0.7589	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	43.0
+393	Spectrogram 1	1	95726.0	95729.0	0	12000.0	European Robin	eurrob1	0.7031	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	44.0
+394	Spectrogram 1	1	95727.0	95730.0	0	12000.0	European Robin	eurrob1	0.7284	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	45.0
+395	Spectrogram 1	1	95728.0	95731.0	0	12000.0	European Robin	eurrob1	0.7878	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	46.0
+396	Spectrogram 1	1	95729.0	95732.0	0	12000.0	European Robin	eurrob1	0.7779	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	47.0
+397	Spectrogram 1	1	95730.0	95733.0	0	12000.0	European Robin	eurrob1	0.6496	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_034002.wav	48.0
+398	Spectrogram 1	1	96015.0	96018.0	0	12000.0	Common Murre	commur	0.5310	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_040502.wav	48.0
+399	Spectrogram 1	1	96100.0	96103.0	0	12000.0	Herring Gull	hergul	0.5247	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_041502.wav	19.0
+400	Spectrogram 1	1	96607.0	96610.0	0	12000.0	Herring Gull	hergul	0.5333	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_050002.wav	13.0
+401	Spectrogram 1	1	96608.0	96611.0	0	12000.0	Herring Gull	hergul	0.5098	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_050002.wav	14.0
+402	Spectrogram 1	1	96730.0	96733.0	0	12000.0	European Robin	eurrob1	0.6224	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_051002.wav	22.0
+403	Spectrogram 1	1	97876.0	97879.0	0	12000.0	Herring Gull	hergul	0.5169	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	31.0
+404	Spectrogram 1	1	97878.0	97881.0	0	12000.0	Herring Gull	hergul	0.5903	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	33.0
+405	Spectrogram 1	1	97879.0	97882.0	0	12000.0	Herring Gull	hergul	0.7268	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	34.0
+406	Spectrogram 1	1	97880.0	97883.0	0	12000.0	Herring Gull	hergul	0.5766	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	35.0
+407	Spectrogram 1	1	97892.0	97895.0	0	12000.0	Herring Gull	hergul	0.5372	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	47.0
+408	Spectrogram 1	1	97893.0	97896.0	0	12000.0	Herring Gull	hergul	0.5426	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	48.0
+409	Spectrogram 1	1	97894.0	97897.0	0	12000.0	Herring Gull	hergul	0.5782	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	49.0
+410	Spectrogram 1	1	97895.0	97898.0	0	12000.0	Herring Gull	hergul	0.5738	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	50.0
+411	Spectrogram 1	1	97896.0	97899.0	0	12000.0	Herring Gull	hergul	0.5056	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	51.0
+412	Spectrogram 1	1	97898.0	97901.0	0	12000.0	Herring Gull	hergul	0.5530	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	53.0
+413	Spectrogram 1	1	97900.0	97903.0	0	12000.0	Herring Gull	hergul	0.5808	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	55.0
+414	Spectrogram 1	1	97901.0	97904.0	0	12000.0	Herring Gull	hergul	0.5042	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_064500.wav	56.0
+415	Spectrogram 1	1	99243.0	99246.0	0	12000.0	Northern Gannet	norgan	0.6681	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_084000.wav	18.0
+416	Spectrogram 1	1	99244.0	99247.0	0	12000.0	Northern Gannet	norgan	0.6853	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_084000.wav	19.0
+417	Spectrogram 1	1	99525.0	99528.0	0	12000.0	Eurasian Magpie	eurmag1	0.8484	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_090500.wav	0
+418	Spectrogram 1	1	99526.0	99529.0	0	12000.0	Eurasian Magpie	eurmag1	0.8865	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_090500.wav	1.0
+419	Spectrogram 1	1	99527.0	99530.0	0	12000.0	Eurasian Magpie	eurmag1	0.7445	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_090500.wav	2.0
+420	Spectrogram 1	1	99533.0	99536.0	0	12000.0	Eurasian Magpie	eurmag1	0.8088	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_090500.wav	8.0
+421	Spectrogram 1	1	99534.0	99537.0	0	12000.0	Eurasian Magpie	eurmag1	0.7900	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_090500.wav	9.0
+422	Spectrogram 1	1	101807.0	101810.0	0	12000.0	Eurasian Magpie	eurmag1	0.5437	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_121500.wav	2.0
+423	Spectrogram 1	1	101809.0	101812.0	0	12000.0	Eurasian Magpie	eurmag1	0.5106	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_121500.wav	4.0
+424	Spectrogram 1	1	101816.0	101819.0	0	12000.0	Eurasian Magpie	eurmag1	0.7212	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_121500.wav	11.0
+425	Spectrogram 1	1	101817.0	101820.0	0	12000.0	Eurasian Magpie	eurmag1	0.8293	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_121500.wav	12.0
+426	Spectrogram 1	1	102062.0	102065.0	0	12000.0	Mallard	mallar3	0.5767	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_123500.wav	17.0
+427	Spectrogram 1	1	102339.0	102342.0	0	12000.0	Peregrine Falcon	perfal	0.6550	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_125500.wav	54.0
+428	Spectrogram 1	1	103096.0	103099.0	0	12000.0	Peregrine Falcon	perfal	0.5055	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_140000.wav	31.0
+429	Spectrogram 1	1	103581.0	103584.0	0	12000.0	Red-billed Chough	rebcho1	0.7706	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_144000.wav	36.0
+430	Spectrogram 1	1	105211.0	105214.0	0	12000.0	Eurasian Blackbird	eurbla	0.5413	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_165500.wav	46.0
+431	Spectrogram 1	1	105212.0	105215.0	0	12000.0	Eurasian Blackbird	eurbla	0.5121	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_165500.wav	47.0
+432	Spectrogram 1	1	105220.0	105223.0	0	12000.0	Eurasian Blackbird	eurbla	0.6250	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_165500.wav	55.0
+433	Spectrogram 1	1	105413.0	105416.0	0	12000.0	Eurasian Blackbird	eurbla	0.5516	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_171500.wav	8.0
+434	Spectrogram 1	1	105416.0	105419.0	0	12000.0	Eurasian Blackbird	eurbla	0.7488	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_171500.wav	11.0
+435	Spectrogram 1	1	105417.0	105420.0	0	12000.0	Eurasian Blackbird	eurbla	0.6660	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_171500.wav	12.0
+436	Spectrogram 1	1	105418.0	105421.0	0	12000.0	Eurasian Blackbird	eurbla	0.7073	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_171500.wav	13.0
+437	Spectrogram 1	1	105419.0	105422.0	0	12000.0	Eurasian Blackbird	eurbla	0.5985	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_171500.wav	14.0
+438	Spectrogram 1	1	105420.0	105423.0	0	12000.0	Eurasian Blackbird	eurbla	0.5963	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_171500.wav	15.0
+439	Spectrogram 1	1	105428.0	105431.0	0	12000.0	Eurasian Blackbird	eurbla	0.5275	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_171500.wav	23.0
+440	Spectrogram 1	1	105435.0	105438.0	0	12000.0	Eurasian Blackbird	eurbla	0.5582	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_171500.wav	30.0
+441	Spectrogram 1	1	107883.0	107886.0	0	12000.0	Dunnock	dunnoc1	0.7593	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	18.0
+442	Spectrogram 1	1	107884.0	107887.0	0	12000.0	Dunnock	dunnoc1	0.9610	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	19.0
+443	Spectrogram 1	1	107885.0	107888.0	0	12000.0	Dunnock	dunnoc1	0.9775	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	20.0
+444	Spectrogram 1	1	107886.0	107889.0	0	12000.0	Dunnock	dunnoc1	0.8118	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	21.0
+445	Spectrogram 1	1	107890.0	107893.0	0	12000.0	Dunnock	dunnoc1	0.8829	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	25.0
+446	Spectrogram 1	1	107891.0	107894.0	0	12000.0	Dunnock	dunnoc1	0.8661	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	26.0
+447	Spectrogram 1	1	107892.0	107895.0	0	12000.0	Dunnock	dunnoc1	0.8070	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	27.0
+448	Spectrogram 1	1	107894.0	107897.0	0	12000.0	Dunnock	dunnoc1	0.7749	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	29.0
+449	Spectrogram 1	1	107895.0	107898.0	0	12000.0	Dunnock	dunnoc1	0.8103	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	30.0
+450	Spectrogram 1	1	107896.0	107899.0	0	12000.0	Dunnock	dunnoc1	0.7152	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	31.0
+451	Spectrogram 1	1	107903.0	107906.0	0	12000.0	Dunnock	dunnoc1	0.7919	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	38.0
+452	Spectrogram 1	1	107904.0	107907.0	0	12000.0	Dunnock	dunnoc1	0.8569	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	39.0
+453	Spectrogram 1	1	107905.0	107908.0	0	12000.0	Dunnock	dunnoc1	0.6930	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	40.0
+454	Spectrogram 1	1	107909.0	107912.0	0	12000.0	Dunnock	dunnoc1	0.5347	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240617_204000.wav	44.0
+455	Spectrogram 1	1	110751.0	110754.0	0	12000.0	Song Thrush	sonthr1	0.5571	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_005002.wav	27.0
+456	Spectrogram 1	1	111210.0	111213.0	0	12000.0	Mallard	mallar3	0.7802	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_013002.wav	30.0
+457	Spectrogram 1	1	111437.0	111440.0	0	12000.0	Rook	rook1	0.5687	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_015002.wav	29.0
+458	Spectrogram 1	1	112647.0	112650.0	0	12000.0	Peregrine Falcon	perfal	0.5227	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_033502.wav	42.0
+459	Spectrogram 1	1	112651.0	112654.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6536	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_033502.wav	46.0
+460	Spectrogram 1	1	112652.0	112655.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6852	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_033502.wav	47.0
+461	Spectrogram 1	1	112653.0	112656.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6908	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_033502.wav	48.0
+462	Spectrogram 1	1	112654.0	112657.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.7705	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_033502.wav	49.0
+463	Spectrogram 1	1	112880.0	112883.0	0	12000.0	Herring Gull	hergul	0.5291	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_035502.wav	47.0
+464	Spectrogram 1	1	112881.0	112884.0	0	12000.0	Herring Gull	hergul	0.6525	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_035502.wav	48.0
+465	Spectrogram 1	1	112882.0	112885.0	0	12000.0	Herring Gull	hergul	0.6859	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_035502.wav	49.0
+466	Spectrogram 1	1	112883.0	112886.0	0	12000.0	Herring Gull	hergul	0.5550	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_035502.wav	50.0
+467	Spectrogram 1	1	113062.0	113065.0	0	12000.0	Carrion Crow	carcro1	0.6459	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_041502.wav	1.0
+468	Spectrogram 1	1	113086.0	113089.0	0	12000.0	Carrion Crow	carcro1	0.5835	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_041502.wav	25.0
+469	Spectrogram 1	1	113087.0	113090.0	0	12000.0	Carrion Crow	carcro1	0.6258	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_041502.wav	26.0
+470	Spectrogram 1	1	113088.0	113091.0	0	12000.0	Carrion Crow	carcro1	0.5364	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_041502.wav	27.0
+471	Spectrogram 1	1	113232.0	113235.0	0	12000.0	European Robin	eurrob1	0.6265	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	0
+472	Spectrogram 1	1	113233.0	113236.0	0	12000.0	European Robin	eurrob1	0.7503	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	1.0
+473	Spectrogram 1	1	113247.0	113250.0	0	12000.0	Peregrine Falcon	perfal	0.7378	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	15.0
+474	Spectrogram 1	1	113260.0	113263.0	0	12000.0	Herring Gull	hergul	0.7313	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	28.0
+475	Spectrogram 1	1	113261.0	113264.0	0	12000.0	Herring Gull	hergul	0.7895	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	29.0
+476	Spectrogram 1	1	113262.0	113265.0	0	12000.0	Herring Gull	hergul	0.7341	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	30.0
+477	Spectrogram 1	1	113263.0	113266.0	0	12000.0	Herring Gull	hergul	0.7171	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	31.0
+478	Spectrogram 1	1	113264.0	113267.0	0	12000.0	Herring Gull	hergul	0.7578	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	32.0
+479	Spectrogram 1	1	113265.0	113268.0	0	12000.0	Herring Gull	hergul	0.5473	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	33.0
+480	Spectrogram 1	1	113267.0	113270.0	0	12000.0	European Robin	eurrob1	0.5528	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	35.0
+481	Spectrogram 1	1	113268.0	113271.0	0	12000.0	European Robin	eurrob1	0.7433	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	36.0
+482	Spectrogram 1	1	113269.0	113272.0	0	12000.0	European Robin	eurrob1	0.8510	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	37.0
+483	Spectrogram 1	1	113270.0	113273.0	0	12000.0	European Robin	eurrob1	0.8961	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	38.0
+484	Spectrogram 1	1	113271.0	113274.0	0	12000.0	European Robin	eurrob1	0.5355	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	39.0
+485	Spectrogram 1	1	113273.0	113276.0	0	12000.0	European Robin	eurrob1	0.7080	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	41.0
+486	Spectrogram 1	1	113274.0	113277.0	0	12000.0	European Robin	eurrob1	0.7840	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	42.0
+487	Spectrogram 1	1	113275.0	113278.0	0	12000.0	European Robin	eurrob1	0.6450	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_043002.wav	43.0
+488	Spectrogram 1	1	113460.0	113463.0	0	12000.0	Eurasian Magpie	eurmag1	0.9743	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	0
+489	Spectrogram 1	1	113461.0	113464.0	0	12000.0	Eurasian Magpie	eurmag1	0.9775	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	1.0
+490	Spectrogram 1	1	113462.0	113465.0	0	12000.0	Eurasian Magpie	eurmag1	0.9626	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	2.0
+491	Spectrogram 1	1	113463.0	113466.0	0	12000.0	Eurasian Magpie	eurmag1	0.7609	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	3.0
+492	Spectrogram 1	1	113466.0	113469.0	0	12000.0	Eurasian Magpie	eurmag1	0.9243	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	6.0
+493	Spectrogram 1	1	113467.0	113470.0	0	12000.0	Eurasian Magpie	eurmag1	0.9490	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	7.0
+494	Spectrogram 1	1	113468.0	113471.0	0	12000.0	Eurasian Magpie	eurmag1	0.8234	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	8.0
+495	Spectrogram 1	1	113483.0	113486.0	0	12000.0	Eurasian Magpie	eurmag1	0.6284	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	23.0
+496	Spectrogram 1	1	113484.0	113487.0	0	12000.0	Eurasian Magpie	eurmag1	0.8204	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	24.0
+497	Spectrogram 1	1	113497.0	113500.0	0	12000.0	Eurasian Magpie	eurmag1	0.6267	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	37.0
+498	Spectrogram 1	1	113498.0	113501.0	0	12000.0	Eurasian Magpie	eurmag1	0.9569	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	38.0
+499	Spectrogram 1	1	113499.0	113502.0	0	12000.0	Eurasian Magpie	eurmag1	0.9785	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	39.0
+500	Spectrogram 1	1	113500.0	113503.0	0	12000.0	Eurasian Magpie	eurmag1	0.9665	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	40.0
+501	Spectrogram 1	1	113507.0	113510.0	0	12000.0	Eurasian Magpie	eurmag1	0.9172	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	47.0
+502	Spectrogram 1	1	113508.0	113511.0	0	12000.0	Eurasian Magpie	eurmag1	0.9474	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	48.0
+503	Spectrogram 1	1	113509.0	113512.0	0	12000.0	Eurasian Magpie	eurmag1	0.9629	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	49.0
+504	Spectrogram 1	1	113510.0	113513.0	0	12000.0	Eurasian Magpie	eurmag1	0.8712	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	50.0
+505	Spectrogram 1	1	113511.0	113514.0	0	12000.0	Eurasian Magpie	eurmag1	0.8998	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	51.0
+506	Spectrogram 1	1	113512.0	113515.0	0	12000.0	Eurasian Magpie	eurmag1	0.9106	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	52.0
+507	Spectrogram 1	1	113513.0	113516.0	0	12000.0	Eurasian Magpie	eurmag1	0.9445	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	53.0
+508	Spectrogram 1	1	113514.0	113517.0	0	12000.0	Eurasian Magpie	eurmag1	0.9391	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045002.wav	54.0
+509	Spectrogram 1	1	113557.0	113560.0	0	12000.0	Eurasian Magpie	eurmag1	0.9241	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045502.wav	40.0
+510	Spectrogram 1	1	113558.0	113561.0	0	12000.0	Eurasian Magpie	eurmag1	0.9559	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045502.wav	41.0
+511	Spectrogram 1	1	113559.0	113562.0	0	12000.0	Eurasian Magpie	eurmag1	0.9454	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045502.wav	42.0
+512	Spectrogram 1	1	113560.0	113563.0	0	12000.0	Eurasian Magpie	eurmag1	0.8918	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045502.wav	43.0
+513	Spectrogram 1	1	113567.0	113570.0	0	12000.0	Eurasian Magpie	eurmag1	0.6860	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045502.wav	50.0
+514	Spectrogram 1	1	113568.0	113571.0	0	12000.0	Eurasian Magpie	eurmag1	0.5027	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_045502.wav	51.0
+515	Spectrogram 1	1	113654.0	113657.0	0	12000.0	Dunnock	dunnoc1	0.5421	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_050502.wav	23.0
+516	Spectrogram 1	1	113655.0	113658.0	0	12000.0	Dunnock	dunnoc1	0.5416	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_050502.wav	24.0
+517	Spectrogram 1	1	113840.0	113843.0	0	12000.0	Carrion Crow	carcro1	0.5259	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_052000.wav	35.0
+518	Spectrogram 1	1	113846.0	113849.0	0	12000.0	Carrion Crow	carcro1	0.5416	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_052000.wav	41.0
+519	Spectrogram 1	1	114055.0	114058.0	0	12000.0	European Robin	eurrob1	0.6076	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_054000.wav	10.0
+520	Spectrogram 1	1	114056.0	114059.0	0	12000.0	European Robin	eurrob1	0.5220	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_054000.wav	11.0
+521	Spectrogram 1	1	114057.0	114060.0	0	12000.0	European Robin	eurrob1	0.6672	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_054000.wav	12.0
+522	Spectrogram 1	1	114465.0	114468.0	0	12000.0	Eurasian Magpie	eurmag1	0.8642	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_061500.wav	0
+523	Spectrogram 1	1	114466.0	114469.0	0	12000.0	Eurasian Magpie	eurmag1	0.9151	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_061500.wav	1.0
+524	Spectrogram 1	1	114467.0	114470.0	0	12000.0	Eurasian Magpie	eurmag1	0.9006	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_061500.wav	2.0
+525	Spectrogram 1	1	114468.0	114471.0	0	12000.0	Eurasian Magpie	eurmag1	0.5460	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_061500.wav	3.0
+526	Spectrogram 1	1	114597.0	114600.0	0	12000.0	European Robin	eurrob1	0.5397	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_062500.wav	12.0
+527	Spectrogram 1	1	114598.0	114601.0	0	12000.0	European Robin	eurrob1	0.6804	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_062500.wav	13.0
+528	Spectrogram 1	1	114600.0	114603.0	0	12000.0	European Robin	eurrob1	0.5270	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_062500.wav	15.0
+529	Spectrogram 1	1	116779.0	116782.0	0	12000.0	Great Black-backed Gull	gbbgul	0.6737	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_092500.wav	34.0
+530	Spectrogram 1	1	116780.0	116783.0	0	12000.0	Great Black-backed Gull	gbbgul	0.5471	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_092500.wav	35.0
+531	Spectrogram 1	1	116782.0	116785.0	0	12000.0	Great Black-backed Gull	gbbgul	0.5494	C:\Users\ikb23\OneDrive - Imperial College London\Documents\Pepys Bird Data June 18\Data2\SEEING_20240618_092500.wav	37.0

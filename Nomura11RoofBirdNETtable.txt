@@ -1,0 +1,783 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	4908.0	4911.0	0	12000.0	Dunnock	dunnoc1	0.5250	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240611_171000.wav	1.0
+2	Spectrogram 1	1	6914.0	6917.0	0	12000.0	Herring Gull	hergul	0.6547	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240611_195500.wav	27.0
+3	Spectrogram 1	1	6916.0	6919.0	0	12000.0	Herring Gull	hergul	0.5140	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240611_195500.wav	29.0
+4	Spectrogram 1	1	12478.0	12481.0	0	12000.0	Herring Gull	hergul	0.5184	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_040002.wav	29.0
+5	Spectrogram 1	1	12479.0	12482.0	0	12000.0	Herring Gull	hergul	0.5117	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_040002.wav	30.0
+6	Spectrogram 1	1	12481.0	12484.0	0	12000.0	Herring Gull	hergul	0.6094	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_040002.wav	32.0
+7	Spectrogram 1	1	12482.0	12485.0	0	12000.0	Herring Gull	hergul	0.5051	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_040002.wav	33.0
+8	Spectrogram 1	1	12743.0	12746.0	0	12000.0	Black-legged Kittiwake	bklkit	0.5239	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_042502.wav	9.0
+9	Spectrogram 1	1	12748.0	12751.0	0	12000.0	Black-legged Kittiwake	bklkit	0.6252	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_042502.wav	14.0
+10	Spectrogram 1	1	13177.0	13180.0	0	12000.0	Carrion Crow	carcro1	0.5583	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_050002.wav	44.0
+11	Spectrogram 1	1	13178.0	13181.0	0	12000.0	Carrion Crow	carcro1	0.6647	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_050002.wav	45.0
+12	Spectrogram 1	1	13179.0	13182.0	0	12000.0	Carrion Crow	carcro1	0.6899	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_050002.wav	46.0
+13	Spectrogram 1	1	13180.0	13183.0	0	12000.0	Carrion Crow	carcro1	0.6805	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_050002.wav	47.0
+14	Spectrogram 1	1	13336.0	13339.0	0	12000.0	European Goldfinch	eurgol	0.6953	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_051500.wav	32.0
+15	Spectrogram 1	1	13337.0	13340.0	0	12000.0	European Goldfinch	eurgol	0.7258	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_051500.wav	33.0
+16	Spectrogram 1	1	14001.0	14004.0	0	12000.0	Dunnock	dunnoc1	0.7193	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	37.0
+17	Spectrogram 1	1	14002.0	14005.0	0	12000.0	Dunnock	dunnoc1	0.8357	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	38.0
+18	Spectrogram 1	1	14003.0	14006.0	0	12000.0	Dunnock	dunnoc1	0.8506	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	39.0
+19	Spectrogram 1	1	14004.0	14007.0	0	12000.0	Dunnock	dunnoc1	0.8122	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	40.0
+20	Spectrogram 1	1	14005.0	14008.0	0	12000.0	Dunnock	dunnoc1	0.6926	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	41.0
+21	Spectrogram 1	1	14006.0	14009.0	0	12000.0	Dunnock	dunnoc1	0.8697	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	42.0
+22	Spectrogram 1	1	14008.0	14011.0	0	12000.0	Dunnock	dunnoc1	0.8955	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	44.0
+23	Spectrogram 1	1	14009.0	14012.0	0	12000.0	Dunnock	dunnoc1	0.8889	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	45.0
+24	Spectrogram 1	1	14010.0	14013.0	0	12000.0	Dunnock	dunnoc1	0.8701	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	46.0
+25	Spectrogram 1	1	14011.0	14014.0	0	12000.0	Dunnock	dunnoc1	0.8189	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_061000.wav	47.0
+26	Spectrogram 1	1	15852.0	15855.0	0	12000.0	Dunnock	dunnoc1	0.5372	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_084500.wav	28.0
+27	Spectrogram 1	1	15853.0	15856.0	0	12000.0	Dunnock	dunnoc1	0.5926	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_084500.wav	29.0
+28	Spectrogram 1	1	15854.0	15857.0	0	12000.0	Dunnock	dunnoc1	0.6683	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_084500.wav	30.0
+29	Spectrogram 1	1	15855.0	15858.0	0	12000.0	Dunnock	dunnoc1	0.7134	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_084500.wav	31.0
+30	Spectrogram 1	1	15869.0	15872.0	0	12000.0	Dunnock	dunnoc1	0.5845	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_084500.wav	45.0
+31	Spectrogram 1	1	17245.0	17248.0	0	12000.0	Dunnock	dunnoc1	0.5520	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_104000.wav	41.0
+32	Spectrogram 1	1	17246.0	17249.0	0	12000.0	Dunnock	dunnoc1	0.6444	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_104000.wav	42.0
+33	Spectrogram 1	1	17247.0	17250.0	0	12000.0	Dunnock	dunnoc1	0.6577	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_104000.wav	43.0
+34	Spectrogram 1	1	17248.0	17251.0	0	12000.0	Dunnock	dunnoc1	0.7315	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_104000.wav	44.0
+35	Spectrogram 1	1	17252.0	17255.0	0	12000.0	Dunnock	dunnoc1	0.8767	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_104000.wav	48.0
+36	Spectrogram 1	1	17253.0	17256.0	0	12000.0	Dunnock	dunnoc1	0.8834	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_104000.wav	49.0
+37	Spectrogram 1	1	17254.0	17257.0	0	12000.0	Dunnock	dunnoc1	0.6566	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_104000.wav	50.0
+38	Spectrogram 1	1	18528.0	18531.0	0	12000.0	Dunnock	dunnoc1	0.8106	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_123000.wav	4.0
+39	Spectrogram 1	1	18529.0	18532.0	0	12000.0	Dunnock	dunnoc1	0.6094	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_123000.wav	5.0
+40	Spectrogram 1	1	18534.0	18537.0	0	12000.0	Dunnock	dunnoc1	0.5703	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_123000.wav	10.0
+41	Spectrogram 1	1	18535.0	18538.0	0	12000.0	Dunnock	dunnoc1	0.8296	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_123000.wav	11.0
+42	Spectrogram 1	1	18536.0	18539.0	0	12000.0	Dunnock	dunnoc1	0.7544	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_123000.wav	12.0
+43	Spectrogram 1	1	18537.0	18540.0	0	12000.0	Dunnock	dunnoc1	0.6103	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_123000.wav	13.0
+44	Spectrogram 1	1	18749.0	18752.0	0	12000.0	Dunnock	dunnoc1	0.5787	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	45.0
+45	Spectrogram 1	1	18750.0	18753.0	0	12000.0	Dunnock	dunnoc1	0.8495	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	46.0
+46	Spectrogram 1	1	18751.0	18754.0	0	12000.0	Dunnock	dunnoc1	0.9032	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	47.0
+47	Spectrogram 1	1	18752.0	18755.0	0	12000.0	Dunnock	dunnoc1	0.9009	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	48.0
+48	Spectrogram 1	1	18753.0	18756.0	0	12000.0	Dunnock	dunnoc1	0.6742	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	49.0
+49	Spectrogram 1	1	18757.0	18760.0	0	12000.0	Dunnock	dunnoc1	0.8769	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	53.0
+50	Spectrogram 1	1	18758.0	18761.0	0	12000.0	Dunnock	dunnoc1	0.8804	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	54.0
+51	Spectrogram 1	1	18759.0	18762.0	0	12000.0	Dunnock	dunnoc1	0.8840	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	55.0
+52	Spectrogram 1	1	18760.0	18763.0	0	12000.0	Dunnock	dunnoc1	0.6718	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_124500.wav	56.0
+53	Spectrogram 1	1	20195.0	20198.0	0	12000.0	Herring Gull	hergul	0.5372	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_144500.wav	51.0
+54	Spectrogram 1	1	20212.0	20215.0	0	12000.0	Carrion Crow	carcro1	0.6124	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	8.0
+55	Spectrogram 1	1	20213.0	20216.0	0	12000.0	Carrion Crow	carcro1	0.6467	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	9.0
+56	Spectrogram 1	1	20214.0	20217.0	0	12000.0	Carrion Crow	carcro1	0.6516	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	10.0
+57	Spectrogram 1	1	20237.0	20240.0	0	12000.0	Carrion Crow	carcro1	0.6669	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	33.0
+58	Spectrogram 1	1	20238.0	20241.0	0	12000.0	Carrion Crow	carcro1	0.5966	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	34.0
+59	Spectrogram 1	1	20239.0	20242.0	0	12000.0	Carrion Crow	carcro1	0.6099	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	35.0
+60	Spectrogram 1	1	20240.0	20243.0	0	12000.0	Carrion Crow	carcro1	0.5723	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	36.0
+61	Spectrogram 1	1	20242.0	20245.0	0	12000.0	Carrion Crow	carcro1	0.5646	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	38.0
+62	Spectrogram 1	1	20243.0	20246.0	0	12000.0	Carrion Crow	carcro1	0.5286	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_145000.wav	39.0
+63	Spectrogram 1	1	20625.0	20628.0	0	12000.0	Dunnock	dunnoc1	0.5234	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_152500.wav	1.0
+64	Spectrogram 1	1	20626.0	20629.0	0	12000.0	Dunnock	dunnoc1	0.5639	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_152500.wav	2.0
+65	Spectrogram 1	1	22220.0	22223.0	0	12000.0	European Goldfinch	eurgol	0.5373	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_173500.wav	36.0
+66	Spectrogram 1	1	23491.0	23494.0	0	12000.0	Herring Gull	hergul	0.5369	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_192000.wav	47.0
+67	Spectrogram 1	1	23493.0	23496.0	0	12000.0	Herring Gull	hergul	0.5848	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_192000.wav	49.0
+68	Spectrogram 1	1	23494.0	23497.0	0	12000.0	Herring Gull	hergul	0.6898	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_192000.wav	50.0
+69	Spectrogram 1	1	23497.0	23500.0	0	12000.0	Herring Gull	hergul	0.5559	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_192000.wav	53.0
+70	Spectrogram 1	1	23663.0	23666.0	0	12000.0	Herring Gull	hergul	0.6178	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_193500.wav	39.0
+71	Spectrogram 1	1	23727.0	23730.0	0	12000.0	White Wagtail	whiwag	0.5705	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_194000.wav	43.0
+72	Spectrogram 1	1	23728.0	23731.0	0	12000.0	White Wagtail	whiwag	0.6465	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_194000.wav	44.0
+73	Spectrogram 1	1	23729.0	23732.0	0	12000.0	White Wagtail	whiwag	0.6760	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240612_194000.wav	45.0
+74	Spectrogram 1	1	29398.0	29401.0	0	12000.0	Herring Gull	hergul	0.5012	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_035502.wav	29.0
+75	Spectrogram 1	1	29401.0	29404.0	0	12000.0	Herring Gull	hergul	0.5501	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_035502.wav	32.0
+76	Spectrogram 1	1	29402.0	29405.0	0	12000.0	Herring Gull	hergul	0.5374	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_035502.wav	33.0
+77	Spectrogram 1	1	31017.0	31020.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5178	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_061500.wav	16.0
+78	Spectrogram 1	1	31031.0	31034.0	0	12000.0	Herring Gull	hergul	0.5073	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_061500.wav	30.0
+79	Spectrogram 1	1	31056.0	31059.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5260	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_061500.wav	55.0
+80	Spectrogram 1	1	31057.0	31060.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5191	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_061500.wav	56.0
+81	Spectrogram 1	1	31058.0	31061.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5293	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_061500.wav	57.0
+82	Spectrogram 1	1	31091.0	31094.0	0	12000.0	Mediterranean Gull	medgul1	0.5693	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_062000.wav	30.0
+83	Spectrogram 1	1	31411.0	31414.0	0	12000.0	Herring Gull	hergul	0.5022	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_064500.wav	50.0
+84	Spectrogram 1	1	31412.0	31415.0	0	12000.0	Herring Gull	hergul	0.5004	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_064500.wav	51.0
+85	Spectrogram 1	1	31413.0	31416.0	0	12000.0	Herring Gull	hergul	0.5286	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_064500.wav	52.0
+86	Spectrogram 1	1	31667.0	31670.0	0	12000.0	Dunnock	dunnoc1	0.6129	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_071000.wav	6.0
+87	Spectrogram 1	1	32318.0	32321.0	0	12000.0	Herring Gull	hergul	0.5584	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_080000.wav	57.0
+88	Spectrogram 1	1	32456.0	32459.0	0	12000.0	Herring Gull	hergul	0.5356	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_081500.wav	15.0
+89	Spectrogram 1	1	32469.0	32472.0	0	12000.0	Herring Gull	hergul	0.5367	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_081500.wav	28.0
+90	Spectrogram 1	1	32470.0	32473.0	0	12000.0	Herring Gull	hergul	0.5940	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_081500.wav	29.0
+91	Spectrogram 1	1	32471.0	32474.0	0	12000.0	Herring Gull	hergul	0.5460	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_081500.wav	30.0
+92	Spectrogram 1	1	32479.0	32482.0	0	12000.0	Herring Gull	hergul	0.5315	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_081500.wav	38.0
+93	Spectrogram 1	1	32483.0	32486.0	0	12000.0	Herring Gull	hergul	0.5252	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_081500.wav	42.0
+94	Spectrogram 1	1	32795.0	32798.0	0	12000.0	Herring Gull	hergul	0.5018	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_084000.wav	54.0
+95	Spectrogram 1	1	32906.0	32909.0	0	12000.0	European Goldfinch	eurgol	0.6150	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_085000.wav	45.0
+96	Spectrogram 1	1	32907.0	32910.0	0	12000.0	European Goldfinch	eurgol	0.7460	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_085000.wav	46.0
+97	Spectrogram 1	1	32908.0	32911.0	0	12000.0	European Goldfinch	eurgol	0.8660	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_085000.wav	47.0
+98	Spectrogram 1	1	32909.0	32912.0	0	12000.0	European Goldfinch	eurgol	0.7415	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_085000.wav	48.0
+99	Spectrogram 1	1	32910.0	32913.0	0	12000.0	European Goldfinch	eurgol	0.7244	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_085000.wav	49.0
+100	Spectrogram 1	1	32912.0	32915.0	0	12000.0	European Goldfinch	eurgol	0.7250	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_085000.wav	51.0
+101	Spectrogram 1	1	33161.0	33164.0	0	12000.0	Dunnock	dunnoc1	0.6726	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	0
+102	Spectrogram 1	1	33162.0	33165.0	0	12000.0	Dunnock	dunnoc1	0.7367	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	1.0
+103	Spectrogram 1	1	33163.0	33166.0	0	12000.0	Dunnock	dunnoc1	0.8978	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	2.0
+104	Spectrogram 1	1	33164.0	33167.0	0	12000.0	Dunnock	dunnoc1	0.8892	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	3.0
+105	Spectrogram 1	1	33165.0	33168.0	0	12000.0	Dunnock	dunnoc1	0.8333	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	4.0
+106	Spectrogram 1	1	33170.0	33173.0	0	12000.0	Dunnock	dunnoc1	0.8180	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	9.0
+107	Spectrogram 1	1	33171.0	33174.0	0	12000.0	Dunnock	dunnoc1	0.8799	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	10.0
+108	Spectrogram 1	1	33172.0	33175.0	0	12000.0	Dunnock	dunnoc1	0.8705	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	11.0
+109	Spectrogram 1	1	33178.0	33181.0	0	12000.0	Dunnock	dunnoc1	0.5705	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	17.0
+110	Spectrogram 1	1	33179.0	33182.0	0	12000.0	Dunnock	dunnoc1	0.6185	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	18.0
+111	Spectrogram 1	1	33180.0	33183.0	0	12000.0	Dunnock	dunnoc1	0.8112	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	19.0
+112	Spectrogram 1	1	33181.0	33184.0	0	12000.0	Dunnock	dunnoc1	0.6844	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	20.0
+113	Spectrogram 1	1	33184.0	33187.0	0	12000.0	Dunnock	dunnoc1	0.7614	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	23.0
+114	Spectrogram 1	1	33185.0	33188.0	0	12000.0	Dunnock	dunnoc1	0.8343	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	24.0
+115	Spectrogram 1	1	33186.0	33189.0	0	12000.0	Dunnock	dunnoc1	0.5544	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	25.0
+116	Spectrogram 1	1	33189.0	33192.0	0	12000.0	Dunnock	dunnoc1	0.8751	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	28.0
+117	Spectrogram 1	1	33190.0	33193.0	0	12000.0	Dunnock	dunnoc1	0.7930	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	29.0
+118	Spectrogram 1	1	33191.0	33194.0	0	12000.0	Dunnock	dunnoc1	0.7883	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	30.0
+119	Spectrogram 1	1	33192.0	33195.0	0	12000.0	Dunnock	dunnoc1	0.7769	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	31.0
+120	Spectrogram 1	1	33194.0	33197.0	0	12000.0	Dunnock	dunnoc1	0.6788	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	33.0
+121	Spectrogram 1	1	33195.0	33198.0	0	12000.0	Dunnock	dunnoc1	0.7698	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	34.0
+122	Spectrogram 1	1	33196.0	33199.0	0	12000.0	Dunnock	dunnoc1	0.8300	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	35.0
+123	Spectrogram 1	1	33197.0	33200.0	0	12000.0	Dunnock	dunnoc1	0.5087	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	36.0
+124	Spectrogram 1	1	33199.0	33202.0	0	12000.0	Dunnock	dunnoc1	0.7595	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	38.0
+125	Spectrogram 1	1	33200.0	33203.0	0	12000.0	Dunnock	dunnoc1	0.8387	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	39.0
+126	Spectrogram 1	1	33201.0	33204.0	0	12000.0	Dunnock	dunnoc1	0.8307	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	40.0
+127	Spectrogram 1	1	33204.0	33207.0	0	12000.0	Dunnock	dunnoc1	0.6767	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	43.0
+128	Spectrogram 1	1	33205.0	33208.0	0	12000.0	Dunnock	dunnoc1	0.6499	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	44.0
+129	Spectrogram 1	1	33214.0	33217.0	0	12000.0	Dunnock	dunnoc1	0.7424	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	53.0
+130	Spectrogram 1	1	33215.0	33218.0	0	12000.0	Dunnock	dunnoc1	0.6442	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	54.0
+131	Spectrogram 1	1	33216.0	33219.0	0	12000.0	Dunnock	dunnoc1	0.7890	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_091500.wav	55.0
+132	Spectrogram 1	1	34570.0	34573.0	0	12000.0	European Goldfinch	eurgol	0.6118	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_111000.wav	29.0
+133	Spectrogram 1	1	34572.0	34575.0	0	12000.0	European Goldfinch	eurgol	0.5405	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_111000.wav	31.0
+134	Spectrogram 1	1	34573.0	34576.0	0	12000.0	European Goldfinch	eurgol	0.9131	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_111000.wav	32.0
+135	Spectrogram 1	1	34574.0	34577.0	0	12000.0	European Goldfinch	eurgol	0.7795	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_111000.wav	33.0
+136	Spectrogram 1	1	34575.0	34578.0	0	12000.0	European Goldfinch	eurgol	0.8900	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_111000.wav	34.0
+137	Spectrogram 1	1	35234.0	35237.0	0	12000.0	Herring Gull	hergul	0.5504	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_120500.wav	33.0
+138	Spectrogram 1	1	35801.0	35804.0	0	12000.0	Herring Gull	hergul	0.7129	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_125500.wav	0
+139	Spectrogram 1	1	35802.0	35805.0	0	12000.0	Herring Gull	hergul	0.5584	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_125500.wav	1.0
+140	Spectrogram 1	1	37512.0	37515.0	0	12000.0	Eurasian Magpie	eurmag1	0.8221	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_151500.wav	31.0
+141	Spectrogram 1	1	37513.0	37516.0	0	12000.0	Eurasian Magpie	eurmag1	0.7762	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_151500.wav	32.0
+142	Spectrogram 1	1	37514.0	37517.0	0	12000.0	Eurasian Magpie	eurmag1	0.7582	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_151500.wav	33.0
+143	Spectrogram 1	1	38160.0	38163.0	0	12000.0	European Goldfinch	eurgol	0.8400	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_161000.wav	19.0
+144	Spectrogram 1	1	38161.0	38164.0	0	12000.0	European Goldfinch	eurgol	0.8966	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_161000.wav	20.0
+145	Spectrogram 1	1	38164.0	38167.0	0	12000.0	European Goldfinch	eurgol	0.8199	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_161000.wav	23.0
+146	Spectrogram 1	1	38165.0	38168.0	0	12000.0	European Goldfinch	eurgol	0.7082	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_161000.wav	24.0
+147	Spectrogram 1	1	38166.0	38169.0	0	12000.0	European Goldfinch	eurgol	0.7242	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_161000.wav	25.0
+148	Spectrogram 1	1	38167.0	38170.0	0	12000.0	European Goldfinch	eurgol	0.6540	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_161000.wav	26.0
+149	Spectrogram 1	1	38168.0	38171.0	0	12000.0	European Goldfinch	eurgol	0.8020	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_161000.wav	27.0
+150	Spectrogram 1	1	38267.0	38270.0	0	12000.0	Green-winged Teal	gnwtea	0.5103	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_162000.wav	6.0
+151	Spectrogram 1	1	40896.0	40899.0	0	12000.0	White Wagtail	whiwag	0.5040	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_195500.wav	55.0
+152	Spectrogram 1	1	40897.0	40900.0	0	12000.0	White Wagtail	whiwag	0.5671	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_195500.wav	56.0
+153	Spectrogram 1	1	40898.0	40901.0	0	12000.0	White Wagtail	whiwag	0.6340	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_195500.wav	57.0
+154	Spectrogram 1	1	41798.0	41801.0	0	12000.0	Song Thrush	sonthr1	0.5308	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_211502.wav	12.0
+155	Spectrogram 1	1	43553.0	43556.0	0	12000.0	Herring Gull	hergul	0.5343	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240613_235002.wav	0
+156	Spectrogram 1	1	46350.0	46353.0	0	12000.0	Herring Gull	hergul	0.5002	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_035502.wav	4.0
+157	Spectrogram 1	1	46351.0	46354.0	0	12000.0	Herring Gull	hergul	0.5451	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_035502.wav	5.0
+158	Spectrogram 1	1	47165.0	47168.0	0	12000.0	Peregrine Falcon	perfal	0.5022	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_050502.wav	21.0
+159	Spectrogram 1	1	47166.0	47169.0	0	12000.0	Peregrine Falcon	perfal	0.5080	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_050502.wav	22.0
+160	Spectrogram 1	1	47571.0	47574.0	0	12000.0	European Goldfinch	eurgol	0.9258	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	13.0
+161	Spectrogram 1	1	47572.0	47575.0	0	12000.0	European Goldfinch	eurgol	0.5494	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	14.0
+162	Spectrogram 1	1	47574.0	47577.0	0	12000.0	European Goldfinch	eurgol	0.8604	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	16.0
+163	Spectrogram 1	1	47575.0	47578.0	0	12000.0	European Goldfinch	eurgol	0.8629	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	17.0
+164	Spectrogram 1	1	47578.0	47581.0	0	12000.0	European Goldfinch	eurgol	0.6621	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	20.0
+165	Spectrogram 1	1	47579.0	47582.0	0	12000.0	European Goldfinch	eurgol	0.8731	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	21.0
+166	Spectrogram 1	1	47580.0	47583.0	0	12000.0	European Goldfinch	eurgol	0.7332	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	22.0
+167	Spectrogram 1	1	47583.0	47586.0	0	12000.0	European Goldfinch	eurgol	0.5852	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	25.0
+168	Spectrogram 1	1	47584.0	47587.0	0	12000.0	European Goldfinch	eurgol	0.6938	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	26.0
+169	Spectrogram 1	1	47593.0	47596.0	0	12000.0	European Goldfinch	eurgol	0.5796	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	35.0
+170	Spectrogram 1	1	47594.0	47597.0	0	12000.0	European Goldfinch	eurgol	0.7894	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	36.0
+171	Spectrogram 1	1	47595.0	47598.0	0	12000.0	European Goldfinch	eurgol	0.8988	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	37.0
+172	Spectrogram 1	1	47597.0	47600.0	0	12000.0	European Goldfinch	eurgol	0.5772	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	39.0
+173	Spectrogram 1	1	47598.0	47601.0	0	12000.0	European Goldfinch	eurgol	0.7716	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	40.0
+174	Spectrogram 1	1	47599.0	47602.0	0	12000.0	European Goldfinch	eurgol	0.7796	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	41.0
+175	Spectrogram 1	1	47600.0	47603.0	0	12000.0	European Goldfinch	eurgol	0.6910	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	42.0
+176	Spectrogram 1	1	47601.0	47604.0	0	12000.0	European Goldfinch	eurgol	0.8146	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	43.0
+177	Spectrogram 1	1	47602.0	47605.0	0	12000.0	European Goldfinch	eurgol	0.7669	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	44.0
+178	Spectrogram 1	1	47603.0	47606.0	0	12000.0	European Goldfinch	eurgol	0.8470	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	45.0
+179	Spectrogram 1	1	47604.0	47607.0	0	12000.0	European Goldfinch	eurgol	0.8756	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	46.0
+180	Spectrogram 1	1	47605.0	47608.0	0	12000.0	European Goldfinch	eurgol	0.8341	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	47.0
+181	Spectrogram 1	1	47606.0	47609.0	0	12000.0	European Goldfinch	eurgol	0.6712	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	48.0
+182	Spectrogram 1	1	47607.0	47610.0	0	12000.0	European Goldfinch	eurgol	0.8978	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	49.0
+183	Spectrogram 1	1	47608.0	47611.0	0	12000.0	European Goldfinch	eurgol	0.9250	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	50.0
+184	Spectrogram 1	1	47609.0	47612.0	0	12000.0	European Goldfinch	eurgol	0.6817	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	51.0
+185	Spectrogram 1	1	47611.0	47614.0	0	12000.0	European Goldfinch	eurgol	0.7678	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	53.0
+186	Spectrogram 1	1	47612.0	47615.0	0	12000.0	European Goldfinch	eurgol	0.9299	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	54.0
+187	Spectrogram 1	1	47613.0	47616.0	0	12000.0	European Goldfinch	eurgol	0.8802	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054000.wav	55.0
+188	Spectrogram 1	1	47618.0	47621.0	0	12000.0	European Goldfinch	eurgol	0.6444	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	0
+189	Spectrogram 1	1	47619.0	47622.0	0	12000.0	European Goldfinch	eurgol	0.8010	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	1.0
+190	Spectrogram 1	1	47621.0	47624.0	0	12000.0	European Goldfinch	eurgol	0.8810	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	3.0
+191	Spectrogram 1	1	47622.0	47625.0	0	12000.0	European Goldfinch	eurgol	0.8767	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	4.0
+192	Spectrogram 1	1	47623.0	47626.0	0	12000.0	European Goldfinch	eurgol	0.9271	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	5.0
+193	Spectrogram 1	1	47624.0	47627.0	0	12000.0	European Goldfinch	eurgol	0.8449	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	6.0
+194	Spectrogram 1	1	47630.0	47633.0	0	12000.0	European Goldfinch	eurgol	0.5202	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	12.0
+195	Spectrogram 1	1	47635.0	47638.0	0	12000.0	European Goldfinch	eurgol	0.8868	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	17.0
+196	Spectrogram 1	1	47636.0	47639.0	0	12000.0	European Goldfinch	eurgol	0.8860	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	18.0
+197	Spectrogram 1	1	47637.0	47640.0	0	12000.0	European Goldfinch	eurgol	0.8776	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	19.0
+198	Spectrogram 1	1	47639.0	47642.0	0	12000.0	European Goldfinch	eurgol	0.7405	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	21.0
+199	Spectrogram 1	1	47640.0	47643.0	0	12000.0	European Goldfinch	eurgol	0.8724	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	22.0
+200	Spectrogram 1	1	47641.0	47644.0	0	12000.0	European Goldfinch	eurgol	0.7117	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	23.0
+201	Spectrogram 1	1	47642.0	47645.0	0	12000.0	European Goldfinch	eurgol	0.8058	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_054500.wav	24.0
+202	Spectrogram 1	1	49209.0	49212.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5395	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_075500.wav	31.0
+203	Spectrogram 1	1	49210.0	49213.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5883	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_075500.wav	32.0
+204	Spectrogram 1	1	52829.0	52832.0	0	12000.0	Carrion Crow	carcro1	0.5175	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_125500.wav	51.0
+205	Spectrogram 1	1	53699.0	53702.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5225	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_141000.wav	21.0
+206	Spectrogram 1	1	53700.0	53703.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5767	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_141000.wav	22.0
+207	Spectrogram 1	1	53701.0	53704.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6627	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_141000.wav	23.0
+208	Spectrogram 1	1	53702.0	53705.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6961	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_141000.wav	24.0
+209	Spectrogram 1	1	53703.0	53706.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6333	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_141000.wav	25.0
+210	Spectrogram 1	1	53704.0	53707.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5684	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_141000.wav	26.0
+211	Spectrogram 1	1	54127.0	54130.0	0	12000.0	Peregrine Falcon	perfal	0.5848	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_144500.wav	29.0
+212	Spectrogram 1	1	56028.0	56031.0	0	12000.0	Herring Gull	hergul	0.6401	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_172500.wav	10.0
+213	Spectrogram 1	1	56029.0	56032.0	0	12000.0	Herring Gull	hergul	0.6310	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_172500.wav	11.0
+214	Spectrogram 1	1	56030.0	56033.0	0	12000.0	Herring Gull	hergul	0.5990	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_172500.wav	12.0
+215	Spectrogram 1	1	56040.0	56043.0	0	12000.0	Herring Gull	hergul	0.5500	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_172500.wav	22.0
+216	Spectrogram 1	1	56782.0	56785.0	0	12000.0	European Goldfinch	eurgol	0.7833	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_182500.wav	44.0
+217	Spectrogram 1	1	56783.0	56786.0	0	12000.0	European Goldfinch	eurgol	0.5589	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_182500.wav	45.0
+218	Spectrogram 1	1	56802.0	56805.0	0	12000.0	European Goldfinch	eurgol	0.7400	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	4.0
+219	Spectrogram 1	1	56803.0	56806.0	0	12000.0	European Goldfinch	eurgol	0.8981	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	5.0
+220	Spectrogram 1	1	56804.0	56807.0	0	12000.0	European Goldfinch	eurgol	0.5276	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	6.0
+221	Spectrogram 1	1	56812.0	56815.0	0	12000.0	European Goldfinch	eurgol	0.8112	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	14.0
+222	Spectrogram 1	1	56813.0	56816.0	0	12000.0	European Goldfinch	eurgol	0.5604	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	15.0
+223	Spectrogram 1	1	56814.0	56817.0	0	12000.0	European Goldfinch	eurgol	0.7656	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	16.0
+224	Spectrogram 1	1	56822.0	56825.0	0	12000.0	European Goldfinch	eurgol	0.8271	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	24.0
+225	Spectrogram 1	1	56823.0	56826.0	0	12000.0	European Goldfinch	eurgol	0.6952	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	25.0
+226	Spectrogram 1	1	56824.0	56827.0	0	12000.0	European Goldfinch	eurgol	0.8345	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	26.0
+227	Spectrogram 1	1	56825.0	56828.0	0	12000.0	European Goldfinch	eurgol	0.8262	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	27.0
+228	Spectrogram 1	1	56835.0	56838.0	0	12000.0	European Goldfinch	eurgol	0.5165	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	37.0
+229	Spectrogram 1	1	56853.0	56856.0	0	12000.0	European Goldfinch	eurgol	0.6840	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_183000.wav	55.0
+230	Spectrogram 1	1	57503.0	57506.0	0	12000.0	Eurasian Curlew	eurcur	0.5547	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_192500.wav	45.0
+231	Spectrogram 1	1	57635.0	57638.0	0	12000.0	Peregrine Falcon	perfal	0.6553	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_193500.wav	57.0
+232	Spectrogram 1	1	57692.0	57695.0	0	12000.0	Peregrine Falcon	perfal	0.5789	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240614_194000.wav	54.0
+233	Spectrogram 1	1	63453.0	63456.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5014	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_040502.wav	16.0
+234	Spectrogram 1	1	64362.0	64365.0	0	12000.0	European Goldfinch	eurgol	0.8604	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_052500.wav	7.0
+235	Spectrogram 1	1	64363.0	64366.0	0	12000.0	European Goldfinch	eurgol	0.8126	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_052500.wav	8.0
+236	Spectrogram 1	1	64364.0	64367.0	0	12000.0	European Goldfinch	eurgol	0.7595	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_052500.wav	9.0
+237	Spectrogram 1	1	64376.0	64379.0	0	12000.0	European Goldfinch	eurgol	0.7238	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_052500.wav	21.0
+238	Spectrogram 1	1	64377.0	64380.0	0	12000.0	European Goldfinch	eurgol	0.5290	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_052500.wav	22.0
+239	Spectrogram 1	1	64380.0	64383.0	0	12000.0	European Goldfinch	eurgol	0.8386	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_052500.wav	25.0
+240	Spectrogram 1	1	64381.0	64384.0	0	12000.0	European Goldfinch	eurgol	0.7821	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_052500.wav	26.0
+241	Spectrogram 1	1	64382.0	64385.0	0	12000.0	European Goldfinch	eurgol	0.9002	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_052500.wav	27.0
+242	Spectrogram 1	1	64484.0	64487.0	0	12000.0	Carrion Crow	carcro1	0.5204	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_053500.wav	9.0
+243	Spectrogram 1	1	64486.0	64489.0	0	12000.0	Carrion Crow	carcro1	0.6326	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_053500.wav	11.0
+244	Spectrogram 1	1	64487.0	64490.0	0	12000.0	Carrion Crow	carcro1	0.5878	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_053500.wav	12.0
+245	Spectrogram 1	1	64488.0	64491.0	0	12000.0	Carrion Crow	carcro1	0.5632	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_053500.wav	13.0
+246	Spectrogram 1	1	64496.0	64499.0	0	12000.0	Carrion Crow	carcro1	0.6261	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_053500.wav	21.0
+247	Spectrogram 1	1	64497.0	64500.0	0	12000.0	Carrion Crow	carcro1	0.5872	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_053500.wav	22.0
+248	Spectrogram 1	1	64498.0	64501.0	0	12000.0	Carrion Crow	carcro1	0.5544	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_053500.wav	23.0
+249	Spectrogram 1	1	64536.0	64539.0	0	12000.0	European Goldfinch	eurgol	0.7092	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	1.0
+250	Spectrogram 1	1	64537.0	64540.0	0	12000.0	European Goldfinch	eurgol	0.7453	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	2.0
+251	Spectrogram 1	1	64538.0	64541.0	0	12000.0	European Goldfinch	eurgol	0.6832	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	3.0
+252	Spectrogram 1	1	64539.0	64542.0	0	12000.0	European Goldfinch	eurgol	0.7949	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	4.0
+253	Spectrogram 1	1	64541.0	64544.0	0	12000.0	European Goldfinch	eurgol	0.6732	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	6.0
+254	Spectrogram 1	1	64542.0	64545.0	0	12000.0	European Goldfinch	eurgol	0.6692	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	7.0
+255	Spectrogram 1	1	64545.0	64548.0	0	12000.0	European Goldfinch	eurgol	0.6745	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	10.0
+256	Spectrogram 1	1	64546.0	64549.0	0	12000.0	European Goldfinch	eurgol	0.6337	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	11.0
+257	Spectrogram 1	1	64547.0	64550.0	0	12000.0	European Goldfinch	eurgol	0.6794	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	12.0
+258	Spectrogram 1	1	64549.0	64552.0	0	12000.0	European Goldfinch	eurgol	0.7000	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	14.0
+259	Spectrogram 1	1	64550.0	64553.0	0	12000.0	European Goldfinch	eurgol	0.8364	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	15.0
+260	Spectrogram 1	1	64551.0	64554.0	0	12000.0	European Goldfinch	eurgol	0.5742	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	16.0
+261	Spectrogram 1	1	64552.0	64555.0	0	12000.0	European Goldfinch	eurgol	0.7565	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	17.0
+262	Spectrogram 1	1	64558.0	64561.0	0	12000.0	European Goldfinch	eurgol	0.5970	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	23.0
+263	Spectrogram 1	1	64559.0	64562.0	0	12000.0	European Goldfinch	eurgol	0.6821	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	24.0
+264	Spectrogram 1	1	64560.0	64563.0	0	12000.0	European Goldfinch	eurgol	0.7995	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	25.0
+265	Spectrogram 1	1	64563.0	64566.0	0	12000.0	European Goldfinch	eurgol	0.5379	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	28.0
+266	Spectrogram 1	1	64583.0	64586.0	0	12000.0	European Goldfinch	eurgol	0.6361	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	48.0
+267	Spectrogram 1	1	64584.0	64587.0	0	12000.0	European Goldfinch	eurgol	0.8010	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	49.0
+268	Spectrogram 1	1	64585.0	64588.0	0	12000.0	European Goldfinch	eurgol	0.7762	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	50.0
+269	Spectrogram 1	1	64586.0	64589.0	0	12000.0	European Goldfinch	eurgol	0.7201	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	51.0
+270	Spectrogram 1	1	64587.0	64590.0	0	12000.0	European Goldfinch	eurgol	0.5790	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	52.0
+271	Spectrogram 1	1	64588.0	64591.0	0	12000.0	European Goldfinch	eurgol	0.7929	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	53.0
+272	Spectrogram 1	1	64589.0	64592.0	0	12000.0	European Goldfinch	eurgol	0.6672	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	54.0
+273	Spectrogram 1	1	64590.0	64593.0	0	12000.0	European Goldfinch	eurgol	0.8887	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	55.0
+274	Spectrogram 1	1	64591.0	64594.0	0	12000.0	European Goldfinch	eurgol	0.7446	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	56.0
+275	Spectrogram 1	1	64592.0	64595.0	0	12000.0	European Goldfinch	eurgol	0.8847	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_054000.wav	57.0
+276	Spectrogram 1	1	65255.0	65258.0	0	12000.0	European Goldfinch	eurgol	0.8767	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_064000.wav	0
+277	Spectrogram 1	1	65256.0	65259.0	0	12000.0	European Goldfinch	eurgol	0.8754	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_064000.wav	1.0
+278	Spectrogram 1	1	65257.0	65260.0	0	12000.0	European Goldfinch	eurgol	0.8751	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_064000.wav	2.0
+279	Spectrogram 1	1	65258.0	65261.0	0	12000.0	European Goldfinch	eurgol	0.7478	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_064000.wav	3.0
+280	Spectrogram 1	1	65259.0	65262.0	0	12000.0	European Goldfinch	eurgol	0.8895	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_064000.wav	4.0
+281	Spectrogram 1	1	65260.0	65263.0	0	12000.0	European Goldfinch	eurgol	0.8927	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_064000.wav	5.0
+282	Spectrogram 1	1	65261.0	65264.0	0	12000.0	European Goldfinch	eurgol	0.8105	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_064000.wav	6.0
+283	Spectrogram 1	1	65262.0	65265.0	0	12000.0	European Goldfinch	eurgol	0.5112	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_064000.wav	7.0
+284	Spectrogram 1	1	68269.0	68272.0	0	12000.0	European Goldfinch	eurgol	0.8030	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105000.wav	14.0
+285	Spectrogram 1	1	68270.0	68273.0	0	12000.0	European Goldfinch	eurgol	0.7861	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105000.wav	15.0
+286	Spectrogram 1	1	68271.0	68274.0	0	12000.0	European Goldfinch	eurgol	0.8598	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105000.wav	16.0
+287	Spectrogram 1	1	68272.0	68275.0	0	12000.0	European Goldfinch	eurgol	0.5958	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105000.wav	17.0
+288	Spectrogram 1	1	68274.0	68277.0	0	12000.0	European Goldfinch	eurgol	0.8136	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105000.wav	19.0
+289	Spectrogram 1	1	68276.0	68279.0	0	12000.0	European Goldfinch	eurgol	0.5185	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105000.wav	21.0
+290	Spectrogram 1	1	68277.0	68280.0	0	12000.0	European Goldfinch	eurgol	0.6517	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105000.wav	22.0
+291	Spectrogram 1	1	68278.0	68281.0	0	12000.0	European Goldfinch	eurgol	0.7913	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105000.wav	23.0
+292	Spectrogram 1	1	68333.0	68336.0	0	12000.0	Herring Gull	hergul	0.5471	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105500.wav	18.0
+293	Spectrogram 1	1	68334.0	68337.0	0	12000.0	Herring Gull	hergul	0.6423	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105500.wav	19.0
+294	Spectrogram 1	1	68336.0	68339.0	0	12000.0	Herring Gull	hergul	0.5155	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105500.wav	21.0
+295	Spectrogram 1	1	68356.0	68359.0	0	12000.0	Herring Gull	hergul	0.5515	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105500.wav	41.0
+296	Spectrogram 1	1	68357.0	68360.0	0	12000.0	Herring Gull	hergul	0.5764	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105500.wav	42.0
+297	Spectrogram 1	1	68359.0	68362.0	0	12000.0	Herring Gull	hergul	0.5716	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_105500.wav	44.0
+298	Spectrogram 1	1	71381.0	71384.0	0	12000.0	Herring Gull	hergul	0.5823	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_151000.wav	6.0
+299	Spectrogram 1	1	71385.0	71388.0	0	12000.0	Herring Gull	hergul	0.5659	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_151000.wav	10.0
+300	Spectrogram 1	1	71386.0	71389.0	0	12000.0	Herring Gull	hergul	0.5817	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_151000.wav	11.0
+301	Spectrogram 1	1	73922.0	73925.0	0	12000.0	Dunnock	dunnoc1	0.7065	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_184000.wav	27.0
+302	Spectrogram 1	1	73923.0	73926.0	0	12000.0	Dunnock	dunnoc1	0.8451	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_184000.wav	28.0
+303	Spectrogram 1	1	73924.0	73927.0	0	12000.0	Dunnock	dunnoc1	0.9326	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_184000.wav	29.0
+304	Spectrogram 1	1	73925.0	73928.0	0	12000.0	Dunnock	dunnoc1	0.9185	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_184000.wav	30.0
+305	Spectrogram 1	1	73926.0	73929.0	0	12000.0	Dunnock	dunnoc1	0.7853	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_184000.wav	31.0
+306	Spectrogram 1	1	73927.0	73930.0	0	12000.0	Coal Tit	coatit2	0.7953	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_184000.wav	32.0
+307	Spectrogram 1	1	74636.0	74639.0	0	12000.0	White Wagtail	whiwag	0.9464	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_194000.wav	21.0
+308	Spectrogram 1	1	74637.0	74640.0	0	12000.0	White Wagtail	whiwag	0.9582	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_194000.wav	22.0
+309	Spectrogram 1	1	74638.0	74641.0	0	12000.0	White Wagtail	whiwag	0.9758	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_194000.wav	23.0
+310	Spectrogram 1	1	74639.0	74642.0	0	12000.0	White Wagtail	whiwag	0.9213	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_194000.wav	24.0
+311	Spectrogram 1	1	74640.0	74643.0	0	12000.0	White Wagtail	whiwag	0.7293	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_194000.wav	25.0
+312	Spectrogram 1	1	74915.0	74918.0	0	12000.0	European Goldfinch	eurgol	0.7225	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	0
+313	Spectrogram 1	1	74917.0	74920.0	0	12000.0	European Goldfinch	eurgol	0.8701	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	2.0
+314	Spectrogram 1	1	74918.0	74921.0	0	12000.0	European Goldfinch	eurgol	0.6382	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	3.0
+315	Spectrogram 1	1	74919.0	74922.0	0	12000.0	European Goldfinch	eurgol	0.8252	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	4.0
+316	Spectrogram 1	1	74923.0	74926.0	0	12000.0	European Goldfinch	eurgol	0.6817	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	8.0
+317	Spectrogram 1	1	74924.0	74927.0	0	12000.0	European Goldfinch	eurgol	0.7088	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	9.0
+318	Spectrogram 1	1	74925.0	74928.0	0	12000.0	European Goldfinch	eurgol	0.5551	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	10.0
+319	Spectrogram 1	1	74926.0	74929.0	0	12000.0	European Goldfinch	eurgol	0.5497	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	11.0
+320	Spectrogram 1	1	74929.0	74932.0	0	12000.0	European Goldfinch	eurgol	0.5746	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	14.0
+321	Spectrogram 1	1	74930.0	74933.0	0	12000.0	European Goldfinch	eurgol	0.8060	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	15.0
+322	Spectrogram 1	1	74931.0	74934.0	0	12000.0	European Goldfinch	eurgol	0.7585	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	16.0
+323	Spectrogram 1	1	74932.0	74935.0	0	12000.0	European Goldfinch	eurgol	0.5697	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	17.0
+324	Spectrogram 1	1	74934.0	74937.0	0	12000.0	European Goldfinch	eurgol	0.6597	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	19.0
+325	Spectrogram 1	1	74935.0	74938.0	0	12000.0	European Goldfinch	eurgol	0.6334	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	20.0
+326	Spectrogram 1	1	74936.0	74939.0	0	12000.0	European Goldfinch	eurgol	0.7083	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	21.0
+327	Spectrogram 1	1	74937.0	74940.0	0	12000.0	European Goldfinch	eurgol	0.7313	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	22.0
+328	Spectrogram 1	1	74938.0	74941.0	0	12000.0	European Goldfinch	eurgol	0.8193	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	23.0
+329	Spectrogram 1	1	74939.0	74942.0	0	12000.0	European Goldfinch	eurgol	0.5126	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	24.0
+330	Spectrogram 1	1	74941.0	74944.0	0	12000.0	European Goldfinch	eurgol	0.5338	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	26.0
+331	Spectrogram 1	1	74942.0	74945.0	0	12000.0	European Goldfinch	eurgol	0.5308	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	27.0
+332	Spectrogram 1	1	74943.0	74946.0	0	12000.0	European Goldfinch	eurgol	0.6553	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	28.0
+333	Spectrogram 1	1	74946.0	74949.0	0	12000.0	European Goldfinch	eurgol	0.7565	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	31.0
+334	Spectrogram 1	1	74947.0	74950.0	0	12000.0	European Goldfinch	eurgol	0.7795	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	32.0
+335	Spectrogram 1	1	74948.0	74951.0	0	12000.0	European Goldfinch	eurgol	0.7594	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	33.0
+336	Spectrogram 1	1	74949.0	74952.0	0	12000.0	European Goldfinch	eurgol	0.6791	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	34.0
+337	Spectrogram 1	1	74955.0	74958.0	0	12000.0	European Goldfinch	eurgol	0.8476	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	40.0
+338	Spectrogram 1	1	74956.0	74959.0	0	12000.0	European Goldfinch	eurgol	0.8738	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	41.0
+339	Spectrogram 1	1	74957.0	74960.0	0	12000.0	European Goldfinch	eurgol	0.8588	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	42.0
+340	Spectrogram 1	1	74958.0	74961.0	0	12000.0	European Goldfinch	eurgol	0.8498	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	43.0
+341	Spectrogram 1	1	74959.0	74962.0	0	12000.0	European Goldfinch	eurgol	0.8328	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	44.0
+342	Spectrogram 1	1	74960.0	74963.0	0	12000.0	European Goldfinch	eurgol	0.6203	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	45.0
+343	Spectrogram 1	1	74961.0	74964.0	0	12000.0	European Goldfinch	eurgol	0.6908	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	46.0
+344	Spectrogram 1	1	74962.0	74965.0	0	12000.0	European Goldfinch	eurgol	0.8697	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	47.0
+345	Spectrogram 1	1	74963.0	74966.0	0	12000.0	European Goldfinch	eurgol	0.7895	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	48.0
+346	Spectrogram 1	1	74964.0	74967.0	0	12000.0	European Goldfinch	eurgol	0.5395	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	49.0
+347	Spectrogram 1	1	74965.0	74968.0	0	12000.0	European Goldfinch	eurgol	0.7868	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	50.0
+348	Spectrogram 1	1	74966.0	74969.0	0	12000.0	European Goldfinch	eurgol	0.8654	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	51.0
+349	Spectrogram 1	1	74967.0	74970.0	0	12000.0	European Goldfinch	eurgol	0.5174	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	52.0
+350	Spectrogram 1	1	74968.0	74971.0	0	12000.0	European Goldfinch	eurgol	0.5136	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	53.0
+351	Spectrogram 1	1	74969.0	74972.0	0	12000.0	European Goldfinch	eurgol	0.8475	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	54.0
+352	Spectrogram 1	1	74970.0	74973.0	0	12000.0	European Goldfinch	eurgol	0.8350	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	55.0
+353	Spectrogram 1	1	74971.0	74974.0	0	12000.0	European Goldfinch	eurgol	0.7713	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_200500.wav	56.0
+354	Spectrogram 1	1	74984.0	74987.0	0	12000.0	European Goldfinch	eurgol	0.7660	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	9.0
+355	Spectrogram 1	1	74985.0	74988.0	0	12000.0	European Goldfinch	eurgol	0.8057	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	10.0
+356	Spectrogram 1	1	74986.0	74989.0	0	12000.0	European Goldfinch	eurgol	0.7131	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	11.0
+357	Spectrogram 1	1	74987.0	74990.0	0	12000.0	European Goldfinch	eurgol	0.7614	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	12.0
+358	Spectrogram 1	1	74988.0	74991.0	0	12000.0	European Goldfinch	eurgol	0.8514	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	13.0
+359	Spectrogram 1	1	74989.0	74992.0	0	12000.0	European Goldfinch	eurgol	0.8897	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	14.0
+360	Spectrogram 1	1	74991.0	74994.0	0	12000.0	European Goldfinch	eurgol	0.7488	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	16.0
+361	Spectrogram 1	1	74993.0	74996.0	0	12000.0	European Goldfinch	eurgol	0.9240	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	18.0
+362	Spectrogram 1	1	74994.0	74997.0	0	12000.0	European Goldfinch	eurgol	0.9242	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	19.0
+363	Spectrogram 1	1	74995.0	74998.0	0	12000.0	European Goldfinch	eurgol	0.9109	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	20.0
+364	Spectrogram 1	1	75002.0	75005.0	0	12000.0	European Goldfinch	eurgol	0.8092	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_201000.wav	27.0
+365	Spectrogram 1	1	75450.0	75453.0	0	12000.0	Herring Gull	hergul	0.5242	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_204500.wav	55.0
+366	Spectrogram 1	1	75451.0	75454.0	0	12000.0	Herring Gull	hergul	0.5972	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240615_204500.wav	56.0
+367	Spectrogram 1	1	79617.0	79620.0	0	12000.0	Herring Gull	hergul	0.5904	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_025502.wav	1.0
+368	Spectrogram 1	1	79618.0	79621.0	0	12000.0	Herring Gull	hergul	0.5892	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_025502.wav	2.0
+369	Spectrogram 1	1	79619.0	79622.0	0	12000.0	Herring Gull	hergul	0.5600	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_025502.wav	3.0
+370	Spectrogram 1	1	79620.0	79623.0	0	12000.0	Herring Gull	hergul	0.5994	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_025502.wav	4.0
+371	Spectrogram 1	1	79621.0	79624.0	0	12000.0	Herring Gull	hergul	0.5538	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_025502.wav	5.0
+372	Spectrogram 1	1	80372.0	80375.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5421	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_040002.wav	15.0
+373	Spectrogram 1	1	82145.0	82148.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5291	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	33.0
+374	Spectrogram 1	1	82154.0	82157.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5532	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	42.0
+375	Spectrogram 1	1	82155.0	82158.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5937	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	43.0
+376	Spectrogram 1	1	82156.0	82159.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6157	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	44.0
+377	Spectrogram 1	1	82158.0	82161.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6050	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	46.0
+378	Spectrogram 1	1	82159.0	82162.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6492	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	47.0
+379	Spectrogram 1	1	82160.0	82163.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5945	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	48.0
+380	Spectrogram 1	1	82161.0	82164.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5133	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	49.0
+381	Spectrogram 1	1	82162.0	82165.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5533	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	50.0
+382	Spectrogram 1	1	82163.0	82166.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5182	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	51.0
+383	Spectrogram 1	1	82164.0	82167.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5996	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	52.0
+384	Spectrogram 1	1	82165.0	82168.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6082	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	53.0
+385	Spectrogram 1	1	82166.0	82169.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6581	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	54.0
+386	Spectrogram 1	1	82167.0	82170.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6874	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	55.0
+387	Spectrogram 1	1	82168.0	82171.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6411	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	56.0
+388	Spectrogram 1	1	82169.0	82172.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6185	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_063000.wav	57.0
+389	Spectrogram 1	1	82940.0	82943.0	0	12000.0	Herring Gull	hergul	0.5112	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_073500.wav	48.0
+390	Spectrogram 1	1	83015.0	83018.0	0	12000.0	Mallard	mallar3	0.6116	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_074500.wav	3.0
+391	Spectrogram 1	1	83062.0	83065.0	0	12000.0	European Goldfinch	eurgol	0.7463	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_074500.wav	50.0
+392	Spectrogram 1	1	83063.0	83066.0	0	12000.0	European Goldfinch	eurgol	0.7347	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_074500.wav	51.0
+393	Spectrogram 1	1	83064.0	83067.0	0	12000.0	European Goldfinch	eurgol	0.8724	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_074500.wav	52.0
+394	Spectrogram 1	1	83065.0	83068.0	0	12000.0	European Goldfinch	eurgol	0.7034	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_074500.wav	53.0
+395	Spectrogram 1	1	83066.0	83069.0	0	12000.0	European Goldfinch	eurgol	0.7746	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_074500.wav	54.0
+396	Spectrogram 1	1	83067.0	83070.0	0	12000.0	European Goldfinch	eurgol	0.6744	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_074500.wav	55.0
+397	Spectrogram 1	1	83184.0	83187.0	0	12000.0	Black Redstart	blared1	0.6240	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_075500.wav	52.0
+398	Spectrogram 1	1	83337.0	83340.0	0	12000.0	Black Redstart	blared1	0.5060	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_081000.wav	25.0
+399	Spectrogram 1	1	83475.0	83478.0	0	12000.0	Song Thrush	sonthr1	0.5222	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_082000.wav	43.0
+400	Spectrogram 1	1	83587.0	83590.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5007	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_083000.wav	35.0
+401	Spectrogram 1	1	83588.0	83591.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5749	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_083000.wav	36.0
+402	Spectrogram 1	1	83637.0	83640.0	0	12000.0	Eurasian Bullfinch	eurbul	0.5255	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_083500.wav	25.0
+403	Spectrogram 1	1	84803.0	84806.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5788	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_101000.wav	51.0
+404	Spectrogram 1	1	84967.0	84970.0	0	12000.0	European Goldfinch	eurgol	0.5972	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_102500.wav	35.0
+405	Spectrogram 1	1	84968.0	84971.0	0	12000.0	European Goldfinch	eurgol	0.7199	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_102500.wav	36.0
+406	Spectrogram 1	1	85058.0	85061.0	0	12000.0	Herring Gull	hergul	0.5019	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_103500.wav	6.0
+407	Spectrogram 1	1	86723.0	86726.0	0	12000.0	Herring Gull	hergul	0.5835	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_125000.wav	51.0
+408	Spectrogram 1	1	86724.0	86727.0	0	12000.0	Herring Gull	hergul	0.5985	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_125000.wav	52.0
+409	Spectrogram 1	1	87336.0	87339.0	0	12000.0	Herring Gull	hergul	0.5325	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	4.0
+410	Spectrogram 1	1	87354.0	87357.0	0	12000.0	Herring Gull	hergul	0.5387	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	22.0
+411	Spectrogram 1	1	87355.0	87358.0	0	12000.0	Herring Gull	hergul	0.5411	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	23.0
+412	Spectrogram 1	1	87356.0	87359.0	0	12000.0	Herring Gull	hergul	0.5069	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	24.0
+413	Spectrogram 1	1	87357.0	87360.0	0	12000.0	Herring Gull	hergul	0.5098	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	25.0
+414	Spectrogram 1	1	87358.0	87361.0	0	12000.0	Herring Gull	hergul	0.5231	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	26.0
+415	Spectrogram 1	1	87365.0	87368.0	0	12000.0	Herring Gull	hergul	0.5701	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	33.0
+416	Spectrogram 1	1	87369.0	87372.0	0	12000.0	Little Ringed Plover	lirplo	0.5373	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	37.0
+417	Spectrogram 1	1	87371.0	87374.0	0	12000.0	Little Ringed Plover	lirplo	0.5221	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_134500.wav	39.0
+418	Spectrogram 1	1	89178.0	89181.0	0	12000.0	Little Grebe	litgre1	0.5301	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_161500.wav	46.0
+419	Spectrogram 1	1	89683.0	89686.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5025	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_170000.wav	11.0
+420	Spectrogram 1	1	89755.0	89758.0	0	12000.0	Herring Gull	hergul	0.5012	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_170500.wav	23.0
+421	Spectrogram 1	1	90274.0	90277.0	0	12000.0	European Goldfinch	eurgol	0.7623	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	2.0
+422	Spectrogram 1	1	90275.0	90278.0	0	12000.0	European Goldfinch	eurgol	0.8794	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	3.0
+423	Spectrogram 1	1	90276.0	90279.0	0	12000.0	European Goldfinch	eurgol	0.9584	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	4.0
+424	Spectrogram 1	1	90277.0	90280.0	0	12000.0	European Goldfinch	eurgol	0.9169	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	5.0
+425	Spectrogram 1	1	90278.0	90281.0	0	12000.0	European Goldfinch	eurgol	0.6569	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	6.0
+426	Spectrogram 1	1	90290.0	90293.0	0	12000.0	European Goldfinch	eurgol	0.5642	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	18.0
+427	Spectrogram 1	1	90293.0	90296.0	0	12000.0	European Goldfinch	eurgol	0.7691	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	21.0
+428	Spectrogram 1	1	90294.0	90297.0	0	12000.0	European Goldfinch	eurgol	0.8171	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	22.0
+429	Spectrogram 1	1	90298.0	90301.0	0	12000.0	Dunnock	dunnoc1	0.5207	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	26.0
+430	Spectrogram 1	1	90299.0	90302.0	0	12000.0	Dunnock	dunnoc1	0.5091	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	27.0
+431	Spectrogram 1	1	90300.0	90303.0	0	12000.0	Dunnock	dunnoc1	0.6008	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	28.0
+432	Spectrogram 1	1	90305.0	90308.0	0	12000.0	European Goldfinch	eurgol	0.8427	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	33.0
+433	Spectrogram 1	1	90306.0	90309.0	0	12000.0	European Goldfinch	eurgol	0.8478	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	34.0
+434	Spectrogram 1	1	90307.0	90310.0	0	12000.0	European Goldfinch	eurgol	0.5047	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	35.0
+435	Spectrogram 1	1	90313.0	90316.0	0	12000.0	European Goldfinch	eurgol	0.6007	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	41.0
+436	Spectrogram 1	1	90314.0	90317.0	0	12000.0	European Goldfinch	eurgol	0.5044	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	42.0
+437	Spectrogram 1	1	90315.0	90318.0	0	12000.0	European Goldfinch	eurgol	0.6162	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	43.0
+438	Spectrogram 1	1	90317.0	90320.0	0	12000.0	European Goldfinch	eurgol	0.7000	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	45.0
+439	Spectrogram 1	1	90319.0	90322.0	0	12000.0	European Goldfinch	eurgol	0.5044	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	47.0
+440	Spectrogram 1	1	90320.0	90323.0	0	12000.0	European Goldfinch	eurgol	0.7647	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	48.0
+441	Spectrogram 1	1	90321.0	90324.0	0	12000.0	European Goldfinch	eurgol	0.8424	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	49.0
+442	Spectrogram 1	1	90322.0	90325.0	0	12000.0	European Goldfinch	eurgol	0.5174	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	50.0
+443	Spectrogram 1	1	90323.0	90326.0	0	12000.0	European Goldfinch	eurgol	0.5800	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	51.0
+444	Spectrogram 1	1	90326.0	90329.0	0	12000.0	European Goldfinch	eurgol	0.6905	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	54.0
+445	Spectrogram 1	1	90327.0	90330.0	0	12000.0	European Goldfinch	eurgol	0.7749	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	55.0
+446	Spectrogram 1	1	90328.0	90331.0	0	12000.0	European Goldfinch	eurgol	0.8386	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	56.0
+447	Spectrogram 1	1	90329.0	90332.0	0	12000.0	European Goldfinch	eurgol	0.7337	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_175000.wav	57.0
+448	Spectrogram 1	1	90698.0	90701.0	0	12000.0	Herring Gull	hergul	0.6660	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_182500.wav	6.0
+449	Spectrogram 1	1	90717.0	90720.0	0	12000.0	European Goldfinch	eurgol	0.6591	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_182500.wav	25.0
+450	Spectrogram 1	1	90718.0	90721.0	0	12000.0	European Goldfinch	eurgol	0.5066	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_182500.wav	26.0
+451	Spectrogram 1	1	90722.0	90725.0	0	12000.0	European Goldfinch	eurgol	0.5329	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_182500.wav	30.0
+452	Spectrogram 1	1	91952.0	91955.0	0	12000.0	European Goldfinch	eurgol	0.7539	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	0
+453	Spectrogram 1	1	91953.0	91956.0	0	12000.0	European Goldfinch	eurgol	0.7787	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	1.0
+454	Spectrogram 1	1	91954.0	91957.0	0	12000.0	European Goldfinch	eurgol	0.9266	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	2.0
+455	Spectrogram 1	1	91955.0	91958.0	0	12000.0	European Goldfinch	eurgol	0.8659	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	3.0
+456	Spectrogram 1	1	91956.0	91959.0	0	12000.0	European Goldfinch	eurgol	0.5252	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	4.0
+457	Spectrogram 1	1	91957.0	91960.0	0	12000.0	European Goldfinch	eurgol	0.6424	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	5.0
+458	Spectrogram 1	1	91958.0	91961.0	0	12000.0	European Goldfinch	eurgol	0.8645	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	6.0
+459	Spectrogram 1	1	91959.0	91962.0	0	12000.0	European Goldfinch	eurgol	0.8540	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	7.0
+460	Spectrogram 1	1	91960.0	91963.0	0	12000.0	European Goldfinch	eurgol	0.5039	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	8.0
+461	Spectrogram 1	1	91961.0	91964.0	0	12000.0	European Goldfinch	eurgol	0.8821	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	9.0
+462	Spectrogram 1	1	91962.0	91965.0	0	12000.0	European Goldfinch	eurgol	0.8841	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	10.0
+463	Spectrogram 1	1	91963.0	91966.0	0	12000.0	European Goldfinch	eurgol	0.8934	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	11.0
+464	Spectrogram 1	1	91964.0	91967.0	0	12000.0	European Goldfinch	eurgol	0.5080	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	12.0
+465	Spectrogram 1	1	91965.0	91968.0	0	12000.0	European Goldfinch	eurgol	0.8944	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	13.0
+466	Spectrogram 1	1	91966.0	91969.0	0	12000.0	European Goldfinch	eurgol	0.9116	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	14.0
+467	Spectrogram 1	1	91967.0	91970.0	0	12000.0	European Goldfinch	eurgol	0.9536	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	15.0
+468	Spectrogram 1	1	91970.0	91973.0	0	12000.0	European Goldfinch	eurgol	0.8069	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	18.0
+469	Spectrogram 1	1	91971.0	91974.0	0	12000.0	European Goldfinch	eurgol	0.7558	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	19.0
+470	Spectrogram 1	1	91972.0	91975.0	0	12000.0	European Goldfinch	eurgol	0.8415	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	20.0
+471	Spectrogram 1	1	91973.0	91976.0	0	12000.0	European Goldfinch	eurgol	0.9239	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	21.0
+472	Spectrogram 1	1	91974.0	91977.0	0	12000.0	European Goldfinch	eurgol	0.8761	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	22.0
+473	Spectrogram 1	1	91975.0	91978.0	0	12000.0	European Goldfinch	eurgol	0.8476	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	23.0
+474	Spectrogram 1	1	91976.0	91979.0	0	12000.0	European Goldfinch	eurgol	0.9370	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	24.0
+475	Spectrogram 1	1	91977.0	91980.0	0	12000.0	European Goldfinch	eurgol	0.8940	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	25.0
+476	Spectrogram 1	1	91978.0	91981.0	0	12000.0	European Goldfinch	eurgol	0.8685	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	26.0
+477	Spectrogram 1	1	91980.0	91983.0	0	12000.0	European Goldfinch	eurgol	0.8956	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	28.0
+478	Spectrogram 1	1	91981.0	91984.0	0	12000.0	European Goldfinch	eurgol	0.9337	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	29.0
+479	Spectrogram 1	1	91982.0	91985.0	0	12000.0	European Goldfinch	eurgol	0.9414	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	30.0
+480	Spectrogram 1	1	91983.0	91986.0	0	12000.0	European Goldfinch	eurgol	0.7159	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	31.0
+481	Spectrogram 1	1	91985.0	91988.0	0	12000.0	European Goldfinch	eurgol	0.8064	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	33.0
+482	Spectrogram 1	1	91986.0	91989.0	0	12000.0	European Goldfinch	eurgol	0.9143	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	34.0
+483	Spectrogram 1	1	91987.0	91990.0	0	12000.0	European Goldfinch	eurgol	0.9425	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	35.0
+484	Spectrogram 1	1	91988.0	91991.0	0	12000.0	European Goldfinch	eurgol	0.9595	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	36.0
+485	Spectrogram 1	1	91990.0	91993.0	0	12000.0	European Goldfinch	eurgol	0.8916	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	38.0
+486	Spectrogram 1	1	91991.0	91994.0	0	12000.0	European Goldfinch	eurgol	0.9230	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	39.0
+487	Spectrogram 1	1	91992.0	91995.0	0	12000.0	European Goldfinch	eurgol	0.9380	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	40.0
+488	Spectrogram 1	1	91993.0	91996.0	0	12000.0	European Goldfinch	eurgol	0.8992	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	41.0
+489	Spectrogram 1	1	91994.0	91997.0	0	12000.0	European Goldfinch	eurgol	0.8926	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	42.0
+490	Spectrogram 1	1	91995.0	91998.0	0	12000.0	European Goldfinch	eurgol	0.9125	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	43.0
+491	Spectrogram 1	1	91996.0	91999.0	0	12000.0	European Goldfinch	eurgol	0.6952	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	44.0
+492	Spectrogram 1	1	92004.0	92007.0	0	12000.0	European Goldfinch	eurgol	0.8265	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	52.0
+493	Spectrogram 1	1	92005.0	92008.0	0	12000.0	European Goldfinch	eurgol	0.8499	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	53.0
+494	Spectrogram 1	1	92006.0	92009.0	0	12000.0	European Goldfinch	eurgol	0.8238	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	54.0
+495	Spectrogram 1	1	92007.0	92010.0	0	12000.0	European Goldfinch	eurgol	0.6949	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_201000.wav	55.0
+496	Spectrogram 1	1	93068.0	93071.0	0	12000.0	Song Thrush	sonthr1	0.5119	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_214502.wav	6.0
+497	Spectrogram 1	1	93103.0	93106.0	0	12000.0	Eurasian Curlew	eurcur	0.5243	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_214502.wav	41.0
+498	Spectrogram 1	1	93107.0	93110.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5612	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_214502.wav	45.0
+499	Spectrogram 1	1	93108.0	93111.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5163	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_214502.wav	46.0
+500	Spectrogram 1	1	93895.0	93898.0	0	12000.0	Herring Gull	hergul	0.5204	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_225502.wav	35.0
+501	Spectrogram 1	1	93896.0	93899.0	0	12000.0	Herring Gull	hergul	0.5114	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240616_225502.wav	36.0
+502	Spectrogram 1	1	95061.0	95064.0	0	12000.0	Song Thrush	sonthr1	0.5193	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_004002.wav	4.0
+503	Spectrogram 1	1	95855.0	95858.0	0	12000.0	Herring Gull	hergul	0.5244	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_015002.wav	0
+504	Spectrogram 1	1	97135.0	97138.0	0	12000.0	Little Ringed Plover	lirplo	0.5530	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_034002.wav	26.0
+505	Spectrogram 1	1	97791.0	97794.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5717	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_043502.wav	55.0
+506	Spectrogram 1	1	97793.0	97796.0	0	12000.0	Eurasian Moorhen	commoo3	0.5094	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_044002.wav	0
+507	Spectrogram 1	1	97843.0	97846.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5431	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_044002.wav	50.0
+508	Spectrogram 1	1	97845.0	97848.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5982	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_044002.wav	52.0
+509	Spectrogram 1	1	98078.0	98081.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5104	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_050502.wav	0
+510	Spectrogram 1	1	98410.0	98413.0	0	12000.0	European Goldfinch	eurgol	0.6285	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	38.0
+511	Spectrogram 1	1	98411.0	98414.0	0	12000.0	European Goldfinch	eurgol	0.7292	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	39.0
+512	Spectrogram 1	1	98413.0	98416.0	0	12000.0	European Goldfinch	eurgol	0.7284	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	41.0
+513	Spectrogram 1	1	98414.0	98417.0	0	12000.0	European Goldfinch	eurgol	0.7431	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	42.0
+514	Spectrogram 1	1	98415.0	98418.0	0	12000.0	European Goldfinch	eurgol	0.7892	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	43.0
+515	Spectrogram 1	1	98416.0	98419.0	0	12000.0	European Goldfinch	eurgol	0.8505	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	44.0
+516	Spectrogram 1	1	98424.0	98427.0	0	12000.0	European Goldfinch	eurgol	0.5397	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	52.0
+517	Spectrogram 1	1	98427.0	98430.0	0	12000.0	European Goldfinch	eurgol	0.9022	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	55.0
+518	Spectrogram 1	1	98428.0	98431.0	0	12000.0	European Goldfinch	eurgol	0.9239	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	56.0
+519	Spectrogram 1	1	98429.0	98432.0	0	12000.0	European Goldfinch	eurgol	0.8573	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053000.wav	57.0
+520	Spectrogram 1	1	98432.0	98435.0	0	12000.0	European Goldfinch	eurgol	0.9601	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	0
+521	Spectrogram 1	1	98433.0	98436.0	0	12000.0	European Goldfinch	eurgol	0.9574	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	1.0
+522	Spectrogram 1	1	98434.0	98437.0	0	12000.0	European Goldfinch	eurgol	0.9405	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	2.0
+523	Spectrogram 1	1	98435.0	98438.0	0	12000.0	European Goldfinch	eurgol	0.9014	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	3.0
+524	Spectrogram 1	1	98436.0	98439.0	0	12000.0	European Goldfinch	eurgol	0.9589	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	4.0
+525	Spectrogram 1	1	98437.0	98440.0	0	12000.0	European Goldfinch	eurgol	0.9428	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	5.0
+526	Spectrogram 1	1	98438.0	98441.0	0	12000.0	European Goldfinch	eurgol	0.8879	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	6.0
+527	Spectrogram 1	1	98439.0	98442.0	0	12000.0	European Goldfinch	eurgol	0.9424	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	7.0
+528	Spectrogram 1	1	98440.0	98443.0	0	12000.0	European Goldfinch	eurgol	0.7093	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	8.0
+529	Spectrogram 1	1	98441.0	98444.0	0	12000.0	European Goldfinch	eurgol	0.9247	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	9.0
+530	Spectrogram 1	1	98442.0	98445.0	0	12000.0	European Goldfinch	eurgol	0.9512	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	10.0
+531	Spectrogram 1	1	98443.0	98446.0	0	12000.0	European Goldfinch	eurgol	0.9326	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	11.0
+532	Spectrogram 1	1	98444.0	98447.0	0	12000.0	European Goldfinch	eurgol	0.8863	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	12.0
+533	Spectrogram 1	1	98445.0	98448.0	0	12000.0	European Goldfinch	eurgol	0.9560	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	13.0
+534	Spectrogram 1	1	98446.0	98449.0	0	12000.0	European Goldfinch	eurgol	0.8906	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	14.0
+535	Spectrogram 1	1	98447.0	98450.0	0	12000.0	European Goldfinch	eurgol	0.9258	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	15.0
+536	Spectrogram 1	1	98448.0	98451.0	0	12000.0	European Goldfinch	eurgol	0.9758	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	16.0
+537	Spectrogram 1	1	98449.0	98452.0	0	12000.0	European Goldfinch	eurgol	0.9559	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	17.0
+538	Spectrogram 1	1	98450.0	98453.0	0	12000.0	European Goldfinch	eurgol	0.9377	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	18.0
+539	Spectrogram 1	1	98451.0	98454.0	0	12000.0	European Goldfinch	eurgol	0.9517	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	19.0
+540	Spectrogram 1	1	98452.0	98455.0	0	12000.0	European Goldfinch	eurgol	0.8975	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	20.0
+541	Spectrogram 1	1	98453.0	98456.0	0	12000.0	European Goldfinch	eurgol	0.8950	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	21.0
+542	Spectrogram 1	1	98454.0	98457.0	0	12000.0	European Goldfinch	eurgol	0.9581	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	22.0
+543	Spectrogram 1	1	98455.0	98458.0	0	12000.0	European Goldfinch	eurgol	0.9307	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	23.0
+544	Spectrogram 1	1	98456.0	98459.0	0	12000.0	European Goldfinch	eurgol	0.8949	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	24.0
+545	Spectrogram 1	1	98457.0	98460.0	0	12000.0	European Goldfinch	eurgol	0.9409	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	25.0
+546	Spectrogram 1	1	98458.0	98461.0	0	12000.0	European Goldfinch	eurgol	0.8928	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	26.0
+547	Spectrogram 1	1	98459.0	98462.0	0	12000.0	European Goldfinch	eurgol	0.8958	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	27.0
+548	Spectrogram 1	1	98460.0	98463.0	0	12000.0	European Goldfinch	eurgol	0.6960	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	28.0
+549	Spectrogram 1	1	98461.0	98464.0	0	12000.0	European Goldfinch	eurgol	0.8512	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	29.0
+550	Spectrogram 1	1	98462.0	98465.0	0	12000.0	European Goldfinch	eurgol	0.9362	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	30.0
+551	Spectrogram 1	1	98463.0	98466.0	0	12000.0	European Goldfinch	eurgol	0.9321	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	31.0
+552	Spectrogram 1	1	98464.0	98467.0	0	12000.0	European Goldfinch	eurgol	0.8952	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	32.0
+553	Spectrogram 1	1	98465.0	98468.0	0	12000.0	European Goldfinch	eurgol	0.9673	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	33.0
+554	Spectrogram 1	1	98466.0	98469.0	0	12000.0	European Goldfinch	eurgol	0.9093	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	34.0
+555	Spectrogram 1	1	98467.0	98470.0	0	12000.0	European Goldfinch	eurgol	0.8717	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	35.0
+556	Spectrogram 1	1	98468.0	98471.0	0	12000.0	European Goldfinch	eurgol	0.9563	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	36.0
+557	Spectrogram 1	1	98469.0	98472.0	0	12000.0	European Goldfinch	eurgol	0.9706	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	37.0
+558	Spectrogram 1	1	98470.0	98473.0	0	12000.0	European Goldfinch	eurgol	0.9519	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	38.0
+559	Spectrogram 1	1	98471.0	98474.0	0	12000.0	European Goldfinch	eurgol	0.7684	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	39.0
+560	Spectrogram 1	1	98472.0	98475.0	0	12000.0	European Goldfinch	eurgol	0.8916	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	40.0
+561	Spectrogram 1	1	98473.0	98476.0	0	12000.0	European Goldfinch	eurgol	0.7588	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	41.0
+562	Spectrogram 1	1	98474.0	98477.0	0	12000.0	European Goldfinch	eurgol	0.7331	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	42.0
+563	Spectrogram 1	1	98475.0	98478.0	0	12000.0	European Goldfinch	eurgol	0.8698	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	43.0
+564	Spectrogram 1	1	98476.0	98479.0	0	12000.0	European Goldfinch	eurgol	0.9300	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	44.0
+565	Spectrogram 1	1	98477.0	98480.0	0	12000.0	European Goldfinch	eurgol	0.8769	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	45.0
+566	Spectrogram 1	1	98478.0	98481.0	0	12000.0	European Goldfinch	eurgol	0.9554	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	46.0
+567	Spectrogram 1	1	98479.0	98482.0	0	12000.0	European Goldfinch	eurgol	0.9482	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	47.0
+568	Spectrogram 1	1	98480.0	98483.0	0	12000.0	European Goldfinch	eurgol	0.9647	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	48.0
+569	Spectrogram 1	1	98481.0	98484.0	0	12000.0	European Goldfinch	eurgol	0.9641	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	49.0
+570	Spectrogram 1	1	98482.0	98485.0	0	12000.0	European Goldfinch	eurgol	0.9002	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	50.0
+571	Spectrogram 1	1	98483.0	98486.0	0	12000.0	European Goldfinch	eurgol	0.9311	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	51.0
+572	Spectrogram 1	1	98484.0	98487.0	0	12000.0	European Goldfinch	eurgol	0.9466	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	52.0
+573	Spectrogram 1	1	98485.0	98488.0	0	12000.0	European Goldfinch	eurgol	0.5009	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	53.0
+574	Spectrogram 1	1	98486.0	98489.0	0	12000.0	European Goldfinch	eurgol	0.8866	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	54.0
+575	Spectrogram 1	1	98487.0	98490.0	0	12000.0	European Goldfinch	eurgol	0.6876	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	55.0
+576	Spectrogram 1	1	98488.0	98491.0	0	12000.0	European Goldfinch	eurgol	0.5256	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_053500.wav	56.0
+577	Spectrogram 1	1	98492.0	98495.0	0	12000.0	European Goldfinch	eurgol	0.9528	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	0
+578	Spectrogram 1	1	98493.0	98496.0	0	12000.0	European Goldfinch	eurgol	0.9632	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	1.0
+579	Spectrogram 1	1	98494.0	98497.0	0	12000.0	European Goldfinch	eurgol	0.9491	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	2.0
+580	Spectrogram 1	1	98496.0	98499.0	0	12000.0	European Goldfinch	eurgol	0.8651	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	4.0
+581	Spectrogram 1	1	98497.0	98500.0	0	12000.0	European Goldfinch	eurgol	0.9238	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	5.0
+582	Spectrogram 1	1	98498.0	98501.0	0	12000.0	European Goldfinch	eurgol	0.9497	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	6.0
+583	Spectrogram 1	1	98500.0	98503.0	0	12000.0	European Goldfinch	eurgol	0.8990	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	8.0
+584	Spectrogram 1	1	98501.0	98504.0	0	12000.0	European Goldfinch	eurgol	0.9361	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	9.0
+585	Spectrogram 1	1	98502.0	98505.0	0	12000.0	European Goldfinch	eurgol	0.8265	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	10.0
+586	Spectrogram 1	1	98503.0	98506.0	0	12000.0	European Goldfinch	eurgol	0.7612	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	11.0
+587	Spectrogram 1	1	98505.0	98508.0	0	12000.0	European Goldfinch	eurgol	0.8092	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	13.0
+588	Spectrogram 1	1	98506.0	98509.0	0	12000.0	European Goldfinch	eurgol	0.9290	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	14.0
+589	Spectrogram 1	1	98507.0	98510.0	0	12000.0	European Goldfinch	eurgol	0.9525	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	15.0
+590	Spectrogram 1	1	98508.0	98511.0	0	12000.0	European Goldfinch	eurgol	0.8782	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	16.0
+591	Spectrogram 1	1	98510.0	98513.0	0	12000.0	European Goldfinch	eurgol	0.8282	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	18.0
+592	Spectrogram 1	1	98511.0	98514.0	0	12000.0	European Goldfinch	eurgol	0.8487	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	19.0
+593	Spectrogram 1	1	98514.0	98517.0	0	12000.0	European Goldfinch	eurgol	0.8793	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	22.0
+594	Spectrogram 1	1	98515.0	98518.0	0	12000.0	European Goldfinch	eurgol	0.9562	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	23.0
+595	Spectrogram 1	1	98516.0	98519.0	0	12000.0	European Goldfinch	eurgol	0.9664	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	24.0
+596	Spectrogram 1	1	98517.0	98520.0	0	12000.0	European Goldfinch	eurgol	0.7123	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	25.0
+597	Spectrogram 1	1	98518.0	98521.0	0	12000.0	European Goldfinch	eurgol	0.8868	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	26.0
+598	Spectrogram 1	1	98519.0	98522.0	0	12000.0	European Goldfinch	eurgol	0.8836	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	27.0
+599	Spectrogram 1	1	98520.0	98523.0	0	12000.0	European Goldfinch	eurgol	0.8941	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	28.0
+600	Spectrogram 1	1	98522.0	98525.0	0	12000.0	European Goldfinch	eurgol	0.6265	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	30.0
+601	Spectrogram 1	1	98523.0	98526.0	0	12000.0	European Goldfinch	eurgol	0.7883	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	31.0
+602	Spectrogram 1	1	98524.0	98527.0	0	12000.0	European Goldfinch	eurgol	0.6293	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	32.0
+603	Spectrogram 1	1	98528.0	98531.0	0	12000.0	European Goldfinch	eurgol	0.8779	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	36.0
+604	Spectrogram 1	1	98529.0	98532.0	0	12000.0	European Goldfinch	eurgol	0.9397	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	37.0
+605	Spectrogram 1	1	98530.0	98533.0	0	12000.0	European Goldfinch	eurgol	0.9408	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	38.0
+606	Spectrogram 1	1	98531.0	98534.0	0	12000.0	European Goldfinch	eurgol	0.8219	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	39.0
+607	Spectrogram 1	1	98533.0	98536.0	0	12000.0	European Goldfinch	eurgol	0.7992	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	41.0
+608	Spectrogram 1	1	98534.0	98537.0	0	12000.0	European Goldfinch	eurgol	0.9427	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	42.0
+609	Spectrogram 1	1	98535.0	98538.0	0	12000.0	European Goldfinch	eurgol	0.9553	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	43.0
+610	Spectrogram 1	1	98536.0	98539.0	0	12000.0	European Goldfinch	eurgol	0.9507	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	44.0
+611	Spectrogram 1	1	98537.0	98540.0	0	12000.0	European Goldfinch	eurgol	0.8484	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	45.0
+612	Spectrogram 1	1	98538.0	98541.0	0	12000.0	European Goldfinch	eurgol	0.8543	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	46.0
+613	Spectrogram 1	1	98539.0	98542.0	0	12000.0	European Goldfinch	eurgol	0.9183	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	47.0
+614	Spectrogram 1	1	98540.0	98543.0	0	12000.0	European Goldfinch	eurgol	0.8961	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	48.0
+615	Spectrogram 1	1	98541.0	98544.0	0	12000.0	European Goldfinch	eurgol	0.9701	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	49.0
+616	Spectrogram 1	1	98542.0	98545.0	0	12000.0	European Goldfinch	eurgol	0.9529	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054000.wav	50.0
+617	Spectrogram 1	1	98602.0	98605.0	0	12000.0	European Goldfinch	eurgol	0.6388	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054500.wav	50.0
+618	Spectrogram 1	1	98606.0	98609.0	0	12000.0	European Goldfinch	eurgol	0.5814	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_054500.wav	54.0
+619	Spectrogram 1	1	98967.0	98970.0	0	12000.0	Herring Gull	hergul	0.5734	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_061500.wav	55.0
+620	Spectrogram 1	1	98968.0	98971.0	0	12000.0	Herring Gull	hergul	0.6301	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_061500.wav	56.0
+621	Spectrogram 1	1	98969.0	98972.0	0	12000.0	Herring Gull	hergul	0.5495	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_061500.wav	57.0
+622	Spectrogram 1	1	99014.0	99017.0	0	12000.0	Eurasian Magpie	eurmag1	0.6825	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_062000.wav	42.0
+623	Spectrogram 1	1	99366.0	99369.0	0	12000.0	Herring Gull	hergul	0.5064	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_065000.wav	34.0
+624	Spectrogram 1	1	99368.0	99371.0	0	12000.0	Herring Gull	hergul	0.5093	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_065000.wav	36.0
+625	Spectrogram 1	1	99369.0	99372.0	0	12000.0	Herring Gull	hergul	0.6429	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_065000.wav	37.0
+626	Spectrogram 1	1	99370.0	99373.0	0	12000.0	Herring Gull	hergul	0.6280	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_065000.wav	38.0
+627	Spectrogram 1	1	99371.0	99374.0	0	12000.0	Herring Gull	hergul	0.6770	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_065000.wav	39.0
+628	Spectrogram 1	1	99372.0	99375.0	0	12000.0	Herring Gull	hergul	0.5561	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_065000.wav	40.0
+629	Spectrogram 1	1	99383.0	99386.0	0	12000.0	Herring Gull	hergul	0.5029	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_065000.wav	51.0
+630	Spectrogram 1	1	99667.0	99670.0	0	12000.0	White Wagtail	whiwag	0.8305	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_071500.wav	35.0
+631	Spectrogram 1	1	99668.0	99671.0	0	12000.0	White Wagtail	whiwag	0.8895	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_071500.wav	36.0
+632	Spectrogram 1	1	99669.0	99672.0	0	12000.0	White Wagtail	whiwag	0.9217	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_071500.wav	37.0
+633	Spectrogram 1	1	99670.0	99673.0	0	12000.0	White Wagtail	whiwag	0.7820	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_071500.wav	38.0
+634	Spectrogram 1	1	99671.0	99674.0	0	12000.0	White Wagtail	whiwag	0.6200	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_071500.wav	39.0
+635	Spectrogram 1	1	101465.0	101468.0	0	12000.0	Black Redstart	blared1	0.7208	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_094500.wav	33.0
+636	Spectrogram 1	1	102757.0	102760.0	0	12000.0	Whimbrel	whimbr	0.5246	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_113500.wav	5.0
+637	Spectrogram 1	1	104758.0	104761.0	0	12000.0	Song Thrush	sonthr1	0.6471	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_142000.wav	26.0
+638	Spectrogram 1	1	105625.0	105628.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5075	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153000.wav	53.0
+639	Spectrogram 1	1	105626.0	105629.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5078	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153000.wav	54.0
+640	Spectrogram 1	1	105627.0	105630.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5538	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153000.wav	55.0
+641	Spectrogram 1	1	105628.0	105631.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5670	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153000.wav	56.0
+642	Spectrogram 1	1	105642.0	105645.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5051	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153500.wav	10.0
+643	Spectrogram 1	1	105643.0	105646.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5902	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153500.wav	11.0
+644	Spectrogram 1	1	105644.0	105647.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5699	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153500.wav	12.0
+645	Spectrogram 1	1	105645.0	105648.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5534	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153500.wav	13.0
+646	Spectrogram 1	1	105646.0	105649.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5958	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153500.wav	14.0
+647	Spectrogram 1	1	105647.0	105650.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6538	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153500.wav	15.0
+648	Spectrogram 1	1	105673.0	105676.0	0	12000.0	Black Redstart	blared1	0.5585	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_153500.wav	41.0
+649	Spectrogram 1	1	105727.0	105730.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5541	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_154000.wav	35.0
+650	Spectrogram 1	1	105728.0	105731.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5013	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_154000.wav	36.0
+651	Spectrogram 1	1	105747.0	105750.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5294	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_154000.wav	55.0
+652	Spectrogram 1	1	106468.0	106471.0	0	12000.0	Black Redstart	blared1	0.7710	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_164000.wav	56.0
+653	Spectrogram 1	1	106469.0	106472.0	0	12000.0	Black Redstart	blared1	0.6516	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_164000.wav	57.0
+654	Spectrogram 1	1	107964.0	107967.0	0	12000.0	Common Swift	comswi	0.6324	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_184500.wav	52.0
+655	Spectrogram 1	1	108284.0	108287.0	0	12000.0	Carrion Crow	carcro1	0.5069	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_191500.wav	12.0
+656	Spectrogram 1	1	108293.0	108296.0	0	12000.0	Carrion Crow	carcro1	0.5993	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_191500.wav	21.0
+657	Spectrogram 1	1	108294.0	108297.0	0	12000.0	Carrion Crow	carcro1	0.6073	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_191500.wav	22.0
+658	Spectrogram 1	1	108761.0	108764.0	0	12000.0	European Goldfinch	eurgol	0.7727	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	9.0
+659	Spectrogram 1	1	108762.0	108765.0	0	12000.0	European Goldfinch	eurgol	0.6748	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	10.0
+660	Spectrogram 1	1	108763.0	108766.0	0	12000.0	European Goldfinch	eurgol	0.8514	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	11.0
+661	Spectrogram 1	1	108764.0	108767.0	0	12000.0	European Goldfinch	eurgol	0.8772	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	12.0
+662	Spectrogram 1	1	108765.0	108768.0	0	12000.0	European Goldfinch	eurgol	0.8218	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	13.0
+663	Spectrogram 1	1	108766.0	108769.0	0	12000.0	European Goldfinch	eurgol	0.9346	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	14.0
+664	Spectrogram 1	1	108767.0	108770.0	0	12000.0	European Goldfinch	eurgol	0.8762	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	15.0
+665	Spectrogram 1	1	108768.0	108771.0	0	12000.0	European Goldfinch	eurgol	0.9542	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	16.0
+666	Spectrogram 1	1	108769.0	108772.0	0	12000.0	European Goldfinch	eurgol	0.8640	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	17.0
+667	Spectrogram 1	1	108770.0	108773.0	0	12000.0	European Goldfinch	eurgol	0.8511	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	18.0
+668	Spectrogram 1	1	108771.0	108774.0	0	12000.0	European Goldfinch	eurgol	0.8037	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	19.0
+669	Spectrogram 1	1	108775.0	108778.0	0	12000.0	European Goldfinch	eurgol	0.5009	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	23.0
+670	Spectrogram 1	1	108776.0	108779.0	0	12000.0	European Goldfinch	eurgol	0.8270	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	24.0
+671	Spectrogram 1	1	108777.0	108780.0	0	12000.0	European Goldfinch	eurgol	0.7105	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	25.0
+672	Spectrogram 1	1	108780.0	108783.0	0	12000.0	European Goldfinch	eurgol	0.6545	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	28.0
+673	Spectrogram 1	1	108781.0	108784.0	0	12000.0	European Goldfinch	eurgol	0.8538	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	29.0
+674	Spectrogram 1	1	108782.0	108785.0	0	12000.0	European Goldfinch	eurgol	0.9397	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	30.0
+675	Spectrogram 1	1	108783.0	108786.0	0	12000.0	European Goldfinch	eurgol	0.9054	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	31.0
+676	Spectrogram 1	1	108787.0	108790.0	0	12000.0	European Goldfinch	eurgol	0.8822	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	35.0
+677	Spectrogram 1	1	108788.0	108791.0	0	12000.0	European Goldfinch	eurgol	0.8709	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	36.0
+678	Spectrogram 1	1	108789.0	108792.0	0	12000.0	European Goldfinch	eurgol	0.8939	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	37.0
+679	Spectrogram 1	1	108790.0	108793.0	0	12000.0	European Goldfinch	eurgol	0.5496	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	38.0
+680	Spectrogram 1	1	108791.0	108794.0	0	12000.0	European Goldfinch	eurgol	0.8845	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	39.0
+681	Spectrogram 1	1	108792.0	108795.0	0	12000.0	European Goldfinch	eurgol	0.8527	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	40.0
+682	Spectrogram 1	1	108793.0	108796.0	0	12000.0	European Goldfinch	eurgol	0.9291	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	41.0
+683	Spectrogram 1	1	108794.0	108797.0	0	12000.0	European Goldfinch	eurgol	0.9131	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	42.0
+684	Spectrogram 1	1	108799.0	108802.0	0	12000.0	European Goldfinch	eurgol	0.6544	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	47.0
+685	Spectrogram 1	1	108800.0	108803.0	0	12000.0	European Goldfinch	eurgol	0.8604	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	48.0
+686	Spectrogram 1	1	108801.0	108804.0	0	12000.0	European Goldfinch	eurgol	0.8963	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	49.0
+687	Spectrogram 1	1	108804.0	108807.0	0	12000.0	European Goldfinch	eurgol	0.8578	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	52.0
+688	Spectrogram 1	1	108805.0	108808.0	0	12000.0	European Goldfinch	eurgol	0.9511	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	53.0
+689	Spectrogram 1	1	108806.0	108809.0	0	12000.0	European Goldfinch	eurgol	0.9314	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_195500.wav	54.0
+690	Spectrogram 1	1	110610.0	110613.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5338	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240617_223002.wav	55.0
+691	Spectrogram 1	1	114752.0	114755.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5625	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_043502.wav	36.0
+692	Spectrogram 1	1	114980.0	114983.0	0	12000.0	Black Redstart	blared1	0.5296	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_045502.wav	36.0
+693	Spectrogram 1	1	114994.0	114997.0	0	12000.0	Black Redstart	blared1	0.6520	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_045502.wav	50.0
+694	Spectrogram 1	1	115545.0	115548.0	0	12000.0	Black Redstart	blared1	0.6011	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_054500.wav	13.0
+695	Spectrogram 1	1	115921.0	115924.0	0	12000.0	Black Redstart	blared1	0.7605	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_061500.wav	29.0
+696	Spectrogram 1	1	115922.0	115925.0	0	12000.0	Black Redstart	blared1	0.6087	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_061500.wav	30.0
+697	Spectrogram 1	1	115923.0	115926.0	0	12000.0	Black Redstart	blared1	0.5033	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_061500.wav	31.0
+698	Spectrogram 1	1	115940.0	115943.0	0	12000.0	Black Redstart	blared1	0.6108	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_061500.wav	48.0
+699	Spectrogram 1	1	115941.0	115944.0	0	12000.0	Black Redstart	blared1	0.6172	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_061500.wav	49.0
+700	Spectrogram 1	1	115953.0	115956.0	0	12000.0	Black Redstart	blared1	0.8158	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	1.0
+701	Spectrogram 1	1	115954.0	115957.0	0	12000.0	Black Redstart	blared1	0.6435	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	2.0
+702	Spectrogram 1	1	115955.0	115958.0	0	12000.0	Black Redstart	blared1	0.7380	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	3.0
+703	Spectrogram 1	1	115990.0	115993.0	0	12000.0	Black Redstart	blared1	0.6321	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	38.0
+704	Spectrogram 1	1	115991.0	115994.0	0	12000.0	Black Redstart	blared1	0.8600	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	39.0
+705	Spectrogram 1	1	115992.0	115995.0	0	12000.0	Black Redstart	blared1	0.9015	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	40.0
+706	Spectrogram 1	1	115999.0	116002.0	0	12000.0	Black Redstart	blared1	0.8677	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	47.0
+707	Spectrogram 1	1	116000.0	116003.0	0	12000.0	Black Redstart	blared1	0.8506	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	48.0
+708	Spectrogram 1	1	116007.0	116010.0	0	12000.0	Black Redstart	blared1	0.7701	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	55.0
+709	Spectrogram 1	1	116008.0	116011.0	0	12000.0	Black Redstart	blared1	0.7276	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_062000.wav	56.0
+710	Spectrogram 1	1	116155.0	116158.0	0	12000.0	Black Redstart	blared1	0.5658	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_063500.wav	23.0
+711	Spectrogram 1	1	116159.0	116162.0	0	12000.0	Black Redstart	blared1	0.5060	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_063500.wav	27.0
+712	Spectrogram 1	1	116162.0	116165.0	0	12000.0	Tree Pipit	trepip	0.5105	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_063500.wav	30.0
+713	Spectrogram 1	1	116170.0	116173.0	0	12000.0	Black Redstart	blared1	0.5664	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_063500.wav	38.0
+714	Spectrogram 1	1	116171.0	116174.0	0	12000.0	Black Redstart	blared1	0.5869	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_063500.wav	39.0
+715	Spectrogram 1	1	116171.0	116174.0	0	12000.0	Tree Pipit	trepip	0.5363	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_063500.wav	39.0
+716	Spectrogram 1	1	116272.0	116275.0	0	12000.0	Black Redstart	blared1	0.9304	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	20.0
+717	Spectrogram 1	1	116273.0	116276.0	0	12000.0	Black Redstart	blared1	0.8168	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	21.0
+718	Spectrogram 1	1	116281.0	116284.0	0	12000.0	Black Redstart	blared1	0.6334	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	29.0
+719	Spectrogram 1	1	116282.0	116285.0	0	12000.0	Black Redstart	blared1	0.7418	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	30.0
+720	Spectrogram 1	1	116283.0	116286.0	0	12000.0	Black Redstart	blared1	0.7634	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	31.0
+721	Spectrogram 1	1	116284.0	116287.0	0	12000.0	Black Redstart	blared1	0.8861	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	32.0
+722	Spectrogram 1	1	116285.0	116288.0	0	12000.0	Black Redstart	blared1	0.8860	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	33.0
+723	Spectrogram 1	1	116286.0	116289.0	0	12000.0	Black Redstart	blared1	0.9409	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	34.0
+724	Spectrogram 1	1	116287.0	116290.0	0	12000.0	Black Redstart	blared1	0.9782	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	35.0
+725	Spectrogram 1	1	116288.0	116291.0	0	12000.0	Black Redstart	blared1	0.9218	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	36.0
+726	Spectrogram 1	1	116297.0	116300.0	0	12000.0	Black Redstart	blared1	0.9401	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	45.0
+727	Spectrogram 1	1	116298.0	116301.0	0	12000.0	Black Redstart	blared1	0.9182	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	46.0
+728	Spectrogram 1	1	116299.0	116302.0	0	12000.0	Black Redstart	blared1	0.5363	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	47.0
+729	Spectrogram 1	1	116307.0	116310.0	0	12000.0	Black Redstart	blared1	0.6405	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	55.0
+730	Spectrogram 1	1	116308.0	116311.0	0	12000.0	Black Redstart	blared1	0.9624	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	56.0
+731	Spectrogram 1	1	116309.0	116312.0	0	12000.0	Black Redstart	blared1	0.9547	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_064500.wav	57.0
+732	Spectrogram 1	1	116392.0	116395.0	0	12000.0	Black Redstart	blared1	0.8889	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_065500.wav	20.0
+733	Spectrogram 1	1	116393.0	116396.0	0	12000.0	Black Redstart	blared1	0.8302	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_065500.wav	21.0
+734	Spectrogram 1	1	116424.0	116427.0	0	12000.0	Black Redstart	blared1	0.6737	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_065500.wav	52.0
+735	Spectrogram 1	1	116425.0	116428.0	0	12000.0	Black Redstart	blared1	0.8290	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_065500.wav	53.0
+736	Spectrogram 1	1	116426.0	116429.0	0	12000.0	Black Redstart	blared1	0.5233	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_065500.wav	54.0
+737	Spectrogram 1	1	116604.0	116607.0	0	12000.0	Little Ringed Plover	lirplo	0.5346	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_071000.wav	52.0
+738	Spectrogram 1	1	117219.0	117222.0	0	12000.0	Herring Gull	hergul	0.5712	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_080500.wav	7.0
+739	Spectrogram 1	1	117242.0	117245.0	0	12000.0	Herring Gull	hergul	0.6185	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_080500.wav	30.0
+740	Spectrogram 1	1	117243.0	117246.0	0	12000.0	Herring Gull	hergul	0.5977	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_080500.wav	31.0
+741	Spectrogram 1	1	117244.0	117247.0	0	12000.0	Herring Gull	hergul	0.5795	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_080500.wav	32.0
+742	Spectrogram 1	1	117245.0	117248.0	0	12000.0	Herring Gull	hergul	0.5007	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_080500.wav	33.0
+743	Spectrogram 1	1	117252.0	117255.0	0	12000.0	Herring Gull	hergul	0.5189	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_080500.wav	40.0
+744	Spectrogram 1	1	117254.0	117257.0	0	12000.0	Herring Gull	hergul	0.5111	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_080500.wav	42.0
+745	Spectrogram 1	1	117347.0	117350.0	0	12000.0	Herring Gull	hergul	0.5086	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_081500.wav	15.0
+746	Spectrogram 1	1	117350.0	117353.0	0	12000.0	Herring Gull	hergul	0.5171	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_081500.wav	18.0
+747	Spectrogram 1	1	117352.0	117355.0	0	12000.0	Herring Gull	hergul	0.6217	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_081500.wav	20.0
+748	Spectrogram 1	1	117572.0	117575.0	0	12000.0	Dunnock	dunnoc1	0.9540	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	0
+749	Spectrogram 1	1	117573.0	117576.0	0	12000.0	Dunnock	dunnoc1	0.9311	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	1.0
+750	Spectrogram 1	1	117574.0	117577.0	0	12000.0	Dunnock	dunnoc1	0.5397	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	2.0
+751	Spectrogram 1	1	117576.0	117579.0	0	12000.0	Dunnock	dunnoc1	0.8879	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	4.0
+752	Spectrogram 1	1	117577.0	117580.0	0	12000.0	Dunnock	dunnoc1	0.9191	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	5.0
+753	Spectrogram 1	1	117578.0	117581.0	0	12000.0	Dunnock	dunnoc1	0.8729	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	6.0
+754	Spectrogram 1	1	117580.0	117583.0	0	12000.0	Dunnock	dunnoc1	0.8270	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	8.0
+755	Spectrogram 1	1	117581.0	117584.0	0	12000.0	Dunnock	dunnoc1	0.8622	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	9.0
+756	Spectrogram 1	1	117582.0	117585.0	0	12000.0	Dunnock	dunnoc1	0.8647	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	10.0
+757	Spectrogram 1	1	117583.0	117586.0	0	12000.0	Dunnock	dunnoc1	0.8463	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	11.0
+758	Spectrogram 1	1	117586.0	117589.0	0	12000.0	Dunnock	dunnoc1	0.8777	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	14.0
+759	Spectrogram 1	1	117587.0	117590.0	0	12000.0	Dunnock	dunnoc1	0.8904	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	15.0
+760	Spectrogram 1	1	117588.0	117591.0	0	12000.0	Dunnock	dunnoc1	0.8658	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	16.0
+761	Spectrogram 1	1	117589.0	117592.0	0	12000.0	Dunnock	dunnoc1	0.8869	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	17.0
+762	Spectrogram 1	1	117593.0	117596.0	0	12000.0	Dunnock	dunnoc1	0.8773	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	21.0
+763	Spectrogram 1	1	117594.0	117597.0	0	12000.0	Dunnock	dunnoc1	0.8910	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	22.0
+764	Spectrogram 1	1	117595.0	117598.0	0	12000.0	Dunnock	dunnoc1	0.8271	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	23.0
+765	Spectrogram 1	1	117596.0	117599.0	0	12000.0	Dunnock	dunnoc1	0.7686	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	24.0
+766	Spectrogram 1	1	117598.0	117601.0	0	12000.0	Dunnock	dunnoc1	0.9015	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	26.0
+767	Spectrogram 1	1	117599.0	117602.0	0	12000.0	Dunnock	dunnoc1	0.9303	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	27.0
+768	Spectrogram 1	1	117600.0	117603.0	0	12000.0	Dunnock	dunnoc1	0.9163	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	28.0
+769	Spectrogram 1	1	117604.0	117607.0	0	12000.0	Dunnock	dunnoc1	0.8658	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	32.0
+770	Spectrogram 1	1	117605.0	117608.0	0	12000.0	Dunnock	dunnoc1	0.9129	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	33.0
+771	Spectrogram 1	1	117606.0	117609.0	0	12000.0	Dunnock	dunnoc1	0.8789	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	34.0
+772	Spectrogram 1	1	117607.0	117610.0	0	12000.0	Dunnock	dunnoc1	0.7977	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	35.0
+773	Spectrogram 1	1	117611.0	117614.0	0	12000.0	Dunnock	dunnoc1	0.5353	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	39.0
+774	Spectrogram 1	1	117615.0	117618.0	0	12000.0	Dunnock	dunnoc1	0.7900	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	43.0
+775	Spectrogram 1	1	117616.0	117619.0	0	12000.0	Dunnock	dunnoc1	0.8440	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	44.0
+776	Spectrogram 1	1	117617.0	117620.0	0	12000.0	Dunnock	dunnoc1	0.5928	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	45.0
+777	Spectrogram 1	1	117629.0	117632.0	0	12000.0	Dunnock	dunnoc1	0.9111	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_083500.wav	57.0
+778	Spectrogram 1	1	117698.0	117701.0	0	12000.0	White Wagtail	whiwag	0.6837	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_084500.wav	6.0
+779	Spectrogram 1	1	117699.0	117702.0	0	12000.0	White Wagtail	whiwag	0.8553	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_084500.wav	7.0
+780	Spectrogram 1	1	117861.0	117864.0	0	12000.0	Eurasian Bullfinch	eurbul	0.5026	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_085500.wav	49.0
+781	Spectrogram 1	1	118160.0	118163.0	0	12000.0	Gray Wagtail	grywag	0.6362	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_092000.wav	48.0
+782	Spectrogram 1	1	118405.0	118408.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5832	C:\Users\dm820\OneDrive - Imperial College London\Desktop\NomuraGreenRoof\Data2\NOMURA_20240618_094000.wav	53.0

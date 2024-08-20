@@ -1,0 +1,609 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Common Name	Species Code	Confidence	Begin Path	File Offset (s)
+1	Spectrogram 1	1	1592.0	1595.0	0	12000.0	European Goldfinch	eurgol	0.7737	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	32.0
+2	Spectrogram 1	1	1593.0	1596.0	0	12000.0	European Goldfinch	eurgol	0.7771	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	33.0
+3	Spectrogram 1	1	1594.0	1597.0	0	12000.0	European Goldfinch	eurgol	0.7488	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	34.0
+4	Spectrogram 1	1	1595.0	1598.0	0	12000.0	European Goldfinch	eurgol	0.7218	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	35.0
+5	Spectrogram 1	1	1596.0	1599.0	0	12000.0	European Goldfinch	eurgol	0.7034	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	36.0
+6	Spectrogram 1	1	1597.0	1600.0	0	12000.0	European Goldfinch	eurgol	0.8922	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	37.0
+7	Spectrogram 1	1	1599.0	1602.0	0	12000.0	European Goldfinch	eurgol	0.7068	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	39.0
+8	Spectrogram 1	1	1600.0	1603.0	0	12000.0	European Goldfinch	eurgol	0.7379	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	40.0
+9	Spectrogram 1	1	1601.0	1604.0	0	12000.0	European Goldfinch	eurgol	0.5803	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	41.0
+10	Spectrogram 1	1	1602.0	1605.0	0	12000.0	European Goldfinch	eurgol	0.5728	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	42.0
+11	Spectrogram 1	1	1603.0	1606.0	0	12000.0	European Goldfinch	eurgol	0.7074	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	43.0
+12	Spectrogram 1	1	1604.0	1607.0	0	12000.0	European Goldfinch	eurgol	0.5549	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	44.0
+13	Spectrogram 1	1	1605.0	1608.0	0	12000.0	European Goldfinch	eurgol	0.6296	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	45.0
+14	Spectrogram 1	1	1606.0	1609.0	0	12000.0	European Goldfinch	eurgol	0.5880	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	46.0
+15	Spectrogram 1	1	1608.0	1611.0	0	12000.0	European Goldfinch	eurgol	0.8639	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	48.0
+16	Spectrogram 1	1	1609.0	1612.0	0	12000.0	European Goldfinch	eurgol	0.8015	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	49.0
+17	Spectrogram 1	1	1612.0	1615.0	0	12000.0	European Goldfinch	eurgol	0.6632	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	52.0
+18	Spectrogram 1	1	1613.0	1616.0	0	12000.0	European Goldfinch	eurgol	0.7514	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	53.0
+19	Spectrogram 1	1	1614.0	1617.0	0	12000.0	European Goldfinch	eurgol	0.8887	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	54.0
+20	Spectrogram 1	1	1615.0	1618.0	0	12000.0	European Goldfinch	eurgol	0.5155	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	55.0
+21	Spectrogram 1	1	1616.0	1619.0	0	12000.0	European Goldfinch	eurgol	0.8257	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	56.0
+22	Spectrogram 1	1	1617.0	1620.0	0	12000.0	European Goldfinch	eurgol	0.6884	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_175000.wav	57.0
+23	Spectrogram 1	1	3521.0	3524.0	0	12000.0	Herring Gull	hergul	0.5650	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240618_203000.wav	41.0
+24	Spectrogram 1	1	7631.0	7634.0	0	12000.0	Herring Gull	hergul	0.5539	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_023002.wav	32.0
+25	Spectrogram 1	1	8504.0	8507.0	0	12000.0	Herring Gull	hergul	0.5062	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_034502.wav	50.0
+26	Spectrogram 1	1	8505.0	8508.0	0	12000.0	Herring Gull	hergul	0.5187	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_034502.wav	51.0
+27	Spectrogram 1	1	8906.0	8909.0	0	12000.0	Herring Gull	hergul	0.5140	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_042002.wav	53.0
+28	Spectrogram 1	1	8948.0	8951.0	0	12000.0	Herring Gull	hergul	0.5307	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_042502.wav	38.0
+29	Spectrogram 1	1	9709.0	9712.0	0	12000.0	Herring Gull	hergul	0.5672	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_053000.wav	49.0
+30	Spectrogram 1	1	10540.0	10543.0	0	12000.0	Herring Gull	hergul	0.5941	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_064000.wav	40.0
+31	Spectrogram 1	1	10542.0	10545.0	0	12000.0	Herring Gull	hergul	0.5214	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_064000.wav	42.0
+32	Spectrogram 1	1	12439.0	12442.0	0	12000.0	Herring Gull	hergul	0.6115	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_092000.wav	19.0
+33	Spectrogram 1	1	12900.0	12903.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6983	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_100000.wav	0
+34	Spectrogram 1	1	13664.0	13667.0	0	12000.0	Rook	rook1	0.5137	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_110000.wav	44.0
+35	Spectrogram 1	1	17150.0	17153.0	0	12000.0	Herring Gull	hergul	0.5631	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155000.wav	50.0
+36	Spectrogram 1	1	17151.0	17154.0	0	12000.0	Herring Gull	hergul	0.6481	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155000.wav	51.0
+37	Spectrogram 1	1	17152.0	17155.0	0	12000.0	Herring Gull	hergul	0.5987	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155000.wav	52.0
+38	Spectrogram 1	1	17153.0	17156.0	0	12000.0	Herring Gull	hergul	0.5920	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155000.wav	53.0
+39	Spectrogram 1	1	17154.0	17157.0	0	12000.0	Herring Gull	hergul	0.6720	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155000.wav	54.0
+40	Spectrogram 1	1	17155.0	17158.0	0	12000.0	Herring Gull	hergul	0.5447	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155000.wav	55.0
+41	Spectrogram 1	1	17156.0	17159.0	0	12000.0	Herring Gull	hergul	0.5789	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155000.wav	56.0
+42	Spectrogram 1	1	17157.0	17160.0	0	12000.0	Herring Gull	hergul	0.6182	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155000.wav	57.0
+43	Spectrogram 1	1	17217.0	17220.0	0	12000.0	Herring Gull	hergul	0.5583	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_155500.wav	57.0
+44	Spectrogram 1	1	19709.0	19712.0	0	12000.0	Herring Gull	hergul	0.6165	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_192500.wav	29.0
+45	Spectrogram 1	1	19710.0	19713.0	0	12000.0	Herring Gull	hergul	0.6899	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_192500.wav	30.0
+46	Spectrogram 1	1	19767.0	19770.0	0	12000.0	Herring Gull	hergul	0.5031	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_193000.wav	27.0
+47	Spectrogram 1	1	19768.0	19771.0	0	12000.0	Herring Gull	hergul	0.5906	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_193000.wav	28.0
+48	Spectrogram 1	1	19769.0	19772.0	0	12000.0	Herring Gull	hergul	0.6053	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_193000.wav	29.0
+49	Spectrogram 1	1	19770.0	19773.0	0	12000.0	Herring Gull	hergul	0.6209	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_193000.wav	30.0
+50	Spectrogram 1	1	20463.0	20466.0	0	12000.0	White Wagtail	whiwag	0.6167	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_203000.wav	3.0
+51	Spectrogram 1	1	20589.0	20592.0	0	12000.0	Herring Gull	hergul	0.5539	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	9.0
+52	Spectrogram 1	1	20590.0	20593.0	0	12000.0	Herring Gull	hergul	0.5822	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	10.0
+53	Spectrogram 1	1	20591.0	20594.0	0	12000.0	Herring Gull	hergul	0.5741	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	11.0
+54	Spectrogram 1	1	20597.0	20600.0	0	12000.0	Herring Gull	hergul	0.6905	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	17.0
+55	Spectrogram 1	1	20600.0	20603.0	0	12000.0	Herring Gull	hergul	0.5318	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	20.0
+56	Spectrogram 1	1	20602.0	20605.0	0	12000.0	Herring Gull	hergul	0.6661	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	22.0
+57	Spectrogram 1	1	20603.0	20606.0	0	12000.0	Herring Gull	hergul	0.6004	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	23.0
+58	Spectrogram 1	1	20604.0	20607.0	0	12000.0	Herring Gull	hergul	0.6625	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	24.0
+59	Spectrogram 1	1	20607.0	20610.0	0	12000.0	Herring Gull	hergul	0.5445	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	27.0
+60	Spectrogram 1	1	20608.0	20611.0	0	12000.0	Herring Gull	hergul	0.5950	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	28.0
+61	Spectrogram 1	1	20609.0	20612.0	0	12000.0	Herring Gull	hergul	0.6001	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	29.0
+62	Spectrogram 1	1	20620.0	20623.0	0	12000.0	Herring Gull	hergul	0.5124	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	40.0
+63	Spectrogram 1	1	20621.0	20624.0	0	12000.0	Herring Gull	hergul	0.5465	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	41.0
+64	Spectrogram 1	1	20623.0	20626.0	0	12000.0	Herring Gull	hergul	0.5589	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	43.0
+65	Spectrogram 1	1	20624.0	20627.0	0	12000.0	Herring Gull	hergul	0.5378	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	44.0
+66	Spectrogram 1	1	20625.0	20628.0	0	12000.0	Herring Gull	hergul	0.6902	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_204000.wav	45.0
+67	Spectrogram 1	1	22728.0	22731.0	0	12000.0	Herring Gull	hergul	0.5478	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240619_234502.wav	30.0
+68	Spectrogram 1	1	23249.0	23252.0	0	12000.0	Green-winged Teal	gnwtea	0.6586	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_003002.wav	38.0
+69	Spectrogram 1	1	25719.0	25722.0	0	12000.0	Herring Gull	hergul	0.6106	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_041002.wav	0
+70	Spectrogram 1	1	25720.0	25723.0	0	12000.0	Herring Gull	hergul	0.6613	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_041002.wav	1.0
+71	Spectrogram 1	1	25723.0	25726.0	0	12000.0	Herring Gull	hergul	0.5232	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_041002.wav	4.0
+72	Spectrogram 1	1	26012.0	26015.0	0	12000.0	Little Ringed Plover	lirplo	0.5243	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_043502.wav	8.0
+73	Spectrogram 1	1	26289.0	26292.0	0	12000.0	Herring Gull	hergul	0.6722	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_050002.wav	0
+74	Spectrogram 1	1	26300.0	26303.0	0	12000.0	Herring Gull	hergul	0.6149	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_050002.wav	11.0
+75	Spectrogram 1	1	26302.0	26305.0	0	12000.0	Herring Gull	hergul	0.5065	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_050002.wav	13.0
+76	Spectrogram 1	1	26340.0	26343.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5307	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_050002.wav	51.0
+77	Spectrogram 1	1	26341.0	26344.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5133	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_050002.wav	52.0
+78	Spectrogram 1	1	27353.0	27356.0	0	12000.0	Herring Gull	hergul	0.5160	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_062500.wav	53.0
+79	Spectrogram 1	1	27886.0	27889.0	0	12000.0	Herring Gull	hergul	0.5347	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_071000.wav	46.0
+80	Spectrogram 1	1	32351.0	32354.0	0	12000.0	Mallard	mallar3	0.5088	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240620_132500.wav	11.0
+81	Spectrogram 1	1	42084.0	42087.0	0	12000.0	Herring Gull	hergul	0.5001	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_031502.wav	12.0
+82	Spectrogram 1	1	42085.0	42088.0	0	12000.0	Herring Gull	hergul	0.5369	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_031502.wav	13.0
+83	Spectrogram 1	1	42662.0	42665.0	0	12000.0	Herring Gull	hergul	0.5507	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	20.0
+84	Spectrogram 1	1	42663.0	42666.0	0	12000.0	Herring Gull	hergul	0.6137	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	21.0
+85	Spectrogram 1	1	42664.0	42667.0	0	12000.0	Herring Gull	hergul	0.6534	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	22.0
+86	Spectrogram 1	1	42665.0	42668.0	0	12000.0	Herring Gull	hergul	0.5577	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	23.0
+87	Spectrogram 1	1	42667.0	42670.0	0	12000.0	Herring Gull	hergul	0.6707	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	25.0
+88	Spectrogram 1	1	42668.0	42671.0	0	12000.0	Herring Gull	hergul	0.7332	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	26.0
+89	Spectrogram 1	1	42669.0	42672.0	0	12000.0	Herring Gull	hergul	0.7626	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	27.0
+90	Spectrogram 1	1	42670.0	42673.0	0	12000.0	Herring Gull	hergul	0.7245	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	28.0
+91	Spectrogram 1	1	42671.0	42674.0	0	12000.0	Herring Gull	hergul	0.7494	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	29.0
+92	Spectrogram 1	1	42672.0	42675.0	0	12000.0	Herring Gull	hergul	0.5831	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	30.0
+93	Spectrogram 1	1	42673.0	42676.0	0	12000.0	Herring Gull	hergul	0.6951	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	31.0
+94	Spectrogram 1	1	42674.0	42677.0	0	12000.0	Herring Gull	hergul	0.5148	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	32.0
+95	Spectrogram 1	1	42692.0	42695.0	0	12000.0	Herring Gull	hergul	0.5032	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	50.0
+96	Spectrogram 1	1	42696.0	42699.0	0	12000.0	Herring Gull	hergul	0.6657	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	54.0
+97	Spectrogram 1	1	42697.0	42700.0	0	12000.0	Herring Gull	hergul	0.7265	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_040502.wav	55.0
+98	Spectrogram 1	1	45007.0	45010.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5601	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	7.0
+99	Spectrogram 1	1	45009.0	45012.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5879	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	9.0
+100	Spectrogram 1	1	45031.0	45034.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5576	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	31.0
+101	Spectrogram 1	1	45032.0	45035.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5163	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	32.0
+102	Spectrogram 1	1	45039.0	45042.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6055	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	39.0
+103	Spectrogram 1	1	45040.0	45043.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5029	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	40.0
+104	Spectrogram 1	1	45049.0	45052.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5085	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	49.0
+105	Spectrogram 1	1	45050.0	45053.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5023	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	50.0
+106	Spectrogram 1	1	45051.0	45054.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5291	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	51.0
+107	Spectrogram 1	1	45053.0	45056.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5782	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	53.0
+108	Spectrogram 1	1	45054.0	45057.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6477	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_072500.wav	54.0
+109	Spectrogram 1	1	45060.0	45063.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.7039	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_073000.wav	0
+110	Spectrogram 1	1	45061.0	45064.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5768	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_073000.wav	1.0
+111	Spectrogram 1	1	45062.0	45065.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5053	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_073000.wav	2.0
+112	Spectrogram 1	1	45063.0	45066.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5464	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_073000.wav	3.0
+113	Spectrogram 1	1	45068.0	45071.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5246	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_073000.wav	8.0
+114	Spectrogram 1	1	45072.0	45075.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5250	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_073000.wav	12.0
+115	Spectrogram 1	1	45143.0	45146.0	0	12000.0	Sandwich Tern	santer1	0.5184	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_073500.wav	23.0
+116	Spectrogram 1	1	45163.0	45166.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5849	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_073500.wav	43.0
+117	Spectrogram 1	1	45194.0	45197.0	0	12000.0	Eurasian Blue Tit	blutit	0.5823	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	14.0
+118	Spectrogram 1	1	45195.0	45198.0	0	12000.0	Eurasian Blue Tit	blutit	0.6968	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	15.0
+119	Spectrogram 1	1	45196.0	45199.0	0	12000.0	Eurasian Blue Tit	blutit	0.6630	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	16.0
+120	Spectrogram 1	1	45199.0	45202.0	0	12000.0	Eurasian Blue Tit	blutit	0.5096	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	19.0
+121	Spectrogram 1	1	45200.0	45203.0	0	12000.0	Eurasian Blue Tit	blutit	0.6597	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	20.0
+122	Spectrogram 1	1	45201.0	45204.0	0	12000.0	Eurasian Blue Tit	blutit	0.6301	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	21.0
+123	Spectrogram 1	1	45202.0	45205.0	0	12000.0	Eurasian Blue Tit	blutit	0.5509	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	22.0
+124	Spectrogram 1	1	45205.0	45208.0	0	12000.0	Eurasian Blue Tit	blutit	0.5537	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	25.0
+125	Spectrogram 1	1	45206.0	45209.0	0	12000.0	Eurasian Blue Tit	blutit	0.5468	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	26.0
+126	Spectrogram 1	1	45207.0	45210.0	0	12000.0	Tree Pipit	trepip	0.6167	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	27.0
+127	Spectrogram 1	1	45210.0	45213.0	0	12000.0	Eurasian Blue Tit	blutit	0.5562	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	30.0
+128	Spectrogram 1	1	45211.0	45214.0	0	12000.0	Eurasian Blue Tit	blutit	0.5958	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	31.0
+129	Spectrogram 1	1	45212.0	45215.0	0	12000.0	Eurasian Blue Tit	blutit	0.6015	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	32.0
+130	Spectrogram 1	1	45214.0	45217.0	0	12000.0	Eurasian Blue Tit	blutit	0.5603	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	34.0
+131	Spectrogram 1	1	45215.0	45218.0	0	12000.0	Eurasian Blue Tit	blutit	0.6157	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	35.0
+132	Spectrogram 1	1	45218.0	45221.0	0	12000.0	Eurasian Blue Tit	blutit	0.5563	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	38.0
+133	Spectrogram 1	1	45219.0	45222.0	0	12000.0	Eurasian Blue Tit	blutit	0.6111	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	39.0
+134	Spectrogram 1	1	45224.0	45227.0	0	12000.0	Eurasian Blue Tit	blutit	0.5251	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	44.0
+135	Spectrogram 1	1	45226.0	45229.0	0	12000.0	Eurasian Blue Tit	blutit	0.5865	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	46.0
+136	Spectrogram 1	1	45229.0	45232.0	0	12000.0	Eurasian Blue Tit	blutit	0.6893	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	49.0
+137	Spectrogram 1	1	45230.0	45233.0	0	12000.0	Eurasian Blue Tit	blutit	0.6029	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	50.0
+138	Spectrogram 1	1	45231.0	45234.0	0	12000.0	Eurasian Blue Tit	blutit	0.6156	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_074000.wav	51.0
+139	Spectrogram 1	1	45335.0	45338.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6851	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_075000.wav	35.0
+140	Spectrogram 1	1	45336.0	45339.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5985	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_075000.wav	36.0
+141	Spectrogram 1	1	45686.0	45689.0	0	12000.0	European Robin	eurrob1	0.5067	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_082000.wav	26.0
+142	Spectrogram 1	1	46622.0	46625.0	0	12000.0	Herring Gull	hergul	0.6009	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_094000.wav	2.0
+143	Spectrogram 1	1	46623.0	46626.0	0	12000.0	Herring Gull	hergul	0.6148	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_094000.wav	3.0
+144	Spectrogram 1	1	46779.0	46782.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5165	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_095000.wav	39.0
+145	Spectrogram 1	1	46780.0	46783.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5779	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_095000.wav	40.0
+146	Spectrogram 1	1	46781.0	46784.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6052	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_095000.wav	41.0
+147	Spectrogram 1	1	46782.0	46785.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6820	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_095000.wav	42.0
+148	Spectrogram 1	1	46783.0	46786.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6249	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_095000.wav	43.0
+149	Spectrogram 1	1	46785.0	46788.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5482	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_095000.wav	45.0
+150	Spectrogram 1	1	46788.0	46791.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5052	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_095000.wav	48.0
+151	Spectrogram 1	1	46892.0	46895.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5707	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_100000.wav	32.0
+152	Spectrogram 1	1	46894.0	46897.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5837	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_100000.wav	34.0
+153	Spectrogram 1	1	50599.0	50602.0	0	12000.0	Herring Gull	hergul	0.7122	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_151000.wav	19.0
+154	Spectrogram 1	1	50600.0	50603.0	0	12000.0	Herring Gull	hergul	0.6831	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_151000.wav	20.0
+155	Spectrogram 1	1	50601.0	50604.0	0	12000.0	Herring Gull	hergul	0.7194	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_151000.wav	21.0
+156	Spectrogram 1	1	50602.0	50605.0	0	12000.0	Herring Gull	hergul	0.5553	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_151000.wav	22.0
+157	Spectrogram 1	1	50604.0	50607.0	0	12000.0	Herring Gull	hergul	0.5594	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_151000.wav	24.0
+158	Spectrogram 1	1	50605.0	50608.0	0	12000.0	Herring Gull	hergul	0.5275	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_151000.wav	25.0
+159	Spectrogram 1	1	50606.0	50609.0	0	12000.0	Herring Gull	hergul	0.5745	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_151000.wav	26.0
+160	Spectrogram 1	1	50618.0	50621.0	0	12000.0	Herring Gull	hergul	0.5793	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_151000.wav	38.0
+161	Spectrogram 1	1	51404.0	51407.0	0	12000.0	Herring Gull	hergul	0.5382	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_161500.wav	44.0
+162	Spectrogram 1	1	51407.0	51410.0	0	12000.0	Herring Gull	hergul	0.5749	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_161500.wav	47.0
+163	Spectrogram 1	1	51408.0	51411.0	0	12000.0	Herring Gull	hergul	0.6159	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_161500.wav	48.0
+164	Spectrogram 1	1	51409.0	51412.0	0	12000.0	Herring Gull	hergul	0.6898	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_161500.wav	49.0
+165	Spectrogram 1	1	51410.0	51413.0	0	12000.0	Herring Gull	hergul	0.7404	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_161500.wav	50.0
+166	Spectrogram 1	1	51463.0	51466.0	0	12000.0	Herring Gull	hergul	0.6565	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	43.0
+167	Spectrogram 1	1	51470.0	51473.0	0	12000.0	Herring Gull	hergul	0.6823	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	50.0
+168	Spectrogram 1	1	51471.0	51474.0	0	12000.0	Herring Gull	hergul	0.7065	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	51.0
+169	Spectrogram 1	1	51472.0	51475.0	0	12000.0	Herring Gull	hergul	0.6745	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	52.0
+170	Spectrogram 1	1	51473.0	51476.0	0	12000.0	Herring Gull	hergul	0.6168	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	53.0
+171	Spectrogram 1	1	51474.0	51477.0	0	12000.0	Herring Gull	hergul	0.5442	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	54.0
+172	Spectrogram 1	1	51475.0	51478.0	0	12000.0	Herring Gull	hergul	0.6345	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	55.0
+173	Spectrogram 1	1	51476.0	51479.0	0	12000.0	Herring Gull	hergul	0.6789	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	56.0
+174	Spectrogram 1	1	51477.0	51480.0	0	12000.0	Herring Gull	hergul	0.6763	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_162000.wav	57.0
+175	Spectrogram 1	1	53295.0	53298.0	0	12000.0	Mallard	mallar3	0.5926	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240621_185500.wav	15.0
+176	Spectrogram 1	1	57454.0	57457.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5753	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_005002.wav	55.0
+177	Spectrogram 1	1	58093.0	58096.0	0	12000.0	Herring Gull	hergul	0.5916	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_015002.wav	10.0
+178	Spectrogram 1	1	58094.0	58097.0	0	12000.0	Herring Gull	hergul	0.6542	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_015002.wav	11.0
+179	Spectrogram 1	1	58237.0	58240.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5163	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	40.0
+180	Spectrogram 1	1	58238.0	58241.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5598	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	41.0
+181	Spectrogram 1	1	58239.0	58242.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5036	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	42.0
+182	Spectrogram 1	1	58240.0	58243.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5954	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	43.0
+183	Spectrogram 1	1	58241.0	58244.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6806	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	44.0
+184	Spectrogram 1	1	58242.0	58245.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5269	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	45.0
+185	Spectrogram 1	1	58243.0	58246.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5147	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	46.0
+186	Spectrogram 1	1	58244.0	58247.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5857	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	47.0
+187	Spectrogram 1	1	58245.0	58248.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6275	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_020002.wav	48.0
+188	Spectrogram 1	1	59617.0	59620.0	0	12000.0	Herring Gull	hergul	0.6613	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_040002.wav	52.0
+189	Spectrogram 1	1	59618.0	59621.0	0	12000.0	Herring Gull	hergul	0.7470	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_040002.wav	53.0
+190	Spectrogram 1	1	59619.0	59622.0	0	12000.0	Herring Gull	hergul	0.7484	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_040002.wav	54.0
+191	Spectrogram 1	1	59620.0	59623.0	0	12000.0	Herring Gull	hergul	0.7275	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_040002.wav	55.0
+192	Spectrogram 1	1	59683.0	59686.0	0	12000.0	Herring Gull	hergul	0.5577	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_041002.wav	4.0
+193	Spectrogram 1	1	59684.0	59687.0	0	12000.0	Herring Gull	hergul	0.5623	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_041002.wav	5.0
+194	Spectrogram 1	1	59685.0	59688.0	0	12000.0	Herring Gull	hergul	0.6403	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_041002.wav	6.0
+195	Spectrogram 1	1	59869.0	59872.0	0	12000.0	Herring Gull	hergul	0.5026	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	19.0
+196	Spectrogram 1	1	59870.0	59873.0	0	12000.0	Herring Gull	hergul	0.5720	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	20.0
+197	Spectrogram 1	1	59871.0	59874.0	0	12000.0	Herring Gull	hergul	0.5621	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	21.0
+198	Spectrogram 1	1	59872.0	59875.0	0	12000.0	Herring Gull	hergul	0.5421	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	22.0
+199	Spectrogram 1	1	59873.0	59876.0	0	12000.0	Herring Gull	hergul	0.6813	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	23.0
+200	Spectrogram 1	1	59874.0	59877.0	0	12000.0	Herring Gull	hergul	0.7061	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	24.0
+201	Spectrogram 1	1	59877.0	59880.0	0	12000.0	Herring Gull	hergul	0.5253	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	27.0
+202	Spectrogram 1	1	59878.0	59881.0	0	12000.0	Herring Gull	hergul	0.5267	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	28.0
+203	Spectrogram 1	1	59879.0	59882.0	0	12000.0	Herring Gull	hergul	0.6105	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	29.0
+204	Spectrogram 1	1	59881.0	59884.0	0	12000.0	Herring Gull	hergul	0.5640	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	31.0
+205	Spectrogram 1	1	59884.0	59887.0	0	12000.0	Herring Gull	hergul	0.6984	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	34.0
+206	Spectrogram 1	1	59885.0	59888.0	0	12000.0	Herring Gull	hergul	0.7749	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	35.0
+207	Spectrogram 1	1	59886.0	59889.0	0	12000.0	Herring Gull	hergul	0.8209	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	36.0
+208	Spectrogram 1	1	59887.0	59890.0	0	12000.0	Herring Gull	hergul	0.7614	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	37.0
+209	Spectrogram 1	1	59888.0	59891.0	0	12000.0	Herring Gull	hergul	0.6368	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	38.0
+210	Spectrogram 1	1	59889.0	59892.0	0	12000.0	Herring Gull	hergul	0.6727	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	39.0
+211	Spectrogram 1	1	59890.0	59893.0	0	12000.0	Herring Gull	hergul	0.6668	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	40.0
+212	Spectrogram 1	1	59891.0	59894.0	0	12000.0	Herring Gull	hergul	0.6488	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_042502.wav	41.0
+213	Spectrogram 1	1	59972.0	59975.0	0	12000.0	Herring Gull	hergul	0.5169	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_043502.wav	8.0
+214	Spectrogram 1	1	59973.0	59976.0	0	12000.0	Herring Gull	hergul	0.5571	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_043502.wav	9.0
+215	Spectrogram 1	1	59974.0	59977.0	0	12000.0	Herring Gull	hergul	0.6061	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_043502.wav	10.0
+216	Spectrogram 1	1	59975.0	59978.0	0	12000.0	Herring Gull	hergul	0.5222	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_043502.wav	11.0
+217	Spectrogram 1	1	59976.0	59979.0	0	12000.0	Herring Gull	hergul	0.5962	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_043502.wav	12.0
+218	Spectrogram 1	1	59977.0	59980.0	0	12000.0	Herring Gull	hergul	0.6390	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_043502.wav	13.0
+219	Spectrogram 1	1	60351.0	60354.0	0	12000.0	Herring Gull	hergul	0.5751	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_050502.wav	45.0
+220	Spectrogram 1	1	60437.0	60440.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5154	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_051500.wav	17.0
+221	Spectrogram 1	1	60644.0	60647.0	0	12000.0	Herring Gull	hergul	0.5386	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_053000.wav	44.0
+222	Spectrogram 1	1	60646.0	60649.0	0	12000.0	Herring Gull	hergul	0.5757	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_053000.wav	46.0
+223	Spectrogram 1	1	62258.0	62261.0	0	12000.0	Herring Gull	hergul	0.5019	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_074500.wav	38.0
+224	Spectrogram 1	1	62259.0	62262.0	0	12000.0	Herring Gull	hergul	0.5365	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_074500.wav	39.0
+225	Spectrogram 1	1	62441.0	62444.0	0	12000.0	Peregrine Falcon	perfal	0.5099	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_080000.wav	41.0
+226	Spectrogram 1	1	62452.0	62455.0	0	12000.0	Common Murre	commur	0.5227	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_080000.wav	52.0
+227	Spectrogram 1	1	62868.0	62871.0	0	12000.0	Herring Gull	hergul	0.5846	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_083500.wav	48.0
+228	Spectrogram 1	1	62869.0	62872.0	0	12000.0	Herring Gull	hergul	0.5181	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_083500.wav	49.0
+229	Spectrogram 1	1	62870.0	62873.0	0	12000.0	Herring Gull	hergul	0.5015	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_083500.wav	50.0
+230	Spectrogram 1	1	62871.0	62874.0	0	12000.0	Herring Gull	hergul	0.6551	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_083500.wav	51.0
+231	Spectrogram 1	1	62876.0	62879.0	0	12000.0	Herring Gull	hergul	0.6104	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_083500.wav	56.0
+232	Spectrogram 1	1	65070.0	65073.0	0	12000.0	Herring Gull	hergul	0.5868	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_114000.wav	30.0
+233	Spectrogram 1	1	65071.0	65074.0	0	12000.0	Herring Gull	hergul	0.6577	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_114000.wav	31.0
+234	Spectrogram 1	1	65072.0	65075.0	0	12000.0	Herring Gull	hergul	0.7316	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_114000.wav	32.0
+235	Spectrogram 1	1	65083.0	65086.0	0	12000.0	Eurasian Moorhen	commoo3	0.5238	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_114000.wav	43.0
+236	Spectrogram 1	1	68046.0	68049.0	0	12000.0	Gadwall	gadwal	0.7107	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_155000.wav	6.0
+237	Spectrogram 1	1	68363.0	68366.0	0	12000.0	Herring Gull	hergul	0.5911	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_161500.wav	23.0
+238	Spectrogram 1	1	68365.0	68368.0	0	12000.0	Herring Gull	hergul	0.5459	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_161500.wav	25.0
+239	Spectrogram 1	1	68387.0	68390.0	0	12000.0	Herring Gull	hergul	0.6036	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_161500.wav	47.0
+240	Spectrogram 1	1	68391.0	68394.0	0	12000.0	Herring Gull	hergul	0.5700	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_161500.wav	51.0
+241	Spectrogram 1	1	68392.0	68395.0	0	12000.0	Herring Gull	hergul	0.6054	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_161500.wav	52.0
+242	Spectrogram 1	1	70865.0	70868.0	0	12000.0	Herring Gull	hergul	0.5142	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_194500.wav	5.0
+243	Spectrogram 1	1	71464.0	71467.0	0	12000.0	Herring Gull	hergul	0.6575	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	4.0
+244	Spectrogram 1	1	71465.0	71468.0	0	12000.0	Herring Gull	hergul	0.5325	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	5.0
+245	Spectrogram 1	1	71500.0	71503.0	0	12000.0	Herring Gull	hergul	0.5326	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	40.0
+246	Spectrogram 1	1	71501.0	71504.0	0	12000.0	Herring Gull	hergul	0.5574	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	41.0
+247	Spectrogram 1	1	71502.0	71505.0	0	12000.0	Herring Gull	hergul	0.6077	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	42.0
+248	Spectrogram 1	1	71503.0	71506.0	0	12000.0	Herring Gull	hergul	0.5857	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	43.0
+249	Spectrogram 1	1	71504.0	71507.0	0	12000.0	Herring Gull	hergul	0.7195	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	44.0
+250	Spectrogram 1	1	71505.0	71508.0	0	12000.0	Herring Gull	hergul	0.6780	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	45.0
+251	Spectrogram 1	1	71506.0	71509.0	0	12000.0	Eurasian Coot	eurcoo	0.7402	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	46.0
+252	Spectrogram 1	1	71509.0	71512.0	0	12000.0	Herring Gull	hergul	0.5581	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	49.0
+253	Spectrogram 1	1	71510.0	71513.0	0	12000.0	Herring Gull	hergul	0.6407	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	50.0
+254	Spectrogram 1	1	71511.0	71514.0	0	12000.0	Herring Gull	hergul	0.6827	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	51.0
+255	Spectrogram 1	1	71514.0	71517.0	0	12000.0	Great Black-backed Gull	gbbgul	0.6460	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_203500.wav	54.0
+256	Spectrogram 1	1	71656.0	71659.0	0	12000.0	Herring Gull	hergul	0.5528	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_205000.wav	16.0
+257	Spectrogram 1	1	71657.0	71660.0	0	12000.0	Herring Gull	hergul	0.6629	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_205000.wav	17.0
+258	Spectrogram 1	1	71658.0	71661.0	0	12000.0	Herring Gull	hergul	0.7088	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_205000.wav	18.0
+259	Spectrogram 1	1	71659.0	71662.0	0	12000.0	Herring Gull	hergul	0.6707	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240622_205000.wav	19.0
+260	Spectrogram 1	1	76392.0	76395.0	0	12000.0	Herring Gull	hergul	0.6363	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_034502.wav	18.0
+261	Spectrogram 1	1	76393.0	76396.0	0	12000.0	Herring Gull	hergul	0.7043	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_034502.wav	19.0
+262	Spectrogram 1	1	76394.0	76397.0	0	12000.0	Herring Gull	hergul	0.7491	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_034502.wav	20.0
+263	Spectrogram 1	1	76395.0	76398.0	0	12000.0	Herring Gull	hergul	0.5598	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_034502.wav	21.0
+264	Spectrogram 1	1	76398.0	76401.0	0	12000.0	Herring Gull	hergul	0.5515	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_034502.wav	24.0
+265	Spectrogram 1	1	76499.0	76502.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5043	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_035502.wav	11.0
+266	Spectrogram 1	1	76557.0	76560.0	0	12000.0	Eurasian Moorhen	commoo3	0.7355	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040002.wav	12.0
+267	Spectrogram 1	1	76578.0	76581.0	0	12000.0	Canada Goose	cangoo	0.5189	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040002.wav	33.0
+268	Spectrogram 1	1	76580.0	76583.0	0	12000.0	Herring Gull	hergul	0.5881	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040002.wav	35.0
+269	Spectrogram 1	1	76581.0	76584.0	0	12000.0	Herring Gull	hergul	0.7344	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040002.wav	36.0
+270	Spectrogram 1	1	76582.0	76585.0	0	12000.0	Herring Gull	hergul	0.6766	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040002.wav	37.0
+271	Spectrogram 1	1	76583.0	76586.0	0	12000.0	Herring Gull	hergul	0.5411	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040002.wav	38.0
+272	Spectrogram 1	1	76584.0	76587.0	0	12000.0	Herring Gull	hergul	0.6375	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040002.wav	39.0
+273	Spectrogram 1	1	76604.0	76607.0	0	12000.0	Herring Gull	hergul	0.5172	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040502.wav	2.0
+274	Spectrogram 1	1	76611.0	76614.0	0	12000.0	Herring Gull	hergul	0.5099	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040502.wav	9.0
+275	Spectrogram 1	1	76652.0	76655.0	0	12000.0	Eurasian Coot	eurcoo	0.5976	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040502.wav	50.0
+276	Spectrogram 1	1	76653.0	76656.0	0	12000.0	Eurasian Coot	eurcoo	0.7893	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_040502.wav	51.0
+277	Spectrogram 1	1	76681.0	76684.0	0	12000.0	Herring Gull	hergul	0.6699	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_041002.wav	22.0
+278	Spectrogram 1	1	76682.0	76685.0	0	12000.0	Herring Gull	hergul	0.7728	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_041002.wav	23.0
+279	Spectrogram 1	1	76683.0	76686.0	0	12000.0	Herring Gull	hergul	0.7335	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_041002.wav	24.0
+280	Spectrogram 1	1	76713.0	76716.0	0	12000.0	Herring Gull	hergul	0.6758	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_041002.wav	54.0
+281	Spectrogram 1	1	76714.0	76717.0	0	12000.0	Herring Gull	hergul	0.5510	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_041002.wav	55.0
+282	Spectrogram 1	1	76735.0	76738.0	0	12000.0	Herring Gull	hergul	0.5140	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_041502.wav	19.0
+283	Spectrogram 1	1	77063.0	77066.0	0	12000.0	Herring Gull	hergul	0.5947	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_044502.wav	5.0
+284	Spectrogram 1	1	77064.0	77067.0	0	12000.0	Herring Gull	hergul	0.6404	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_044502.wav	6.0
+285	Spectrogram 1	1	77069.0	77072.0	0	12000.0	Herring Gull	hergul	0.6457	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_044502.wav	11.0
+286	Spectrogram 1	1	77070.0	77073.0	0	12000.0	Herring Gull	hergul	0.7426	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_044502.wav	12.0
+287	Spectrogram 1	1	77071.0	77074.0	0	12000.0	Herring Gull	hergul	0.5623	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_044502.wav	13.0
+288	Spectrogram 1	1	77263.0	77266.0	0	12000.0	Herring Gull	hergul	0.5400	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_050002.wav	34.0
+289	Spectrogram 1	1	77264.0	77267.0	0	12000.0	Herring Gull	hergul	0.6051	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_050002.wav	35.0
+290	Spectrogram 1	1	77465.0	77468.0	0	12000.0	Herring Gull	hergul	0.6231	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	5.0
+291	Spectrogram 1	1	77466.0	77469.0	0	12000.0	Herring Gull	hergul	0.7155	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	6.0
+292	Spectrogram 1	1	77467.0	77470.0	0	12000.0	Herring Gull	hergul	0.7573	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	7.0
+293	Spectrogram 1	1	77469.0	77472.0	0	12000.0	Herring Gull	hergul	0.6795	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	9.0
+294	Spectrogram 1	1	77470.0	77473.0	0	12000.0	Herring Gull	hergul	0.7301	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	10.0
+295	Spectrogram 1	1	77471.0	77474.0	0	12000.0	Herring Gull	hergul	0.7425	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	11.0
+296	Spectrogram 1	1	77472.0	77475.0	0	12000.0	Herring Gull	hergul	0.7889	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	12.0
+297	Spectrogram 1	1	77473.0	77476.0	0	12000.0	Herring Gull	hergul	0.6958	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	13.0
+298	Spectrogram 1	1	77474.0	77477.0	0	12000.0	Herring Gull	hergul	0.6756	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	14.0
+299	Spectrogram 1	1	77475.0	77478.0	0	12000.0	Herring Gull	hergul	0.6397	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_052000.wav	15.0
+300	Spectrogram 1	1	78057.0	78060.0	0	12000.0	Herring Gull	hergul	0.5136	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_060500.wav	57.0
+301	Spectrogram 1	1	78148.0	78151.0	0	12000.0	Herring Gull	hergul	0.5184	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_061500.wav	28.0
+302	Spectrogram 1	1	78155.0	78158.0	0	12000.0	Herring Gull	hergul	0.6293	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_061500.wav	35.0
+303	Spectrogram 1	1	78156.0	78159.0	0	12000.0	Herring Gull	hergul	0.6749	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_061500.wav	36.0
+304	Spectrogram 1	1	78157.0	78160.0	0	12000.0	Herring Gull	hergul	0.6779	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_061500.wav	37.0
+305	Spectrogram 1	1	78159.0	78162.0	0	12000.0	Herring Gull	hergul	0.5030	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_061500.wav	39.0
+306	Spectrogram 1	1	78371.0	78374.0	0	12000.0	Herring Gull	hergul	0.7638	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	11.0
+307	Spectrogram 1	1	78372.0	78375.0	0	12000.0	Herring Gull	hergul	0.5901	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	12.0
+308	Spectrogram 1	1	78373.0	78376.0	0	12000.0	Herring Gull	hergul	0.6291	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	13.0
+309	Spectrogram 1	1	78374.0	78377.0	0	12000.0	Herring Gull	hergul	0.6763	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	14.0
+310	Spectrogram 1	1	78398.0	78401.0	0	12000.0	Herring Gull	hergul	0.5126	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	38.0
+311	Spectrogram 1	1	78399.0	78402.0	0	12000.0	Herring Gull	hergul	0.5734	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	39.0
+312	Spectrogram 1	1	78400.0	78403.0	0	12000.0	Herring Gull	hergul	0.6171	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	40.0
+313	Spectrogram 1	1	78401.0	78404.0	0	12000.0	Herring Gull	hergul	0.5567	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	41.0
+314	Spectrogram 1	1	78402.0	78405.0	0	12000.0	Herring Gull	hergul	0.5263	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_063500.wav	42.0
+315	Spectrogram 1	1	78666.0	78669.0	0	12000.0	Eurasian Coot	eurcoo	0.6926	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_070000.wav	6.0
+316	Spectrogram 1	1	78682.0	78685.0	0	12000.0	Herring Gull	hergul	0.5154	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_070000.wav	22.0
+317	Spectrogram 1	1	78683.0	78686.0	0	12000.0	Herring Gull	hergul	0.5448	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_070000.wav	23.0
+318	Spectrogram 1	1	78684.0	78687.0	0	12000.0	Herring Gull	hergul	0.6407	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_070000.wav	24.0
+319	Spectrogram 1	1	78685.0	78688.0	0	12000.0	Herring Gull	hergul	0.5078	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_070000.wav	25.0
+320	Spectrogram 1	1	79298.0	79301.0	0	12000.0	Herring Gull	hergul	0.5025	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_075000.wav	38.0
+321	Spectrogram 1	1	79299.0	79302.0	0	12000.0	Herring Gull	hergul	0.6395	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_075000.wav	39.0
+322	Spectrogram 1	1	79300.0	79303.0	0	12000.0	Herring Gull	hergul	0.7479	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_075000.wav	40.0
+323	Spectrogram 1	1	79301.0	79304.0	0	12000.0	Herring Gull	hergul	0.7603	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_075000.wav	41.0
+324	Spectrogram 1	1	79302.0	79305.0	0	12000.0	Herring Gull	hergul	0.6879	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_075000.wav	42.0
+325	Spectrogram 1	1	79349.0	79352.0	0	12000.0	Herring Gull	hergul	0.5759	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_075500.wav	29.0
+326	Spectrogram 1	1	79800.0	79803.0	0	12000.0	Eurasian Blue Tit	blutit	0.6348	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_083500.wav	0
+327	Spectrogram 1	1	79808.0	79811.0	0	12000.0	Eurasian Blue Tit	blutit	0.6224	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_083500.wav	8.0
+328	Spectrogram 1	1	79809.0	79812.0	0	12000.0	Eurasian Blue Tit	blutit	0.5940	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_083500.wav	9.0
+329	Spectrogram 1	1	79810.0	79813.0	0	12000.0	Eurasian Blue Tit	blutit	0.5009	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_083500.wav	10.0
+330	Spectrogram 1	1	80271.0	80274.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5075	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_091000.wav	51.0
+331	Spectrogram 1	1	80272.0	80275.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5470	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_091000.wav	52.0
+332	Spectrogram 1	1	80273.0	80276.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5105	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_091000.wav	53.0
+333	Spectrogram 1	1	80697.0	80700.0	0	12000.0	Carrion Crow	carcro1	0.5498	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_094500.wav	57.0
+334	Spectrogram 1	1	81104.0	81107.0	0	12000.0	Peregrine Falcon	perfal	0.6667	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_102000.wav	44.0
+335	Spectrogram 1	1	84301.0	84304.0	0	12000.0	Herring Gull	hergul	0.5100	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_145000.wav	1.0
+336	Spectrogram 1	1	84320.0	84323.0	0	12000.0	Herring Gull	hergul	0.5244	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_145000.wav	20.0
+337	Spectrogram 1	1	84322.0	84325.0	0	12000.0	Herring Gull	hergul	0.5236	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_145000.wav	22.0
+338	Spectrogram 1	1	84323.0	84326.0	0	12000.0	Herring Gull	hergul	0.6951	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_145000.wav	23.0
+339	Spectrogram 1	1	84325.0	84328.0	0	12000.0	Herring Gull	hergul	0.6001	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_145000.wav	25.0
+340	Spectrogram 1	1	84326.0	84329.0	0	12000.0	Herring Gull	hergul	0.6770	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_145000.wav	26.0
+341	Spectrogram 1	1	84327.0	84330.0	0	12000.0	Herring Gull	hergul	0.5854	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_145000.wav	27.0
+342	Spectrogram 1	1	84337.0	84340.0	0	12000.0	Herring Gull	hergul	0.5006	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_145000.wav	37.0
+343	Spectrogram 1	1	85188.0	85191.0	0	12000.0	Carrion Crow	carcro1	0.5294	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_160000.wav	48.0
+344	Spectrogram 1	1	85189.0	85192.0	0	12000.0	Carrion Crow	carcro1	0.6709	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_160000.wav	49.0
+345	Spectrogram 1	1	85190.0	85193.0	0	12000.0	Carrion Crow	carcro1	0.5999	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_160000.wav	50.0
+346	Spectrogram 1	1	85568.0	85571.0	0	12000.0	Eurasian Curlew	eurcur	0.5283	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_163500.wav	8.0
+347	Spectrogram 1	1	86787.0	86790.0	0	12000.0	Herring Gull	hergul	0.6137	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_181500.wav	27.0
+348	Spectrogram 1	1	86789.0	86792.0	0	12000.0	Herring Gull	hergul	0.6510	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_181500.wav	29.0
+349	Spectrogram 1	1	86881.0	86884.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.7397	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	1.0
+350	Spectrogram 1	1	86882.0	86885.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.7592	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	2.0
+351	Spectrogram 1	1	86883.0	86886.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.8105	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	3.0
+352	Spectrogram 1	1	86885.0	86888.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.6018	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	5.0
+353	Spectrogram 1	1	86886.0	86889.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.7752	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	6.0
+354	Spectrogram 1	1	86887.0	86890.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.8635	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	7.0
+355	Spectrogram 1	1	86888.0	86891.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.8981	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	8.0
+356	Spectrogram 1	1	86889.0	86892.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.8450	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	9.0
+357	Spectrogram 1	1	86908.0	86911.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.7929	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	28.0
+358	Spectrogram 1	1	86909.0	86912.0	0	12000.0	Common Wood-Pigeon	cowpig1	0.5962	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_182500.wav	29.0
+359	Spectrogram 1	1	87049.0	87052.0	0	12000.0	Herring Gull	hergul	0.5798	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_183500.wav	49.0
+360	Spectrogram 1	1	87050.0	87053.0	0	12000.0	Herring Gull	hergul	0.6801	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_183500.wav	50.0
+361	Spectrogram 1	1	87051.0	87054.0	0	12000.0	Herring Gull	hergul	0.6487	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_183500.wav	51.0
+362	Spectrogram 1	1	87098.0	87101.0	0	12000.0	Herring Gull	hergul	0.5443	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_184000.wav	38.0
+363	Spectrogram 1	1	87099.0	87102.0	0	12000.0	Herring Gull	hergul	0.5815	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_184000.wav	39.0
+364	Spectrogram 1	1	87100.0	87103.0	0	12000.0	Herring Gull	hergul	0.5901	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_184000.wav	40.0
+365	Spectrogram 1	1	87211.0	87214.0	0	12000.0	Carrion Crow	carcro1	0.5256	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_185000.wav	31.0
+366	Spectrogram 1	1	87213.0	87216.0	0	12000.0	Carrion Crow	carcro1	0.5722	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_185000.wav	33.0
+367	Spectrogram 1	1	87214.0	87217.0	0	12000.0	Carrion Crow	carcro1	0.6644	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_185000.wav	34.0
+368	Spectrogram 1	1	87215.0	87218.0	0	12000.0	Carrion Crow	carcro1	0.6202	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_185000.wav	35.0
+369	Spectrogram 1	1	87320.0	87323.0	0	12000.0	Herring Gull	hergul	0.5117	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_190000.wav	20.0
+370	Spectrogram 1	1	87321.0	87324.0	0	12000.0	Herring Gull	hergul	0.5351	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_190000.wav	21.0
+371	Spectrogram 1	1	87348.0	87351.0	0	12000.0	Herring Gull	hergul	0.5257	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_190000.wav	48.0
+372	Spectrogram 1	1	87349.0	87352.0	0	12000.0	Herring Gull	hergul	0.5253	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_190000.wav	49.0
+373	Spectrogram 1	1	87514.0	87517.0	0	12000.0	Herring Gull	hergul	0.5335	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_191500.wav	34.0
+374	Spectrogram 1	1	88935.0	88938.0	0	12000.0	Herring Gull	hergul	0.5047	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_211502.wav	27.0
+375	Spectrogram 1	1	88936.0	88939.0	0	12000.0	Herring Gull	hergul	0.5121	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_211502.wav	28.0
+376	Spectrogram 1	1	88937.0	88940.0	0	12000.0	Herring Gull	hergul	0.6385	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_211502.wav	29.0
+377	Spectrogram 1	1	88961.0	88964.0	0	12000.0	Herring Gull	hergul	0.5032	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_211502.wav	53.0
+378	Spectrogram 1	1	89239.0	89242.0	0	12000.0	Herring Gull	hergul	0.6373	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214002.wav	46.0
+379	Spectrogram 1	1	89246.0	89249.0	0	12000.0	Herring Gull	hergul	0.5855	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214002.wav	53.0
+380	Spectrogram 1	1	89265.0	89268.0	0	12000.0	Herring Gull	hergul	0.6822	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214502.wav	15.0
+381	Spectrogram 1	1	89266.0	89269.0	0	12000.0	Herring Gull	hergul	0.7323	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214502.wav	16.0
+382	Spectrogram 1	1	89267.0	89270.0	0	12000.0	Herring Gull	hergul	0.8045	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214502.wav	17.0
+383	Spectrogram 1	1	89268.0	89271.0	0	12000.0	Herring Gull	hergul	0.7987	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214502.wav	18.0
+384	Spectrogram 1	1	89269.0	89272.0	0	12000.0	Herring Gull	hergul	0.7571	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214502.wav	19.0
+385	Spectrogram 1	1	89270.0	89273.0	0	12000.0	Herring Gull	hergul	0.6957	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214502.wav	20.0
+386	Spectrogram 1	1	89271.0	89274.0	0	12000.0	Herring Gull	hergul	0.6557	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214502.wav	21.0
+387	Spectrogram 1	1	89272.0	89275.0	0	12000.0	Herring Gull	hergul	0.6066	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_214502.wav	22.0
+388	Spectrogram 1	1	89960.0	89963.0	0	12000.0	Herring Gull	hergul	0.5295	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_224502.wav	26.0
+389	Spectrogram 1	1	90162.0	90165.0	0	12000.0	Little Ringed Plover	lirplo	0.5062	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_230502.wav	0
+390	Spectrogram 1	1	90165.0	90168.0	0	12000.0	Herring Gull	hergul	0.6092	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_230502.wav	3.0
+391	Spectrogram 1	1	90166.0	90169.0	0	12000.0	Herring Gull	hergul	0.6197	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_230502.wav	4.0
+392	Spectrogram 1	1	90167.0	90170.0	0	12000.0	Herring Gull	hergul	0.5590	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_230502.wav	5.0
+393	Spectrogram 1	1	90168.0	90171.0	0	12000.0	Herring Gull	hergul	0.7036	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_230502.wav	6.0
+394	Spectrogram 1	1	90172.0	90175.0	0	12000.0	Herring Gull	hergul	0.5128	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240623_230502.wav	10.0
+395	Spectrogram 1	1	91827.0	91830.0	0	12000.0	Herring Gull	hergul	0.5282	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_013002.wav	12.0
+396	Spectrogram 1	1	92092.0	92095.0	0	12000.0	Herring Gull	hergul	0.5073	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_015002.wav	49.0
+397	Spectrogram 1	1	92093.0	92096.0	0	12000.0	Herring Gull	hergul	0.5017	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_015002.wav	50.0
+398	Spectrogram 1	1	92094.0	92097.0	0	12000.0	Herring Gull	hergul	0.5598	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_015002.wav	51.0
+399	Spectrogram 1	1	92095.0	92098.0	0	12000.0	Herring Gull	hergul	0.5488	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_015002.wav	52.0
+400	Spectrogram 1	1	92517.0	92520.0	0	12000.0	Dunlin	dunlin	0.5644	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_023002.wav	18.0
+401	Spectrogram 1	1	93445.0	93448.0	0	12000.0	Herring Gull	hergul	0.6921	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_035002.wav	34.0
+402	Spectrogram 1	1	93449.0	93452.0	0	12000.0	Herring Gull	hergul	0.5573	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_035002.wav	38.0
+403	Spectrogram 1	1	93450.0	93453.0	0	12000.0	Herring Gull	hergul	0.5785	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_035002.wav	39.0
+404	Spectrogram 1	1	93554.0	93557.0	0	12000.0	Herring Gull	hergul	0.6962	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_040002.wav	29.0
+405	Spectrogram 1	1	93555.0	93558.0	0	12000.0	Herring Gull	hergul	0.7196	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_040002.wav	30.0
+406	Spectrogram 1	1	93556.0	93559.0	0	12000.0	Herring Gull	hergul	0.6753	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_040002.wav	31.0
+407	Spectrogram 1	1	93609.0	93612.0	0	12000.0	Gray Heron	graher1	0.5090	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_040502.wav	27.0
+408	Spectrogram 1	1	93665.0	93668.0	0	12000.0	Herring Gull	hergul	0.5136	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_041002.wav	26.0
+409	Spectrogram 1	1	93670.0	93673.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5283	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_041002.wav	31.0
+410	Spectrogram 1	1	93671.0	93674.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5716	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_041002.wav	32.0
+411	Spectrogram 1	1	93674.0	93677.0	0	12000.0	Herring Gull	hergul	0.5531	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_041002.wav	35.0
+412	Spectrogram 1	1	93719.0	93722.0	0	12000.0	Graylag Goose	gragoo	0.5408	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_041502.wav	23.0
+413	Spectrogram 1	1	93795.0	93798.0	0	12000.0	Herring Gull	hergul	0.6599	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_042002.wav	42.0
+414	Spectrogram 1	1	93796.0	93799.0	0	12000.0	Herring Gull	hergul	0.5535	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_042002.wav	43.0
+415	Spectrogram 1	1	93811.0	93814.0	0	12000.0	Herring Gull	hergul	0.6426	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_042502.wav	1.0
+416	Spectrogram 1	1	93812.0	93815.0	0	12000.0	Herring Gull	hergul	0.5125	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_042502.wav	2.0
+417	Spectrogram 1	1	93834.0	93837.0	0	12000.0	Herring Gull	hergul	0.5145	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_042502.wav	24.0
+418	Spectrogram 1	1	93969.0	93972.0	0	12000.0	Herring Gull	hergul	0.6022	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_043502.wav	45.0
+419	Spectrogram 1	1	93970.0	93973.0	0	12000.0	Herring Gull	hergul	0.6519	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_043502.wav	46.0
+420	Spectrogram 1	1	93971.0	93974.0	0	12000.0	Herring Gull	hergul	0.6769	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_043502.wav	47.0
+421	Spectrogram 1	1	94057.0	94060.0	0	12000.0	Herring Gull	hergul	0.6623	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_044502.wav	19.0
+422	Spectrogram 1	1	94058.0	94061.0	0	12000.0	Herring Gull	hergul	0.6511	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_044502.wav	20.0
+423	Spectrogram 1	1	94059.0	94062.0	0	12000.0	Herring Gull	hergul	0.7191	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_044502.wav	21.0
+424	Spectrogram 1	1	94060.0	94063.0	0	12000.0	Herring Gull	hergul	0.6223	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_044502.wav	22.0
+425	Spectrogram 1	1	94061.0	94064.0	0	12000.0	Herring Gull	hergul	0.6745	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_044502.wav	23.0
+426	Spectrogram 1	1	94062.0	94065.0	0	12000.0	Herring Gull	hergul	0.6094	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_044502.wav	24.0
+427	Spectrogram 1	1	94112.0	94115.0	0	12000.0	Herring Gull	hergul	0.5577	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_045002.wav	17.0
+428	Spectrogram 1	1	94740.0	94743.0	0	12000.0	Mallard	mallar3	0.6109	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	0
+429	Spectrogram 1	1	94741.0	94744.0	0	12000.0	Carrion Crow	carcro1	0.6595	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	1.0
+430	Spectrogram 1	1	94742.0	94745.0	0	12000.0	Carrion Crow	carcro1	0.6827	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	2.0
+431	Spectrogram 1	1	94743.0	94746.0	0	12000.0	Carrion Crow	carcro1	0.5249	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	3.0
+432	Spectrogram 1	1	94749.0	94752.0	0	12000.0	Mallard	mallar3	0.7543	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	9.0
+433	Spectrogram 1	1	94750.0	94753.0	0	12000.0	Mallard	mallar3	0.6952	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	10.0
+434	Spectrogram 1	1	94751.0	94754.0	0	12000.0	Carrion Crow	carcro1	0.6219	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	11.0
+435	Spectrogram 1	1	94752.0	94755.0	0	12000.0	Carrion Crow	carcro1	0.5262	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	12.0
+436	Spectrogram 1	1	94753.0	94756.0	0	12000.0	Carrion Crow	carcro1	0.5442	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	13.0
+437	Spectrogram 1	1	94781.0	94784.0	0	12000.0	Carrion Crow	carcro1	0.5283	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_054500.wav	41.0
+438	Spectrogram 1	1	94815.0	94818.0	0	12000.0	Green-winged Teal	gnwtea	0.6269	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_055000.wav	15.0
+439	Spectrogram 1	1	95095.0	95098.0	0	12000.0	Canada Goose	cangoo	0.5603	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_061000.wav	55.0
+440	Spectrogram 1	1	95096.0	95099.0	0	12000.0	Canada Goose	cangoo	0.6249	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_061000.wav	56.0
+441	Spectrogram 1	1	95421.0	95424.0	0	12000.0	Herring Gull	hergul	0.5262	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_064000.wav	21.0
+442	Spectrogram 1	1	95779.0	95782.0	0	12000.0	Herring Gull	hergul	0.6351	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_071000.wav	19.0
+443	Spectrogram 1	1	96844.0	96847.0	0	12000.0	Herring Gull	hergul	0.6326	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084000.wav	4.0
+444	Spectrogram 1	1	96845.0	96848.0	0	12000.0	Herring Gull	hergul	0.5373	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084000.wav	5.0
+445	Spectrogram 1	1	96851.0	96854.0	0	12000.0	Herring Gull	hergul	0.5325	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084000.wav	11.0
+446	Spectrogram 1	1	96865.0	96868.0	0	12000.0	Herring Gull	hergul	0.5490	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084000.wav	25.0
+447	Spectrogram 1	1	96866.0	96869.0	0	12000.0	Herring Gull	hergul	0.5925	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084000.wav	26.0
+448	Spectrogram 1	1	96896.0	96899.0	0	12000.0	Herring Gull	hergul	0.5019	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084000.wav	56.0
+449	Spectrogram 1	1	96897.0	96900.0	0	12000.0	Herring Gull	hergul	0.6026	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084000.wav	57.0
+450	Spectrogram 1	1	96920.0	96923.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5020	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084500.wav	20.0
+451	Spectrogram 1	1	96921.0	96924.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5439	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_084500.wav	21.0
+452	Spectrogram 1	1	96960.0	96963.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5519	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_085000.wav	0
+453	Spectrogram 1	1	96964.0	96967.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5722	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_085000.wav	4.0
+454	Spectrogram 1	1	96969.0	96972.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5587	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_085000.wav	9.0
+455	Spectrogram 1	1	96980.0	96983.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5055	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_085000.wav	20.0
+456	Spectrogram 1	1	96984.0	96987.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5114	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_085000.wav	24.0
+457	Spectrogram 1	1	96989.0	96992.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5075	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_085000.wav	29.0
+458	Spectrogram 1	1	97017.0	97020.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5400	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_085000.wav	57.0
+459	Spectrogram 1	1	97117.0	97120.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5626	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090000.wav	37.0
+460	Spectrogram 1	1	97189.0	97192.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5694	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	49.0
+461	Spectrogram 1	1	97190.0	97193.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6020	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	50.0
+462	Spectrogram 1	1	97191.0	97194.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6195	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	51.0
+463	Spectrogram 1	1	97192.0	97195.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6233	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	52.0
+464	Spectrogram 1	1	97193.0	97196.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6368	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	53.0
+465	Spectrogram 1	1	97194.0	97197.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6576	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	54.0
+466	Spectrogram 1	1	97195.0	97198.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6171	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	55.0
+467	Spectrogram 1	1	97196.0	97199.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5683	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	56.0
+468	Spectrogram 1	1	97197.0	97200.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5506	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_090500.wav	57.0
+469	Spectrogram 1	1	97443.0	97446.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5615	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_093000.wav	3.0
+470	Spectrogram 1	1	97444.0	97447.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5090	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_093000.wav	4.0
+471	Spectrogram 1	1	97463.0	97466.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5843	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_093000.wav	23.0
+472	Spectrogram 1	1	97467.0	97470.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5370	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_093000.wav	27.0
+473	Spectrogram 1	1	97468.0	97471.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5465	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_093000.wav	28.0
+474	Spectrogram 1	1	97469.0	97472.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5251	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_093000.wav	29.0
+475	Spectrogram 1	1	97485.0	97488.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5102	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_093000.wav	45.0
+476	Spectrogram 1	1	97620.0	97623.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5664	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_094500.wav	0
+477	Spectrogram 1	1	97635.0	97638.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5481	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_094500.wav	15.0
+478	Spectrogram 1	1	97640.0	97643.0	0	12000.0	Eurasian Blue Tit	blutit	0.5613	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_094500.wav	20.0
+479	Spectrogram 1	1	97669.0	97672.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5702	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_094500.wav	49.0
+480	Spectrogram 1	1	97670.0	97673.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5715	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_094500.wav	50.0
+481	Spectrogram 1	1	97671.0	97674.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5047	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_094500.wav	51.0
+482	Spectrogram 1	1	97677.0	97680.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5197	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_094500.wav	57.0
+483	Spectrogram 1	1	97801.0	97804.0	0	12000.0	Eurasian Blue Tit	blutit	0.5218	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	1.0
+484	Spectrogram 1	1	97802.0	97805.0	0	12000.0	Eurasian Blue Tit	blutit	0.5507	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	2.0
+485	Spectrogram 1	1	97805.0	97808.0	0	12000.0	Great Tit	gretit1	0.7874	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	5.0
+486	Spectrogram 1	1	97806.0	97809.0	0	12000.0	Gray Wagtail	grywag	0.7599	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	6.0
+487	Spectrogram 1	1	97820.0	97823.0	0	12000.0	Eurasian Blue Tit	blutit	0.6724	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	20.0
+488	Spectrogram 1	1	97821.0	97824.0	0	12000.0	Eurasian Blue Tit	blutit	0.5821	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	21.0
+489	Spectrogram 1	1	97824.0	97827.0	0	12000.0	Eurasian Blue Tit	blutit	0.6155	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	24.0
+490	Spectrogram 1	1	97825.0	97828.0	0	12000.0	Eurasian Blue Tit	blutit	0.5382	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	25.0
+491	Spectrogram 1	1	97826.0	97829.0	0	12000.0	Eurasian Blue Tit	blutit	0.6737	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	26.0
+492	Spectrogram 1	1	97834.0	97837.0	0	12000.0	Eurasian Blue Tit	blutit	0.6677	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	34.0
+493	Spectrogram 1	1	97835.0	97838.0	0	12000.0	Eurasian Blue Tit	blutit	0.7168	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	35.0
+494	Spectrogram 1	1	97836.0	97839.0	0	12000.0	Eurasian Blue Tit	blutit	0.7986	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	36.0
+495	Spectrogram 1	1	97837.0	97840.0	0	12000.0	Eurasian Blue Tit	blutit	0.6948	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	37.0
+496	Spectrogram 1	1	97838.0	97841.0	0	12000.0	Eurasian Blue Tit	blutit	0.7623	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	38.0
+497	Spectrogram 1	1	97839.0	97842.0	0	12000.0	Eurasian Blue Tit	blutit	0.7256	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	39.0
+498	Spectrogram 1	1	97841.0	97844.0	0	12000.0	Eurasian Blue Tit	blutit	0.7767	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	41.0
+499	Spectrogram 1	1	97843.0	97846.0	0	12000.0	Eurasian Blue Tit	blutit	0.6894	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	43.0
+500	Spectrogram 1	1	97846.0	97849.0	0	12000.0	Long-tailed Tit	lottit1	0.5754	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	46.0
+501	Spectrogram 1	1	97848.0	97851.0	0	12000.0	Eurasian Blue Tit	blutit	0.5911	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	48.0
+502	Spectrogram 1	1	97849.0	97852.0	0	12000.0	Eurasian Blue Tit	blutit	0.5502	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	49.0
+503	Spectrogram 1	1	97850.0	97853.0	0	12000.0	Eurasian Blue Tit	blutit	0.5919	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	50.0
+504	Spectrogram 1	1	97851.0	97854.0	0	12000.0	Eurasian Blue Tit	blutit	0.5605	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_100000.wav	51.0
+505	Spectrogram 1	1	98821.0	98824.0	0	12000.0	Eurasian Blue Tit	blutit	0.5982	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	1.0
+506	Spectrogram 1	1	98822.0	98825.0	0	12000.0	Eurasian Blue Tit	blutit	0.6602	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	2.0
+507	Spectrogram 1	1	98823.0	98826.0	0	12000.0	Eurasian Blue Tit	blutit	0.6710	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	3.0
+508	Spectrogram 1	1	98835.0	98838.0	0	12000.0	Eurasian Blue Tit	blutit	0.6072	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	15.0
+509	Spectrogram 1	1	98836.0	98839.0	0	12000.0	Eurasian Blue Tit	blutit	0.6107	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	16.0
+510	Spectrogram 1	1	98837.0	98840.0	0	12000.0	Eurasian Blue Tit	blutit	0.5283	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	17.0
+511	Spectrogram 1	1	98843.0	98846.0	0	12000.0	Eurasian Blue Tit	blutit	0.6302	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	23.0
+512	Spectrogram 1	1	98844.0	98847.0	0	12000.0	Eurasian Blue Tit	blutit	0.7947	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	24.0
+513	Spectrogram 1	1	98845.0	98848.0	0	12000.0	Eurasian Blue Tit	blutit	0.7530	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	25.0
+514	Spectrogram 1	1	98854.0	98857.0	0	12000.0	Eurasian Blue Tit	blutit	0.5381	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	34.0
+515	Spectrogram 1	1	98856.0	98859.0	0	12000.0	Eurasian Blue Tit	blutit	0.5315	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	36.0
+516	Spectrogram 1	1	98861.0	98864.0	0	12000.0	Eurasian Blue Tit	blutit	0.6409	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	41.0
+517	Spectrogram 1	1	98862.0	98865.0	0	12000.0	Eurasian Blue Tit	blutit	0.7250	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	42.0
+518	Spectrogram 1	1	98863.0	98866.0	0	12000.0	Eurasian Blue Tit	blutit	0.6376	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_112500.wav	43.0
+519	Spectrogram 1	1	103284.0	103287.0	0	12000.0	Herring Gull	hergul	0.5252	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_173500.wav	24.0
+520	Spectrogram 1	1	103314.0	103317.0	0	12000.0	Herring Gull	hergul	0.5231	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_173500.wav	54.0
+521	Spectrogram 1	1	103315.0	103318.0	0	12000.0	Herring Gull	hergul	0.5412	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_173500.wav	55.0
+522	Spectrogram 1	1	103316.0	103319.0	0	12000.0	Herring Gull	hergul	0.5466	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_173500.wav	56.0
+523	Spectrogram 1	1	103317.0	103320.0	0	12000.0	Herring Gull	hergul	0.5718	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_173500.wav	57.0
+524	Spectrogram 1	1	104298.0	104301.0	0	12000.0	Rock Pigeon	rocpig	0.5996	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_190000.wav	18.0
+525	Spectrogram 1	1	105717.0	105720.0	0	12000.0	Herring Gull	hergul	0.6525	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_210002.wav	0
+526	Spectrogram 1	1	105718.0	105721.0	0	12000.0	Herring Gull	hergul	0.6439	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_210002.wav	1.0
+527	Spectrogram 1	1	105719.0	105722.0	0	12000.0	Herring Gull	hergul	0.7424	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_210002.wav	2.0
+528	Spectrogram 1	1	105720.0	105723.0	0	12000.0	Herring Gull	hergul	0.7048	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_210002.wav	3.0
+529	Spectrogram 1	1	105721.0	105724.0	0	12000.0	Herring Gull	hergul	0.6892	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_210002.wav	4.0
+530	Spectrogram 1	1	105722.0	105725.0	0	12000.0	Herring Gull	hergul	0.6441	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240624_210002.wav	5.0
+531	Spectrogram 1	1	108991.0	108994.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5379	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_014502.wav	25.0
+532	Spectrogram 1	1	110191.0	110194.0	0	12000.0	Herring Gull	hergul	0.5167	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_033002.wav	28.0
+533	Spectrogram 1	1	110417.0	110420.0	0	12000.0	Herring Gull	hergul	0.5846	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_035002.wav	26.0
+534	Spectrogram 1	1	110418.0	110421.0	0	12000.0	Herring Gull	hergul	0.6025	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_035002.wav	27.0
+535	Spectrogram 1	1	110419.0	110422.0	0	12000.0	Herring Gull	hergul	0.6831	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_035002.wav	28.0
+536	Spectrogram 1	1	110420.0	110423.0	0	12000.0	Herring Gull	hergul	0.6573	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_035002.wav	29.0
+537	Spectrogram 1	1	110421.0	110424.0	0	12000.0	Herring Gull	hergul	0.6180	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_035002.wav	30.0
+538	Spectrogram 1	1	110588.0	110591.0	0	12000.0	Herring Gull	hergul	0.6310	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_040502.wav	26.0
+539	Spectrogram 1	1	110589.0	110592.0	0	12000.0	Herring Gull	hergul	0.5703	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_040502.wav	27.0
+540	Spectrogram 1	1	110601.0	110604.0	0	12000.0	Herring Gull	hergul	0.5794	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_040502.wav	39.0
+541	Spectrogram 1	1	110602.0	110605.0	0	12000.0	Herring Gull	hergul	0.5422	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_040502.wav	40.0
+542	Spectrogram 1	1	110607.0	110610.0	0	12000.0	Herring Gull	hergul	0.6064	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_040502.wav	45.0
+543	Spectrogram 1	1	110673.0	110676.0	0	12000.0	Herring Gull	hergul	0.5739	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_041002.wav	54.0
+544	Spectrogram 1	1	110725.0	110728.0	0	12000.0	Herring Gull	hergul	0.7290	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_041502.wav	49.0
+545	Spectrogram 1	1	110727.0	110730.0	0	12000.0	Herring Gull	hergul	0.5294	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_041502.wav	51.0
+546	Spectrogram 1	1	110739.0	110742.0	0	12000.0	Herring Gull	hergul	0.5634	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	6.0
+547	Spectrogram 1	1	110740.0	110743.0	0	12000.0	Herring Gull	hergul	0.6479	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	7.0
+548	Spectrogram 1	1	110741.0	110744.0	0	12000.0	Herring Gull	hergul	0.6402	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	8.0
+549	Spectrogram 1	1	110742.0	110745.0	0	12000.0	Herring Gull	hergul	0.5901	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	9.0
+550	Spectrogram 1	1	110751.0	110754.0	0	12000.0	Herring Gull	hergul	0.5052	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	18.0
+551	Spectrogram 1	1	110752.0	110755.0	0	12000.0	Herring Gull	hergul	0.6425	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	19.0
+552	Spectrogram 1	1	110753.0	110756.0	0	12000.0	Herring Gull	hergul	0.6095	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	20.0
+553	Spectrogram 1	1	110754.0	110757.0	0	12000.0	Herring Gull	hergul	0.5696	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	21.0
+554	Spectrogram 1	1	110755.0	110758.0	0	12000.0	Herring Gull	hergul	0.6007	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	22.0
+555	Spectrogram 1	1	110760.0	110763.0	0	12000.0	Herring Gull	hergul	0.5305	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	27.0
+556	Spectrogram 1	1	110763.0	110766.0	0	12000.0	Herring Gull	hergul	0.5925	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	30.0
+557	Spectrogram 1	1	110764.0	110767.0	0	12000.0	Herring Gull	hergul	0.7081	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	31.0
+558	Spectrogram 1	1	110765.0	110768.0	0	12000.0	Herring Gull	hergul	0.6061	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	32.0
+559	Spectrogram 1	1	110766.0	110769.0	0	12000.0	Herring Gull	hergul	0.6597	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	33.0
+560	Spectrogram 1	1	110767.0	110770.0	0	12000.0	Herring Gull	hergul	0.5955	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	34.0
+561	Spectrogram 1	1	110768.0	110771.0	0	12000.0	Herring Gull	hergul	0.6521	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	35.0
+562	Spectrogram 1	1	110769.0	110772.0	0	12000.0	Herring Gull	hergul	0.5281	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	36.0
+563	Spectrogram 1	1	110771.0	110774.0	0	12000.0	Northern Lapwing	norlap	0.5004	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042002.wav	38.0
+564	Spectrogram 1	1	110836.0	110839.0	0	12000.0	Herring Gull	hergul	0.5509	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042502.wav	46.0
+565	Spectrogram 1	1	110840.0	110843.0	0	12000.0	Herring Gull	hergul	0.7764	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042502.wav	50.0
+566	Spectrogram 1	1	110841.0	110844.0	0	12000.0	Herring Gull	hergul	0.8064	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042502.wav	51.0
+567	Spectrogram 1	1	110842.0	110845.0	0	12000.0	Herring Gull	hergul	0.7434	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042502.wav	52.0
+568	Spectrogram 1	1	110843.0	110846.0	0	12000.0	Herring Gull	hergul	0.6650	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_042502.wav	53.0
+569	Spectrogram 1	1	110966.0	110969.0	0	12000.0	Herring Gull	hergul	0.5052	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_044002.wav	5.0
+570	Spectrogram 1	1	110981.0	110984.0	0	12000.0	Herring Gull	hergul	0.6119	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_044002.wav	20.0
+571	Spectrogram 1	1	111000.0	111003.0	0	12000.0	Eurasian Coot	eurcoo	0.7983	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_044002.wav	39.0
+572	Spectrogram 1	1	111001.0	111004.0	0	12000.0	Eurasian Coot	eurcoo	0.7378	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_044002.wav	40.0
+573	Spectrogram 1	1	111009.0	111012.0	0	12000.0	Herring Gull	hergul	0.6883	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_044002.wav	48.0
+574	Spectrogram 1	1	111010.0	111013.0	0	12000.0	Herring Gull	hergul	0.5919	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_044002.wav	49.0
+575	Spectrogram 1	1	111091.0	111094.0	0	12000.0	Herring Gull	hergul	0.5040	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	16.0
+576	Spectrogram 1	1	111095.0	111098.0	0	12000.0	Herring Gull	hergul	0.6778	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	20.0
+577	Spectrogram 1	1	111096.0	111099.0	0	12000.0	Herring Gull	hergul	0.6864	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	21.0
+578	Spectrogram 1	1	111097.0	111100.0	0	12000.0	Herring Gull	hergul	0.5578	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	22.0
+579	Spectrogram 1	1	111098.0	111101.0	0	12000.0	Herring Gull	hergul	0.5870	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	23.0
+580	Spectrogram 1	1	111099.0	111102.0	0	12000.0	Herring Gull	hergul	0.6101	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	24.0
+581	Spectrogram 1	1	111100.0	111103.0	0	12000.0	Herring Gull	hergul	0.5994	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	25.0
+582	Spectrogram 1	1	111101.0	111104.0	0	12000.0	Herring Gull	hergul	0.6919	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	26.0
+583	Spectrogram 1	1	111113.0	111116.0	0	12000.0	Herring Gull	hergul	0.6620	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	38.0
+584	Spectrogram 1	1	111114.0	111117.0	0	12000.0	Herring Gull	hergul	0.6057	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	39.0
+585	Spectrogram 1	1	111115.0	111118.0	0	12000.0	Herring Gull	hergul	0.6600	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_045002.wav	40.0
+586	Spectrogram 1	1	111270.0	111273.0	0	12000.0	Mallard	mallar3	0.5325	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_050502.wav	24.0
+587	Spectrogram 1	1	111271.0	111274.0	0	12000.0	Mallard	mallar3	0.5483	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_050502.wav	25.0
+588	Spectrogram 1	1	111549.0	111552.0	0	12000.0	European Goldfinch	eurgol	0.7833	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_053000.wav	9.0
+589	Spectrogram 1	1	111550.0	111553.0	0	12000.0	European Goldfinch	eurgol	0.8298	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_053000.wav	10.0
+590	Spectrogram 1	1	112055.0	112058.0	0	12000.0	European Goldfinch	eurgol	0.8805	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_061000.wav	35.0
+591	Spectrogram 1	1	112056.0	112059.0	0	12000.0	European Goldfinch	eurgol	0.5496	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_061000.wav	36.0
+592	Spectrogram 1	1	113342.0	113345.0	0	12000.0	Eurasian Blue Tit	blutit	0.5995	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	2.0
+593	Spectrogram 1	1	113347.0	113350.0	0	12000.0	Gray Wagtail	grywag	0.6872	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	7.0
+594	Spectrogram 1	1	113353.0	113356.0	0	12000.0	Eurasian Blue Tit	blutit	0.5966	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	13.0
+595	Spectrogram 1	1	113356.0	113359.0	0	12000.0	Eurasian Blue Tit	blutit	0.6745	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	16.0
+596	Spectrogram 1	1	113357.0	113360.0	0	12000.0	Eurasian Blue Tit	blutit	0.5956	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	17.0
+597	Spectrogram 1	1	113358.0	113361.0	0	12000.0	Eurasian Blue Tit	blutit	0.5402	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	18.0
+598	Spectrogram 1	1	113361.0	113364.0	0	12000.0	Eurasian Blue Tit	blutit	0.6581	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	21.0
+599	Spectrogram 1	1	113362.0	113365.0	0	12000.0	Eurasian Blue Tit	blutit	0.6492	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	22.0
+600	Spectrogram 1	1	113363.0	113366.0	0	12000.0	Eurasian Blue Tit	blutit	0.6005	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	23.0
+601	Spectrogram 1	1	113364.0	113367.0	0	12000.0	Gray Wagtail	grywag	0.6394	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	24.0
+602	Spectrogram 1	1	113366.0	113369.0	0	12000.0	Eurasian Blue Tit	blutit	0.5648	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	26.0
+603	Spectrogram 1	1	113367.0	113370.0	0	12000.0	Eurasian Blue Tit	blutit	0.5844	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	27.0
+604	Spectrogram 1	1	113368.0	113371.0	0	12000.0	Eurasian Blue Tit	blutit	0.6569	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_080000.wav	28.0
+605	Spectrogram 1	1	113994.0	113997.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5360	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_085000.wav	54.0
+606	Spectrogram 1	1	114006.0	114009.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.5397	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_085500.wav	6.0
+607	Spectrogram 1	1	114008.0	114011.0	0	12000.0	Lesser Black-backed Gull	lbbgul	0.6312	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_085500.wav	8.0
+608	Spectrogram 1	1	114995.0	114998.0	0	12000.0	Herring Gull	hergul	0.5271	C:\Users\ikb23\OneDrive - Imperial College London\Desktop\60 london wall data\Data2\60LONDONWALL_20240625_101500.wav	35.0
