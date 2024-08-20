@@ -1,7 +1,7 @@
 # This respository contains the following data and R scripts:
 
 # Data:
-BirdNET_tables - folder containing txt files of initial BirdNET output tables for each study site.
+BirdNET_tables - folder containing text files of initial BirdNET output tables for each study site.
 
 SiteCharacteristics - csv file containing the site characteristics data for every study site.
 
