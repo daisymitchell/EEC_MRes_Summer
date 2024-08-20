@@ -1,5 +1,7 @@
 # EEC_MRes_Summer respository contains the following data and R scripts, for the following purposes:
 
+Data/
+
 # Data:
 # BirdNET_tables - initial BirdNET output tables as txt files with one for each study site
 # Sites - csv file containing the site characteristic data for every study site
