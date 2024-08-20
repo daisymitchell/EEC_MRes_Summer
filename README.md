@@ -1,4 +1,4 @@
-# This respository contains the following data and R scripts, for the following purposes:
+# This respository contains the following data and R scripts:
 
 # Data:
 BirdNET_tables - initial BirdNET output tables as txt files with one for each study site
