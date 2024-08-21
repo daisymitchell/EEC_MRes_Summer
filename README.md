@@ -6,7 +6,7 @@ BirdNET_tables - folder containing text files of initial BirdNET output tables f
 SiteCharacteristics - csv file containing the site characteristics data for every study site.
 
 # R scripts:
-BirdNET_table_process_final - combining BirdNET tables and filtering out multiple occurrences of the same species in the same minute.
+BirdNETtables - combining BirdNET tables and filtering out multiple occurrences of the same species in the same minute.
 
 ValidationBirdNET - stratified sampling to select observations for manual validation. 
 
@@ -16,4 +16,4 @@ BirdSpeciesRichness - all species richness analyses.
 
 BirdDissimilarity - all community composition analyses.
 
-CoL_Sites_Map - code to create a map of the City of London.
+CoLSitesMap - code to create a map of the City of London.
