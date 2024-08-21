@@ -263,7 +263,6 @@ abline(lm(sorensen_raw_pcoa_1 ~ log(heightplus), data = sites), col = "red")
 
 
 
-----------------------------------------------------------------------------------
   
 
 ################# ANOVA and TukeyHSD PCoA 1 by Site Type #####################
@@ -355,19 +354,8 @@ ggplot(sites, aes(x = Site_type, y = sorensen_raw_pcoa_1, fill = Site_type)) +
             vjust = -0.5, size = 6)
 
 
-----------------------------------------------------------------------------------
 
-########## linear model accounting for site type #############
-model_type <- lm(sorensen_raw_pcoa_1 ~ log(Area_m2) + X.Green_cover + Height_m + Site_type, data=sites)
-summary(model_type)
 
-AIC(model_type, model_all)
-### including site type increases AIC - do not include
-library(lme4)
-random_model <- lmer(sorensen_raw_pcoa_1 ~ log(Area_m2) + X.Green_cover + Height_m + (1 | Site_type), data = sites)
-summary(random_model)
-library(sjPlot)
-tab_model(random_model)
 
 ################## Fitting linear model ######################
 model_all <- lm(sorensen_raw_pcoa_1 ~ log(Area_m2) + X.Green_cover + Height_m, data=sites)
@@ -550,9 +538,6 @@ grid.arrange(
 
 
 
-
-
-----------------------------------------------------------------------------------------
 
 ######### For supp info: plots with site name labels added ###############
 library(ggrepel)
@@ -878,14 +863,6 @@ grid.arrange(
 
 
 
-  
-  
-  
-  
-  
-  
-  
-  
 
 
 
@@ -895,37 +872,7 @@ grid.arrange(
 
 
 
-------------------------------------------------------------------------------------------
-
-####### checking for fixed and random effects of site type ########
-class(sites$Site_type)
-as.factor(sites$Site_type)
-model_fix <- lm(sorensen_raw_pcoa_1 ~ log(Area_m2) + X.Green_cover + Height_m + Site_type, data=sites)
-summary(model_fix)
-# no significant effects of site type and including it increases AIC - worse model than model_all below (without site type)
-plot(model_fix)
-
-######### model simplification ??? ##########
-model_area_height <- lm(sorensen_raw_pcoa_1 ~ log(Area_m2) + Height_m, data = sites)
-summary(model_area_height)
-
-AIC(model_all, model_fix, model_area_height)
-
-------------------------------------------------------------------------------------------------
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
+#### old analyses ideas below
 
 ########## K-means on PCoA data ##############
 
@@ -986,51 +933,6 @@ ggplot(pcoa_data_merged, aes(x = sorensen_raw_pcoa_1.x, y = sorensen_raw_pcoa_2.
 
 
 
-
-
-###### trying to find height and area thresholds #######
-
-# for pcoa axis 1
-ggplot(sites, aes(x=log(Area_m2), y=sorensen_raw_pcoa_1)) + 
-  geom_point(aes(color = factor(Site_type))) +
-  geom_smooth(aes(color = factor(Site_type)), method = "lm", se = FALSE) +
-  labs(x = "Log of Area (m^2)", y = "Sorensen Raw PCoA 1", color = "Site Type") +
-  theme_minimal()
-
-
-ggplot(sites, aes(x=Height_m, y=sorensen_raw_pcoa_1))+
-  geom_point(aes(color = factor(Site_type)))+
-  geom_smooth(aes(color = factor(Site_type)), method = "lm", se = FALSE) +
-  labs(x = "Height (m)", y = "Sorensen Raw PCoA 1", color = "Site Type") +
-  theme_minimal()
-
-
-
-# for species richness
-ggplot(sites, aes(x=log(Area_m2), y=species_richness)) + 
-  geom_point(aes(color = factor(Site_type))) +
-  geom_smooth(aes(color = factor(Site_type)), method = "lm", se = FALSE) +
-  labs(x = "Log of Area (m^2)", y = "Species richness", color = "Site Type") +
-  theme_minimal()
-
-
-ggplot(sites, aes(x=Height_m, y=species_richness))+
-  geom_point(aes(color = factor(Site_type)))+
-  geom_smooth(aes(color = factor(Site_type)), method = "lm", se = FALSE) +
-  labs(x = "Height (m)", y = "Species richness", color = "Site Type") +
-  theme_minimal()
-
-#### do not have enough data for this
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------------------------------
 
 
 ######### Fuzzy C-means clustering on PCoA data ##########
