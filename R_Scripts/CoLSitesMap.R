@@ -6,7 +6,6 @@ setwd("/Users/daisymitchell/MyRCoursework/Code")
 library(ggplot2)
 library(dplyr)
 library(tidyr)
-
 library(osmdata)
 library(sf)
 library(ggmap)
