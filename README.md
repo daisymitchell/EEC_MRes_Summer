@@ -12,9 +12,7 @@ ValidationBirdNET - stratified sampling to select observations for manual valida
 
 BirdNETprecision - calculating precision based on manual validation results to determine per-species confidence score thresholds, and filtering out observations below these thresholds.
 
-CalculatingBirdDiversity - calculating the species richness of each site.
-
-BirdSpeciesRichness - all further species richness analyses.
+BirdSpeciesRichness - all species richness analyses.
 
 BirdDissimilarity - all community composition analyses.
 
