@@ -1,4 +1,5 @@
 rm(list=ls())
+dev.off()
 setwd("/Users/daisymitchell/MyRCoursework/Code")
 
 library(dplyr)
@@ -15,6 +16,9 @@ library(ape)
 library(ggplot2)
 library(reshape2)
 library(tibble)
+library(GGally)
+library(MASS)
+library(car)
 
 
 totalbirdnet_df <- read.csv("/Users/daisymitchell/Desktop/final_bird_dataset.csv")
@@ -76,30 +80,6 @@ write.csv(site_diversities, file = "/Users/daisymitchell/Desktop/site_diversitie
 
 
 
-rm(list=ls())
-dev.off()
-setwd("/Users/daisymitchell/MyRCoursework/Code")
-
-library(dplyr)
-library(tidyr)
-library(stringr)
-library(ggplot2)
-library(tidyverse)
-library(vegan)
-library(stats)
-library(lme4)
-library(broom)
-library(openxlsx)
-library(ape)
-library(ggplot2)
-library(reshape2)
-library(tibble)
-library(GGally)
-library(MASS)
-library(car)
-
-
-
 ### This df contains site diversity data and site parameters ###
 diversity <- read.csv("/Users/daisymitchell/Desktop/sites_shannons.csv")
 diversity <- diversity %>% dplyr::select(-X)
@@ -107,7 +87,7 @@ diversity <- diversity %>% dplyr::select(-X)
 
 ## Shannon diversity and total occurrences are potentially uninformative
 # both could be skewed by counting the same individual multiple times
-# species richness more reliable and more intuitive to interpret diversity index
+# species richness more reliable
 
 
 
@@ -401,52 +381,8 @@ null_dev <- summary(glm_pois)$null.deviance
 rsquared <- 1 - (deviance / null_dev)
 rsquared
 
-----------------------------------------------------------------------------------
 
-####### accounting for site type as fixed effect ########
-richdf$Site_type <- as.factor(richdf$Site_type)
-
-all_glm_pois <- glm(species_richness ~ log(Area_m2) + X.Green_cover + Height_m + Site_type, 
-                    family = poisson(link = "log"), 
-                    data = richdf)
-summary(all_glm_pois)
-
-AIC(all_glm_pois, glm_pois)
-
-par(mfrow = c(2,2))
-plot(all_glm_pois)
-
-
-----------------------------------------------------------------------------------
-  
-############# site type as random factor ############
-random_glm <- glmer(species_richness ~ log(Area_m2) + X.Green_cover + Height_m + (1|Site_type), 
-                    family = poisson(link = "log"),
-                    data=richdf)
-summary(random_glm)
-library(sjPlot)
-tab_model(random_glm)
-
-AIC(random_glm, glm_pois)
-
---------------------------------------------------------------------------------
-
-all_glm_anova <- anova(all_glm_pois)
-all_glm_anova
-
-library(multcomp)
-summary(glht(all_glm_pois, linfct = mcp(Site_type = "Tukey")))
-
-
-# Perform pairwise comparisons with Tukey adjustment
-library(emmeans)
-pairwise_comparisons <- emmeans(all_glm_pois, pairwise ~ Site_type, adjust = "tukey")
-summary(pairwise_comparisons)
-
-----------------------------------------------------------------------------------
-  
-
-  
+                       
 
 ######################### Plotting model ################################
 ##### significant effect of height so do species richness against height
