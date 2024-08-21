@@ -10,11 +10,11 @@ BirdNET_table_process_final - combining BirdNET tables and filtering out multipl
 
 ValidationBirdNET - stratified sampling to select observations for manual validation. 
 
-BirdNETprecision - calculating precision based on manual validation, to determine per-species confidence score thresholds.
+BirdNETprecision - calculating precision based on manual validation results to determine per-species confidence score thresholds, and filtering out observations below these thresholds.
 
-CalculatingBirdDiversity - calculating species richness of sites.
+CalculatingBirdDiversity - calculating the species richness of each site.
 
-BirdSpeciesRichness - all species richness analyses.
+BirdSpeciesRichness - all further species richness analyses.
 
 BirdDissimilarity - all community composition analyses.
 
